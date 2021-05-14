@@ -3,7 +3,7 @@
 ICT-Campin projekti
 
 
-##Kloonaus omalle koneelle
+## Kloonaus omalle koneelle
 
 Luo itsellesi HTTPS Git credentials for AWS CodeCommit
 AWS->hakuun IAM->Users->Oma nimi->Security credentials->HTTPS Git credentials Generate credentials ja ota talteen
