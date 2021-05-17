@@ -7,7 +7,7 @@ Omalla koneella komentoriviltä halutussa kansiossa seuraava komento:
 ```
 git clone https://git-codecommit.eu-west-1.amazonaws.com/v1/repos/leikkipaikat  
 ```
-Tämän jälkeen AWS kysyy kättäjänimeä ja salasanaa, jonee tulee juuri tuo äsken luomasi HTTPS tunnus ja salasana
+Tämän jälkeen AWS kysyy kättäjänimeä ja salasanaa, jonne tulee juuri tuo äsken luomasi HTTPS tunnus ja salasana.
 HOX! Kun ja jos copy pastaatte tuon, niin olkaa tarkkana ettei eteen tai perään jää välilyöntejä tms
 ## Rakenne ja käyttö  
 Frontille ja backille omat kansiot  
