@@ -30,13 +30,11 @@ class map(TemplateView):
         data = get.json()
 
         # for loop joka käy läpi ja ottaa tiedot marker dataan
+        geolocator = Nominatim(user_agent="my_request")
         for i in range(int(x)):
             street = data['result']['records'][i]['ALUE_SIJ']
             name = data['result']['records'][i]['ALUE_NIMI']
-
-            loc = street
-            geolocator = Nominatim(user_agent="my_request")
-            location = geolocator.geocode(loc)
+            location = geolocator.geocode(street)
 
             # Failcheck jos tiedossa tai haussa virhe
             if location != None:
