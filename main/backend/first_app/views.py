@@ -39,21 +39,14 @@ class map(TemplateView):
             location = geolocator.geocode(loc)
 
             # Failcheck jos tiedossa tai haussa virhe
-            if location == None:
-                location = ''
-                la = 0
-                lo = 0
-            else:
-                la = location.latitude
-                lo = location.longitude
-
-            # Tulostaa markerit kartalle
-            map.add_to(figure)
-            folium.Marker(
-                location=[la, lo],
-                popup=name + " " + street[0] + street[1:].lower(),
-                icon=folium.Icon(color='green', icon='tree', prefix='fa')
-            ).add_to(map)
+            if location != None:
+                # Tulostaa markerit kartalle
+                map.add_to(figure)
+                folium.Marker(
+                    location=[location.latitude, location.longitude],
+                    popup=name + " " + street[0] + street[1:].lower(),
+                    icon=folium.Icon(color='green', icon='tree', prefix='fa')
+                ).add_to(map)
 
         figure.render()
         return {"map": figure}
