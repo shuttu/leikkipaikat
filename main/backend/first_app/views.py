@@ -34,7 +34,7 @@ class map(TemplateView):
         for i in range(int(x)):
             street = data['result']['records'][i]['ALUE_SIJ']
             name = data['result']['records'][i]['ALUE_NIMI']
-            location = geolocator.geocode(street)
+            location = geolocator.geocode(street + ', Tampere')
 
             # Failcheck jos tiedossa tai haussa virhe
             if location != None:
