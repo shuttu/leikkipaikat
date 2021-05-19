@@ -16,8 +16,16 @@ develop branch josta jokainen kehittäjä tekee aina uuden branchin kun tekee uu
 ## Muuta  
 Linkki tuotteen toiminnan kuvaukseen: https://docs.google.com/presentation/d/1Occx07DRauU5S544Curdi1EFMcmJhN1ZxQm76jIDfd4/edit?usp=sharing  
 
+Frontendin pyörittäminen (windows)
 
-Serverin pyörittäminen (Windows)
+Esivaatiumus: Asenna Node.js koneellesi osoitteesta https://nodejs.org/en/download/
+
+1. Mene komentokehotteessa (cmd tai windows powershell tjsp) projektin \frontend\ hakemistoon (folder) 
+2. Frontendin readmessa on lyhyet komennot ja selitykset sen ajamiseen. Aja kuitenkin ensin komento "npm install"
+3. Aja "npm start" selainikkuna frontendiin aukeaa
+4. Kun haluat lopettaa, paina "ctrl-c" komentokehoitteessa ja sulje selainikkuna
+
+Backend Serverin pyörittäminen (Windows)
 
 1. Navigoi tiesi \backend\ folderiin cmd:ssä. Komennolla "cd <dir name>" pääsee siirtymään.
 2. Komennolla "python manage.py runserver" lähtee käytiin.
