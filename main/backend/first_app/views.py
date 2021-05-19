@@ -28,13 +28,3 @@ class map(TemplateView):
         figure.render()
         return {"map": figure}
 
-# leikkipaikat json-muotoon
-from django.http import JsonResponse
-from .leikkikentat import fetch_playgrounds
-
-def test_view(request):
-    data = {
-        'leikkikentat': fetch_playgrounds()
-    }
-    return JsonResponse(data)
-
