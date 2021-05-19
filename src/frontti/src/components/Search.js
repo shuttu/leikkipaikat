@@ -5,30 +5,40 @@ import JSONDATA from '../MOCK_DATA.json';
 
 function Search() {
 
-    const [searchTerm, setSearchTerm] = useState("");
+    const [inputValue, setInputValue] = useState("");
+
+    function handleInputChange(event) {
+        setInputValue(event.target.value);
+    }
     return (
         <>
         <div className="center">
-            <Form className="SearchBar">
-            <Form.Control
-            className="SearchBar"
-            type="text" 
-            placeholder="Hae" 
-            onChange={event => {setSearchTerm(event.target.value)}}
-            />
-            </Form>
-                    {/* Hakusivun napit, jotka ei tee vielä mitään */}
-                <Button type="button" className="btn custom-btn">Lähin</Button>
-                <Button type="button" className="btn custom-btn">Hiljaisin</Button>
+            
+            <Form >
+                <Form.Group className="SearchBar">
+                    <Form.Control
+                    className="SearchBar"
+                    type="text" 
+                    value={inputValue}
+                    placeholder="Hae" 
+                    onChange={handleInputChange}
+                    />
+                </Form.Group>
 
-                        {/* MOCK_DATA.json filussa tällä hetkellä id, name ja distance
-                        Datan haku ja filtteröinti MOCK_DATA.json filusta niin että hakukentän ollessa tyhjä 
-                        näytetään kaikki paikat järjestettynä distancen mukaan pienimmästä suurimpaan. 
-                        Hakukenttä toimii nimiä hakemalla */}
+                    {/* Hakusivun napit, jotka ei tee vielä mitään */}
+                    <Button type="button" className="btn custom-btn">Lähin</Button>
+                    <Button type="button" className="btn custom-btn">Hiljaisin</Button>
+            </Form>
+            
+                    {/* MOCK_DATA.json filussa tällä hetkellä id, name ja distance
+                    Datan haku ja filtteröinti MOCK_DATA.json filusta niin että hakukentän ollessa tyhjä 
+                    näytetään kaikki paikat järjestettynä distancen mukaan pienimmästä suurimpaan. 
+                    Hakukenttä toimii nimiä hakemalla */}
+
             {JSONDATA.filter((val) => {
-                if (searchTerm == "") {
+                if (inputValue == "") {
                     return val
-                } else if ( val.name.toLowerCase().startsWith(searchTerm.toLowerCase())) {
+                } else if ( val.name.toLowerCase().startsWith(inputValue.toLowerCase())) {
                     return val
                 }
             }).sort((a, b) => a.distance > b.distance ? 1 : -1 ) //Järjestetään distancen mukaan
