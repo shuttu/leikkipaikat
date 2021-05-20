@@ -46,34 +46,24 @@ function Search() {
                 return (
                         // Leikkipaikat listataan react-bootstrap -kirjaston Accordion- ja Card-komponentteja käyttäen
                         // Card aukeaa ja sulkeutuu klikkaamalla
-            <Accordion className="center">
+                
 
-                <Card className="center custom-card" key={key}>
-                <Accordion.Toggle style={{background:'white'}} as={Card.Header} variant="link" eventKey={val.id}>
-                    <Row>
-                        <Col xs={10}><h4>{val.name} </h4></Col>  {/*Näytetään leikkipaikan nimi Cardin Headerissa*/}
-                        <Col><Icon.ArrowDownCircle size={35}/></Col>
-                    </Row> 
 
-                    <Row>
-                        <Col><h4>{val.distance}m</h4> </Col> {/*Näytetään leikkipaikan etäisyys Cardin Headerissa*/}
-                        <Col></Col>
-                    </Row>
-                </Accordion.Toggle>
+                        <Card className="center custom-card" >
+                            <Card.Body>
+                                <Card.Title>{val.name}</Card.Title>
+                                <Card.Subtitle className="mb-2 text-muted">{val.distance}</Card.Subtitle>
+                                <Card.Text>
+                                Some quick example text to build on the card title and make up the bulk of
+                                the card's content.
+                                </Card.Text>
+                                <Card.Link href="#">Card Link</Card.Link>
+                                <Card.Link href="#">Another Link</Card.Link>
+                            </Card.Body>
+                        </Card>
 
-                        {/*Cardin aukeava ja sulkeutuva osio */}
-                    <Accordion.Collapse eventKey={val.id}>
-                        <Card.Body>
-                        <Card.Subtitle className="mb-2 d-flex">Lorem ipsum</Card.Subtitle>
-                        <Card.Text className="mt-3 d-flex" href="#"><Icon.Map size={26} className="mx-2 d-flex"/> <a href="url">Sijainti kartalla</a></Card.Text>
-                        <Card.Text className="mt-3 d-flex" href="#"><Icon.Map size={26} className="mx-2 d-flex"/> <a href="url">Ajo-ohjeet</a></Card.Text>
-                        </Card.Body>
 
-                    </Accordion.Collapse>
-                        {/*Cardin aukeava ja sulkeutuva osio */}
-                </Card>
 
-            </Accordion>
                 )
             })}
         </div>

@@ -5,7 +5,7 @@ import logo from '../logo.png';
 
 function FrontPage() {
 
-    
+    //testi
     return (
         <div>
             <img className='logo' src={logo} alt='Logo'/>;
