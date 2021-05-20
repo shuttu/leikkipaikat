@@ -1,0 +1,358 @@
+{
+  "ANNALAN KOULU, ANNALAN TOIMIPISTE": {
+    "la": 61.46429205,
+    "lo": 23.89642295410771
+  },
+  "ANNALAN P\u00c4IV\u00c4KOTI": {
+    "la": 61.4627172,
+    "lo": 23.8900973
+  },
+  "METS\u00c4NIITYN P\u00c4IV\u00c4KOTI": {
+    "la": 61.4610511,
+    "lo": 23.899041
+  },
+  "LEINOLAN P\u00c4IV\u00c4KOTI": {
+    "la": 61.486933,
+    "lo": 23.9238208
+  },
+  "KALKUN KOULU": {
+    "la": 61.4950027,
+    "lo": 23.5808673
+  },
+  "ALEKSANTERIN KOULU": {
+    "la": 61.49633455,
+    "lo": 23.750704951669444
+  },
+  "KALEVANHARJUN P\u00c4IV\u00c4KOTI": {
+    "la": 61.4948066,
+    "lo": 23.7767666
+  },
+  "VIINIKAN P\u00c4IV\u00c4KOTI": {
+    "la": 61.4851202,
+    "lo": 23.783791444924532
+  },
+  "MYLLYPURONPUISTO KESKI": {
+    "la": 0,
+    "lo": 0
+  },
+  "KISAPUISTON KOULU+P\u00c4IV\u00c4KOTI": {
+    "la": 61.4461966,
+    "lo": 23.85077841384609
+  },
+  "AHJOLAN P\u00c4IV\u00c4KOTI": {
+    "la": 61.50563855,
+    "lo": 23.70990174552363
+  },
+  "KAAKKURINPUISTO": {
+    "la": 61.4884912,
+    "lo": 23.7888206
+  },
+  "RIIHIPUISTO": {
+    "la": 61.4839475,
+    "lo": 23.7985888
+  },
+  "KARUKANPUISTO": {
+    "la": 61.4813287,
+    "lo": 23.8007584
+  },
+  "OSMONPUISTO IT\u00c4": {
+    "la": 0,
+    "lo": 0
+  },
+  "LAMPIPUISTO": {
+    "la": 61.4874658,
+    "lo": 23.7889138
+  },
+  "VEISUNPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "VAAKONPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "PETSAMONPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "LITUKANPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "RAUTAPELLONPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "KALEVAN KESKUSPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "KELTANOKANPUISTO IT\u00c4": {
+    "la": 0,
+    "lo": 0
+  },
+  "KALLENPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "PYH\u00c4LL\u00d6NPUISTO LOUNAS": {
+    "la": 0,
+    "lo": 0
+  },
+  "PALOKALLIONPUISTO": {
+    "la": 61.4499499,
+    "lo": 23.7581058
+  },
+  "KARIKEPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "IHAISTENPUISTO": {
+    "la": 61.5381536,
+    "lo": 23.6722538
+  },
+  "PELTOVAINIONPUISTO ETEL\u00c4": {
+    "la": 61.5237801,
+    "lo": 23.6679989
+  },
+  "ISONIEMENPUISTO": {
+    "la": 61.52832,
+    "lo": 23.6833585
+  },
+  "TANHUANPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "HALLILAN KOULU/ PVK/ NEUVOLA": {
+    "la": 61.46412935,
+    "lo": 23.83932723642196
+  },
+  "SORILAN P\u00c4IV\u00c4KOTI": {
+    "la": 61.5552801,
+    "lo": 23.9310555
+  },
+  "TER\u00c4LAHDEN P\u00c4IV\u00c4KOTI": {
+    "la": 61.7080088,
+    "lo": 23.9025829
+  },
+  "SAMMON P\u00c4IV\u00c4KOTI": {
+    "la": 61.49835955,
+    "lo": 23.80969303453596
+  },
+  "IRJALAN P\u00c4IV\u00c4KOTI": {
+    "la": 61.49701575,
+    "lo": 23.850454112169594
+  },
+  "HAIHARANPUISTO": {
+    "la": 61.4728107,
+    "lo": 23.8866464
+  },
+  "K\u00c4\u00c4RMEKALLIONPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "LINTUPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "MULTISILLANPUISTO": {
+    "la": 61.440921,
+    "lo": 23.7440365
+  },
+  "PILOTINPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "VARVARINPUISTO": {
+    "la": 61.4373878,
+    "lo": 23.7510191
+  },
+  "LOUTUNPUISTO": {
+    "la": 61.4963586,
+    "lo": 23.8462785
+  },
+  "VEIKONPUISTO": {
+    "la": 61.5065087,
+    "lo": 23.6213699
+  },
+  "KILLERIN LEIKKIPUISTO": {
+    "la": 61.500228,
+    "lo": 23.6271465
+  },
+  "SOTKANPUISTO": {
+    "la": 61.5025787,
+    "lo": 23.7479346
+  },
+  "PYYNIKINTORI": {
+    "la": 61.4962285,
+    "lo": 23.7420798
+  },
+  "TAMPEREEN KANSAINV\u00c4LINEN KOULU, FISTA": {
+    "la": 61.4996284,
+    "lo": 23.738868480696965
+  },
+  "LINNAINMAAN KOULU": {
+    "la": 61.4857137,
+    "lo": 23.8886027
+  },
+  "LINNAINMAAN P\u00c4IV\u00c4KOTI": {
+    "la": 61.49247375,
+    "lo": 23.88420010243055
+  },
+  "PALLOPUISTON P\u00c4IV\u00c4KOTI (LIIKEKESKUS)": {
+    "la": 61.4524631,
+    "lo": 23.832781708462704
+  },
+  "LEINOLAN TOIMINTAKESKUS": {
+    "la": 61.4943973,
+    "lo": 23.912060051283895
+  },
+  "KALKUN P\u00c4IV\u00c4KOTI": {
+    "la": 61.4954621,
+    "lo": 23.5854086
+  },
+  "RAHOLAN KOULU": {
+    "la": 61.5001269,
+    "lo": 23.6322378
+  },
+  "RAHOLAN P\u00c4IV\u00c4KOTI": {
+    "la": 61.4976332,
+    "lo": 23.6389021
+  },
+  "HARJUN KOULU": {
+    "la": 61.5070767,
+    "lo": 23.662804
+  },
+  "LIELAHDEN P\u00c4IV\u00c4KOTI": {
+    "la": 61.5239637,
+    "lo": 23.6739342
+  },
+  "LENT\u00c4V\u00c4NNIEMEN KOULU": {
+    "la": 61.5267168,
+    "lo": 23.6989099
+  },
+  "VEHMAISTEN P\u00c4IV\u00c4KOTI": {
+    "la": 61.4779927,
+    "lo": 23.923012
+  },
+  "VEHMAISTEN KOULU": {
+    "la": 61.47659995,
+    "lo": 23.91979740577049
+  },
+  "J\u00c4RVENSIVUN KOULU": {
+    "la": 61.4876195,
+    "lo": 23.8128913
+  },
+  "TAKAHUHDIN KOULU, VL 0-4 ": {
+    "la": 61.4907401,
+    "lo": 23.8561443
+  },
+  "VESANPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "VUOHENHIEKANPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "H\u00c4RM\u00c4L\u00c4N KOULU": {
+    "la": 61.4703517,
+    "lo": 23.7341134
+  },
+  "LEPOLAN P\u00c4IV\u00c4KOTI": {
+    "la": 61.4709752,
+    "lo": 23.7329843
+  },
+  "HATANP\u00c4\u00c4N KOULU": {
+    "la": 61.4752838,
+    "lo": 23.763073560151362
+  },
+  "KOIVISTON KOULU": {
+    "la": 61.471000000000004,
+    "lo": 23.7953169569726
+  },
+  "KOIVISTONKYL\u00c4N P\u00c4IV\u00c4KOTI": {
+    "la": 61.4709227,
+    "lo": 23.784994
+  },
+  "TURTOLAN P\u00c4IV\u00c4KOTI": {
+    "la": 61.4747037,
+    "lo": 23.845946
+  },
+  "MAKASIININ P\u00c4IV\u00c4KOTI": {
+    "la": 61.49701575,
+    "lo": 23.850454112169594
+  },
+  "IKURIN P\u00c4IV\u00c4KOTI": {
+    "la": 61.5120077,
+    "lo": 23.599114
+  },
+  "KAARILAN KOULU": {
+    "la": 61.50701695,
+    "lo": 23.672141380095425
+  },
+  "VELLAMON P\u00c4IV\u00c4KOTI ": {
+    "la": 61.500613099999995,
+    "lo": 23.78140389137375
+  },
+  "N\u00c4SIPUISTON P\u00c4IV\u00c4KOTI": {
+    "la": 61.50238775,
+    "lo": 23.749722135447193
+  },
+  "ATALAN P\u00c4IV\u00c4KOTI": {
+    "la": 61.5080713,
+    "lo": 23.9153288
+  },
+  "LENT\u00c4V\u00c4NLAAKSON P\u00c4IV\u00c4KOTI": {
+    "la": 61.5315127,
+    "lo": 23.6986762
+  },
+  "TAKAHUHDIN KOULU, VL 5-9": {
+    "la": 61.49172,
+    "lo": 23.8515395
+  },
+  "HIRVIKALLIONPUISTO": {
+    "la": 0,
+    "lo": 0
+  },
+  "KAUKAJ\u00c4RVEN KOULU": {
+    "la": 0,
+    "lo": 0
+  },
+  "JUVAN P\u00c4IV\u00c4KOTI": {
+    "la": 61.470192,
+    "lo": 23.8720192
+  },
+  "KAUKAJ\u00c4RVEN P\u00c4IV\u00c4KOTI": {
+    "la": 61.47492155,
+    "lo": 23.88230834848008
+  },
+  "SORIN AUKIO": {
+    "la": 0,
+    "lo": 0
+  },
+  "PUISTOKOULU, LIISANPUISTON KOULUTALO": {
+    "la": 61.4969589,
+    "lo": 23.7964878
+  },
+  "P\u00c4\u00c4SKYSEN P\u00c4IV\u00c4KOTI": {
+    "la": 61.44443885,
+    "lo": 23.848928422897526
+  },
+  "SAMMON KOULU (YL\u00c4ASTE)": {
+    "la": 61.50058935,
+    "lo": 23.798104926343136
+  },
+  "TAMMELAN KOULU": {
+    "la": 61.5020714,
+    "lo": 23.8010587
+  },
+  "SAUKONPUISTON KOULU": {
+    "la": 61.4969589,
+    "lo": 23.7964878
+  },
+  "HIPPOKSEN P\u00c4IV\u00c4KOTI": {
+    "la": 61.4979949,
+    "lo": 23.8210148
+  }
+}

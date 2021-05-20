@@ -6,7 +6,7 @@ from django.http import HttpResponse
 import folium
 from django.views.generic import TemplateView
 import requests
-from geopy.geocoders import Nominatim
+import json
 
 # Leikkipaikkojen haku määrä, muuta pienemmäksi nopeampaa testailua varten
 x = 99
@@ -29,23 +29,25 @@ class map(TemplateView):
                 map.add_to(figure)
         data = get.json()
 
+        with open('coordinates.json', 'r') as f:
+            cor = json.load(f)
+
         # for loop joka käy läpi ja ottaa tiedot marker dataan
-        geolocator = Nominatim(user_agent="my_request")
         for i in range(int(x)):
             street = data['result']['records'][i]['ALUE_SIJ']
             name = data['result']['records'][i]['ALUE_NIMI']
-            location = geolocator.geocode(street + ', Tampere')
 
             # Failcheck jos tiedossa tai haussa virhe
-            if location != None:
+            try:
                 # Tulostaa markerit kartalle
                 map.add_to(figure)
                 folium.Marker(
-                    location=[location.latitude, location.longitude],
+                    location=[float(cor[name]['la']), float(cor[name]['lo'])],
                     popup=name + " " + street[0] + street[1:].lower(),
                     icon=folium.Icon(color='green', icon='tree', prefix='fa')
                 ).add_to(map)
+            except KeyError as err:
+                print("Unknown key: ", err)
 
         figure.render()
         return {"map": figure}
-

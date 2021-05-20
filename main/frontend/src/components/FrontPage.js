@@ -5,7 +5,6 @@ import logo from '../logo.png';
 
 function FrontPage() {
 
-    
     return (
         <div>
             <img className='logo' src={logo} alt='Logo'/>;
