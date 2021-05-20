@@ -35,8 +35,19 @@ Linkki tuotteen toiminnan kuvaukseen: https://docs.google.com/presentation/d/1Oc
 
 ## Backend Serverin pyörittäminen (Windows)
 
+###Perusvaatimus: Sinun tulee asentaa seuraavat python paketit (packages) komennolla: pip install <paketin nimi>
+
+HOX! Meillä oli vaikeuksia windows powershellin kanssa, käyttäkää normaalia cmd komentutulkkia
+
+Paketit:
+
+django
+folium
+requests
+json
+
 1. Navigoi tiesi \backend\ folderiin cmd:ssä. Komennolla "cd <dir name>" pääsee siirtymään.
 2. Komennolla "python manage.py runserver" lähtee käytiin.
-3. Kopioi cmd:n tarjoama url http://127.0.0.1:8000/
+3. Täältä löytyy sitten selaimessa lopputuotos: http://127.0.0.1:8000/map/
+ 
 
-HUOM! Tällä hetkellä tuloksia taitaa löytyä vain välilehdelle /map/
