@@ -44,10 +44,6 @@ function Search() {
             }).sort((a, b) => a.distance > b.distance ? 1 : -1 ) //Järjestetään distancen mukaan
             .map((val, key) => {
                 return (
-                        // Leikkipaikat listataan react-bootstrap -kirjaston Accordion- ja Card-komponentteja käyttäen
-                        // Card aukeaa ja sulkeutuu klikkaamalla
-                
-
 
                         <Card className="center custom-card" >
                             <Card.Body>
@@ -61,8 +57,6 @@ function Search() {
                                 <Card.Link href="#">Another Link</Card.Link>
                             </Card.Body>
                         </Card>
-
-
 
                 )
             })}
