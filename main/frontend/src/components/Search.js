@@ -38,7 +38,6 @@ function Search() {
                     näytetään kaikki paikat järjestettynä distancen mukaan pienimmästä suurimpaan. 
                     Hakukenttä toimii nimiä hakemalla */}
 
-<<<<<<< HEAD:main/frontend/src/components/Search.js
             {JSONDATA.filter((val) => {
                 if (inputValue == "") {
                     return val
@@ -67,38 +66,6 @@ function Search() {
         </div>
         </>
     )
-=======
-        {JSONDATA.filter((val) => {
-          if (inputValue == "") {
-            return val;
-          } else if (
-            val.name.toLowerCase().startsWith(inputValue.toLowerCase())
-          ) {
-            return val;
-          }
-        })
-          .sort((a, b) => (a.distance > b.distance ? 1 : -1)) //Järjestetään distancen mukaan
-          .map((val, key) => {
-            return (
-              <Card className="custom-card">
-                <Card.Body>
-                  <Card.Title className="custom-card-name">{val.name}</Card.Title>
-                  <Card.Text className="custom-card-content">
-                    Address
-                    <br/>
-                    {val.distance}
-                  </Card.Text>
-                  <Card.Link className="custom-card-link" href="#">Ajo-ohje</Card.Link>
-                  &nbsp;
-                  <Card.Link className="custom-card-link" href="#">Sijainti</Card.Link>
-                </Card.Body>
-              </Card>
-            );
-          })}
-      </div>
-    </>
-  );
->>>>>>> develop:main/frontend/src/components/Search.js
 }
 
 export default Search;
