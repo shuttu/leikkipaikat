@@ -24,19 +24,33 @@ develop branch josta jokainen kehittäjä tekee aina uuden branchin kun tekee uu
 
 Oman feature branchin teko (tai workflow tjsp):
 
+Linkki: https://docs.google.com/presentation/d/1zhPJOWPtG8_flHrIbqR049FGxzwZ8bcMKHlCeQ-kBuY/edit#slide=id.p
+
 $git checkout develop
+
 Tee oma
+
 $git checkout -b <oma-branch> (tämä komento sekä luo uuden branchin että siirtyy siihen)
-tai kahdolla komennolla
+
+tai kahdella komennolla
+
 $git branch <oman-branch>
+
 $git checkout <oman-branch>
+
 Tee tarvittavat muutokset ja testaan kun olet valmis
+
 $ git commit -a -m 'muutoksia haaraan <oman-branch>'
+
 Tässä vaiheessa pitäise tehdä se ”pull request siellä CodeCommitissa jotta joku tiimistä voi tarkistaa ehdotetut muutokset. HOX! muistakaa että muutokset tehdään develop-haaraan, ei masteriin
 Kun pull request on hyväksytty voi mergen tehdä joko CodeCommitissa tai komentorivilla
+
 $git checkout develop
+
 $git pull (tällä komennolla uusimmat muutokset developista omaan lokaaliin)
+
 $git merge oma <oman-branch>
+
 Ja sitten kojaillaan mahdolliset merge konfliktit (edited) 
 
 ## Muuta  
