@@ -1,66 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+#root {
+  width: 100%;
+  height: 100vh;
+  background-color: #5A0BBA;
+  overflow-y: scroll;
+}
+
 h1 {
-  margin: auto;
-  padding-bottom: 20px;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
   text-align: center;
-  color: #5A00BA;
-  width: 370px;
+  color: #FFFFFF;
+  font-family: 'Neucha', cursive;
+  font-size: 50px;
 }
-.buttonStyle {
-  display: inline-block;
-  background-color: white;
-  cursor: pointer;
-  padding: 8px 22px;
-  border-radius: 10px;
-  margin: auto;
-  margin-bottom: 10px;
-  margin-top: 10px;
-  border-color: #5A00BA;
-  color: #5A00BA;
+
+.link {
+  text-decoration: none !important;
+  margin-bottom: 1.5rem !important;
 }
+
 .custom-btn {
-  background-color: transparent !important;
-  border: 2px solid #5A00BA !important;
-  margin-top: 10px;
-  margin-bottom: 30px;
-  padding: 5px 17px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 260px !important;
+  height: 60px !important;
+  border-radius: 30px !important;
+  background-color: #FFFFFF !important;
   color: #5A00BA !important;
+  font-family: 'Neucha', cursive;
+  font-size: 35px !important;
+  transition: font-size 0.5s !important;
+  border: none !important;
 }
-.custom-btn:focus {
-  font-weight: bold;
+.custom-btn:hover {
+  font-size: 40px !important;
+}
+
+.custom-list-left-btn {
+  width: 50% !important;
+  height: 100% !important;
+  border-top-left-radius: inherit !important;
+  border-bottom-left-radius: inherit !important;
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+  background-color: #5A00BA !important;
+  color: #FFFFFF !important;
+  font-family: 'Neucha', cursive;
+  font-size: 20px !important;
+  border: none !important;
+}
+
+.custom-list-left-btn:focus {
+  color: #5A00BA !important;
+  background-color: #FFFFFF !important;
+  border-top-left-radius: 17px !important;
+  border-bottom-left-radius: 17px !important;
   text-transform: uppercase;
 }
-.logo {
-  width: 250px;
-  display: block;
-  margin: auto;
-  margin-top: 5%;
+
+
+.custom-list-right-btn {
+  width: 50% !important;
+  height: 100% !important;
+  border-top-right-radius: inherit !important;
+  border-bottom-right-radius: inherit !important;
+  border-top-left-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+  background-color: #5A00BA !important;
+  color: #FFFFFF !important;
+  font-family: 'Neucha', cursive;
+  font-size: 20px !important;
+  border: none !important;
 }
+
+.custom-list-right-btn:focus {
+  color: #5A00BA !important;
+  background-color: #FFFFFF !important;
+  border-top-right-radius: 17px !important;
+  border-bottom-right-radius: 17px !important;
+  text-transform: uppercase;
+}
+
+.logoOnFrontPage {
+  margin-top: 2.5em;
+}
+
 .logoOnListPage {
-  width: 125px;
-  display: block;
-  margin: auto;
-  margin-bottom: 20px;
+  margin-top: 2.5em;
 }
 .SearchBar {
-  font-size: larger !important;
-  border-radius: 50px !important;
-  border-color: #5A00BA !important;
-  border-style: solid;
+  width: 270px !important;
+  height: 40px !important;
+  border-radius: 30px !important;
+  border: none !important;
+  font-family: 'Roboto', sans-serif !important;
+  font-size: 18px !important;
+  text-align: center;
   color: #5A00BA !important;
 }
-input:focus {
-  outline: none;
+
+::placeholder {
+  color: #5A00BA !important;
 }
-.center {
-  width: 400px;
-  margin: auto;
-  text-align: center;
-  display: block;
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
-  color: #5A00BA;
+  align-items: center;
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .custom-card {
-  text-align: left !important;
-  border: 2px solid #5A00BA !important;
-  margin-bottom: 10px !important;
+  width: 350px !important;
+  margin-bottom: 1em !important;
+  border: none !important;
+  border-radius: 25px !important;
+}
+
+.custom-card-name {
+  font-family: 'Roboto', sans-serif !important;
+  font-size: 25px !important;
+  font-weight: bold !important;
+  color: #5A00BA !important;
+}
+
+.custom-card-content {
+  font-family: 'Roboto', sans-serif !important;
+  font-size: 20px !important;
+  color: #5A00BA !important;
+}
+
+.custom-card-link {
+  font-family: 'Neucha', cursive !important;
+  font-size: 25px !important;
+  text-decoration: none !important;
+  color: #5A00BA !important;
+}
+
+.custom-card-link:hover {
+  color: #5A00BA !important;
+}
+
+.backButtonContainer {
+  width: 4em;
+  height: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 2em;
+  left: 2em;
+}
+
+.backButton {
+  width: 4em;
+  transition: width 0.5s;
+}
+
+.backButton:hover {
+  width: 5em;
+}
+
+.listButtonContainer {
+  display: block;
+  width: 200px;
+  height: 42px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border: solid 2px #FFFFFF;
+  border-radius: 30px;
 }

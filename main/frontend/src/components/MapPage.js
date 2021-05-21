@@ -5,7 +5,7 @@ import Button from "react-bootstrap/Button";
 function MapPage() {
     return (
         <div>
-            <Link to='/'>
+            <Link className="link" to='/'>
                 <Button variant="outline-danger" className="buttonStyle custom-btn">Back</Button>
             </Link>
             <h1>Kartta</h1>
