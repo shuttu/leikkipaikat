@@ -19,7 +19,8 @@ h1 {
 }
 
 .link {
-  text-decoration: none;
+  text-decoration: none !important;
+  margin-bottom: 1.5rem !important;
 }
 
 .custom-btn {
@@ -28,7 +29,6 @@ h1 {
   align-items: center !important;
   width: 260px !important;
   height: 60px !important;
-  margin-bottom: 1.5rem !important;
   border-radius: 30px !important;
   background-color: #FFFFFF !important;
   color: #5A00BA !important;
@@ -156,8 +156,8 @@ h1 {
 }
 
 .backButtonContainer {
-  width: 5em;
-  height: 5em;
+  width: 4em;
+  height: 4em;
   display: flex;
   justify-content: center;
   align-items: center;

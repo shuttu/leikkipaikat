@@ -58,7 +58,8 @@ function Search() {
                     <br/>
                     {val.distance}
                   </Card.Text>
-                  <Card.Link className="custom-card-link" href="#">Ajo-ohje &nbsp;</Card.Link>
+                  <Card.Link className="custom-card-link" href="#">Ajo-ohje</Card.Link>
+                  &nbsp;
                   <Card.Link className="custom-card-link" href="#">Sijainti</Card.Link>
                 </Card.Body>
               </Card>
