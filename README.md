@@ -4,7 +4,7 @@ ICT-Campin projekti
 ## Perusvaatimukset työkaluista joita tarvitset
 
 1. git: Asenna git https://git-scm.com/downloads
-2. python: Asenna python(Hox! saatat tarvita eri kirjastoja, ne selitetään sovelluskohtaisissa ohjeissa): https://www.python.org/downloads/
+2. python: Asenna python(Hox! saatat tarvita eri kirjastoja, ne selitetään sovelluskohtaisissa ohjeissa, ja ruksi se chekbox että asenna PATH): https://www.python.org/downloads/
 3. Node.js: https://nodejs.org/en/download/
 
 ## Kloonaus omalle koneelle  
@@ -73,9 +73,11 @@ HOX! Meillä oli vaikeuksia windows powershellin kanssa, käyttäkää normaalia
 Paketit:
 
 django
+
 folium
+
 requests
-json
+
 
 1. Navigoi tiesi \backend\ folderiin cmd:ssä. Komennolla "cd <dir name>" pääsee siirtymään.
 2. Komennolla "python manage.py runserver" lähtee käytiin.
