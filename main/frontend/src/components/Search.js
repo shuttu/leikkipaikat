@@ -32,7 +32,7 @@ function Search() {
             </Button>
           </div>
         </Form>
-            
+
         {/* MOCK_DATA.json filussa tällä hetkellä id, name ja distance
                     Datan haku ja filtteröinti MOCK_DATA.json filusta niin että hakukentän ollessa tyhjä 
                     näytetään kaikki paikat järjestettynä distancen mukaan pienimmästä suurimpaan. 
