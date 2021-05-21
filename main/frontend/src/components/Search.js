@@ -38,6 +38,36 @@ function Search() {
                     näytetään kaikki paikat järjestettynä distancen mukaan pienimmästä suurimpaan. 
                     Hakukenttä toimii nimiä hakemalla */}
 
+<<<<<<< HEAD:main/frontend/src/components/Search.js
+            {JSONDATA.filter((val) => {
+                if (inputValue == "") {
+                    return val
+                } else if ( val.name.toLowerCase().startsWith(inputValue.toLowerCase())) {
+                    return val
+                }
+            }).sort((a, b) => a.distance > b.distance ? 1 : -1 ) //Järjestetään distancen mukaan
+            .map((val, key) => {
+                return (
+
+                        <Card className="center custom-card" >
+                            <Card.Body>
+                                <Card.Title>{val.name}</Card.Title>
+                                <Card.Subtitle className="mb-2 text-muted">{val.distance}</Card.Subtitle>
+                                <Card.Text>
+                                Some quick example text to build on the card title and make up the bulk of
+                                the card's content.
+                                </Card.Text>
+                                <Card.Link href="#">Card Link</Card.Link>
+                                <Card.Link href="#">Another Link</Card.Link>
+                            </Card.Body>
+                        </Card>
+
+                )
+            })}
+        </div>
+        </>
+    )
+=======
         {JSONDATA.filter((val) => {
           if (inputValue == "") {
             return val;
@@ -68,6 +98,7 @@ function Search() {
       </div>
     </>
   );
+>>>>>>> develop:main/frontend/src/components/Search.js
 }
 
 export default Search;
