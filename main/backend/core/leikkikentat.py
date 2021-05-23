@@ -21,5 +21,5 @@ def fetch_playgrounds():
         }
         playgrounds.append(playground)
 
-
+    #return data
     return playgrounds
