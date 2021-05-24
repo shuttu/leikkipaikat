@@ -18,6 +18,9 @@ Tämän jälkeen AWS kysyy kättäjänimeä ja salasanaa, jonne tulee juuri tuo 
 HOX! Kun ja jos copy pastaatte tuon, niin olkaa tarkkana ettei eteen tai perään jää välilyöntejä tms
 
 ## Rakenne ja käyttö  
+
+UX-dokumentaatio: https://trello.com/b/t8mO80Gv/dokumentaatio-leikkipaikat-ja-melutaso
+
 Frontille ja backille omat kansiot  
 master brachilla toistaiseksi toimivin toteutus  
 develop branch josta jokainen kehittäjä tekee aina uuden branchin kun tekee uutta toiminnallisuutta  
