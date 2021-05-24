@@ -19,7 +19,7 @@ HOX! Kun ja jos copy pastaatte tuon, niin olkaa tarkkana ettei eteen tai perää
 
 ## Rakenne ja käyttö  
 
-UX-dokumentaatio: https://trello.com/b/t8mO80Gv/dokumentaatio-leikkipaikat-ja-melutaso
+Trello linkki dokumentaatioon: https://trello.com/b/t8mO80Gv/dokumentaatio-leikkipaikat-ja-melutaso
 
 Frontille ja backille omat kansiot  
 master brachilla toistaiseksi toimivin toteutus  
