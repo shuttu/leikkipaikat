@@ -11,7 +11,7 @@ import json
 from .functions import get_marker_color, get_group
 
 # Leikkipaikkojen haku määrä, muuta pienemmäksi nopeampaa testailua varten
-x = 100
+x = 399
 
 # Tein frontin kansioon map.html tiedoston johon tää on esimerkkinä liitetty
 class map(TemplateView):
