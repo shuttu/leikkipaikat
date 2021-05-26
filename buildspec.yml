@@ -3,7 +3,7 @@ phases:
   pre_build:
     commands:
       - echo Installing npm tools
-      - cd leikkipaikat/frontend
+      - cd leikkipaikat/main/frontend
       - npm install
   build:
     commands:
