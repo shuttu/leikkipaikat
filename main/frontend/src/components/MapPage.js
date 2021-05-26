@@ -1,9 +1,22 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import backButton from "../graphics/Back-button.png";
 import infoButton from "../graphics/Info-button.png";
+import greenMarker from "../graphics/Green-marker.png";
+import yellowMarker from "../graphics/Yellow-marker.png";
+import redMarker from "../graphics/Red-marker.png";
 
 function MapPage() {
+  const [legend, setLegend] = useState(false);
+
+  const hideLegend = () => {
+    setLegend(false);
+  };
+
+  const showLegend = () => {
+    setLegend(true);
+  };
+
   return (
     <div className="iframe_container">
       <Link to="/">
@@ -12,9 +25,37 @@ function MapPage() {
         </div>
       </Link>
       <div className="infoButtonContainer">
-        <img className="infoButton" src={infoButton} alt="info" />
+        <img
+          className="infoButton"
+          src={infoButton}
+          alt="info"
+          onClick={showLegend}
+        />
       </div>
-      <iframe src="http://127.0.0.1:8000/map/" className="iframe"></iframe>
+      {legend && (
+        <div className="legend_container">
+          <img className="legend_marker" src={greenMarker} alt="green" />
+          <span className="legend_text">Hiljaista</span>
+          <br />
+          <br />
+          <img className="legend_marker" src={yellowMarker} alt="yellow" />
+          <span className="legend_text">Siedettävää</span>
+          <br />
+          <br />
+          <img className="legend_marker" src={redMarker} alt="red" />
+          <span className="legend_text">Hirveä mökä</span>
+          <div className="legend_close_button_container">
+            <span className="legend_close_button" onClick={hideLegend}>
+              X
+            </span>
+          </div>
+        </div>
+      )}
+      <iframe
+        src="http://127.0.0.1:8000/map/"
+        className="iframe"
+        allow="geolocation"
+      ></iframe>
     </div>
   );
 }

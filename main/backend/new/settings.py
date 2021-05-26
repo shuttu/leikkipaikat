@@ -52,9 +52,12 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'corsheaders.middleware.CorsMiddleware',
+    'django.middleware.clickjacking.XFrameOptionsMiddleware'
 ]
 
 CORS_ORIGIN_ALLOW_ALL = True
+
+X_FRAME_OPTIONS = 'ALLOW-FROM http://127.0.0.1:8000/map/'
 
 ROOT_URLCONF = 'new.urls'
 
