@@ -82,6 +82,8 @@ folium
 
 requests
 
+django-cors-headers
+
 
 1. Navigoi tiesi \backend\ folderiin cmd:ssä. Komennolla "cd <dir name>" pääsee siirtymään.
 2. Komennolla "python manage.py runserver" lähtee käytiin.
