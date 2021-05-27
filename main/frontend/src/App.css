@@ -6,7 +6,11 @@
   width: 100%;
   height: 100vh;
   background-color: #5A0BBA;
-  overflow-y: scroll;
+  overflow-y: auto;
+}
+
+.LocationMarker {
+  width:50px;
 }
 
 h1 {
@@ -175,6 +179,27 @@ h1 {
   width: 5em;
 }
 
+.infoButtonContainer {
+  width: 4em;
+  height: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 2em;
+  right: 2em;
+}
+
+.infoButton {
+  width: 4em;
+  transition: width 0.5s;
+}
+
+.infoButton:hover {
+  width: 5em;
+  cursor: pointer;
+}
+
 .listButtonContainer {
   display: block;
   width: 200px;
@@ -183,4 +208,62 @@ h1 {
   margin-bottom: 1em;
   border: solid 2px #FFFFFF;
   border-radius: 30px;
+}
+
+.iframe_container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.legend_container {
+  width: 350px;
+  height: 215px;
+  border: solid 2px #FFFFFF;
+  border-radius: 25px;
+  background-color: #5A00BA;
+  color: #FFFFFF;
+  padding: 20px;
+  position: absolute;
+}
+
+.legend_marker {
+  width: 2em;
+}
+
+.legend_text {
+  position: relative;
+  top: 0.2em;
+  margin-left: 1em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.legend_close_button_container {
+  width: 2em;
+  height: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: 1em;
+  bottom: 1.4em;
+}
+
+.legend_close_button {
+  font-family: 'Neucha', cursive;
+  font-size: 40px;
+  transition: font-size 0.5s;
+}
+
+.legend_close_button:hover {
+  cursor: pointer;
+  font-size: 50px;
 }

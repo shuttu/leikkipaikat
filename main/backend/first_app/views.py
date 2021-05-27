@@ -4,6 +4,7 @@ from django.http import HttpResponse
 
 # kartan libit
 import folium
+from folium import plugins
 from django.views.generic import TemplateView
 import requests
 import json
@@ -21,9 +22,13 @@ class map(TemplateView):
         figure = folium.Figure()
         map = folium.Map(
             location=[61.48, 23.8],
-            zoom_start=11,
+            zoom_start=12,
+            zoom_control=False
             #tiles='Stamen Terrain' Tähän vaihtoehtoiset kartta pohjat
         )
+
+        plugins.LocateControl(auto_start=True, position='bottomleft', drawCircle=False).add_to(map)
+
         fg = folium.FeatureGroup(name='Leikkikentät')
 
         for url in ["https://data.tampere.fi/data/api/action/datastore_search?resource_id=64981409-3cf7-4d32-a1b6-563963ea3fa8&limit={}".format(str(x))]:
@@ -53,6 +58,5 @@ class map(TemplateView):
 
         map.add_child(fg)
         map.add_to(figure)
-        folium.LayerControl().add_to(map)
         figure.render()
         return {"map": figure}

@@ -1,14 +1,29 @@
-//muokattu
-import React, { useState } from "react";
-import { Row, Col, Button, Form, Card, Accordion } from "react-bootstrap";
-import JSONDATA from "../MOCK_DATA.json";
+import React, { useState, useEffect } from "react";
+import { Button, Form, Card } from "react-bootstrap";
+import axios from 'axios';
 
 function Search() {
   const [inputValue, setInputValue] = useState("");
+  const [playgroundData, setPlaygroundData] = useState([{name: "", address: ""}]);
+
+  const url = 'http://127.0.0.1:8000/leikkipaikat/'
+
+  useEffect(() => {
+    const getData = async () => {
+      await axios.get(url)
+      .then(response => {
+        setPlaygroundData(response.data.leikkipaikat.map(item => {
+          return item
+        }))
+      })
+    }
+    getData();
+  }, [])
 
   function handleInputChange(event) {
     setInputValue(event.target.value);
   }
+
   return (
     <>
       <div className="container">
@@ -34,38 +49,33 @@ function Search() {
           </div>
         </Form>
 
-        {/* MOCK_DATA.json filussa tällä hetkellä id, name ja distance
-                    Datan haku ja filtteröinti MOCK_DATA.json filusta niin että hakukentän ollessa tyhjä 
-                    näytetään kaikki paikat järjestettynä distancen mukaan pienimmästä suurimpaan. 
-                    Hakukenttä toimii nimiä hakemalla */}
-
-        {JSONDATA.filter((val) => {
-          if (inputValue == "") {
-            return val;
-          } else if (
-            val.name.toLowerCase().startsWith(inputValue.toLowerCase())
-          ) {
-            return val;
-          }
+        {/* Tästä alkaa lista leikkipaikoista */}
+        {playgroundData.filter((val) => {
+        if (inputValue == "") {
+          return val;
+        } else if (
+          val.name.toLowerCase().startsWith(inputValue.toLowerCase())
+        ) {
+          return val;
+        }
         })
-          .sort((a, b) => (a.distance > b.distance ? 1 : -1)) //Järjestetään distancen mukaan
-          .map((val, key) => {
-            return (
-              <Card className="custom-card">
-                <Card.Body>
-                  <Card.Title className="custom-card-name">{val.name}</Card.Title>
-                  <Card.Text className="custom-card-content">
-                    Address
-                    <br/>
-                    {val.distance}
-                  </Card.Text>
-                  <Card.Link className="custom-card-link" href="#">Ajo-ohje</Card.Link>
-                  &nbsp;
-                  <Card.Link className="custom-card-link" href="#">Sijainti</Card.Link>
-                </Card.Body>
-              </Card>
-            );
-          })}
+        .map(playGround => {
+          return (
+            <Card className="custom-card">
+              <Card.Body>
+                <Card.Title className="custom-card-name">{playGround.name}</Card.Title>
+                <Card.Text className="custom-card-content">
+                  {playGround.address}
+                </Card.Text>
+                  <br/>
+                <Card.Link className="custom-card-link" href="#">Ajo-ohje</Card.Link>
+                &nbsp;
+                <Card.Link className="custom-card-link" href="#">Sijainti</Card.Link>
+              </Card.Body>
+            </Card>
+          );
+        })}
+
       </div>
     </>
   );
