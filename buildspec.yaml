@@ -1,0 +1,19 @@
+version: 0.2
+phases: 
+  pre_build:
+    commands:
+      - echo Installing npm tools
+      - cd main/frontend
+      - npm install
+  build:
+    commands:
+      - echo Create production build
+      - npm run build
+  post_build:
+      commands:
+        - echo Deploy to S3.......
+artifacts: 
+  files:
+    - '**/*'
+  discard-paths: no
+  base-directory: main/frontend/build
