@@ -11,7 +11,7 @@ import json
 from .functions import get_marker_color, get_group, get_popup
 
 # Leikkipaikkojen haku määrä, muuta pienemmäksi nopeampaa testailua varten
-x = 399
+x = 100
 
 # Tein frontin kansioon map.html tiedoston johon tää on esimerkkinä liitetty
 class map(TemplateView):
@@ -22,12 +22,13 @@ class map(TemplateView):
         figure = folium.Figure()
         map = folium.Map(
             location=[61.48, 23.8],
-            zoom_start=11,
+            zoom_start=12,
+            zoom_control=False
             #tiles='Stamen Terrain' Tähän vaihtoehtoiset kartta pohjat
         )
         fg = folium.FeatureGroup(name='Leikkikentät')
 
-        plugins.LocateControl(auto_start=True, position='bottomleft', drawCircle=False).add_to(map)
+        plugins.LocateControl(position='bottomleft', icon='glyphicon glyphicon-record', drawCircle=False).add_to(map)
 
         with open('leikkipaikat.json', 'r') as f:
             data = json.load(f)
@@ -38,7 +39,7 @@ class map(TemplateView):
             name = data[str(i)]['name']
             vol = data[str(i)]['vol']
             _x = 350
-            _y = 220
+            _y = 181
             la = data[str(i)]['la']
             lo = data[str(i)]['lo']
             link = "http://maps.google.com/maps?q={},{}&ll={},{}=17".format(la, lo, la, lo)
@@ -53,9 +54,9 @@ class map(TemplateView):
                 folium.Marker(
                     location=[la, lo],
                     popup=popup,
-                    icon=folium.DivIcon(html=f"""<span class="material-icons-outlined">location_on</span>""")
+                    #con=folium.DivIcon(html=f"""<span class="material-icons-outlined">location_on</span>""")
                     #icon=folium.DivIcon(html=f"""<div style="font-family: courier new; color: blue">{street}</div>""") Jos haluatte oikeen sotkusesks
-                    #icon=folium.Icon(color=get_marker_color(vol), icon_color='black', icon='glyphicon glyphicon-map-marker')
+                    icon=folium.Icon(color=get_marker_color(vol), icon_color='black', icon='glyphicon glyphicon-map-marker')
                 ).add_to(fg)
             except KeyError as err:
                 print("Unknown key: ", err)
@@ -63,6 +64,5 @@ class map(TemplateView):
 
         map.add_child(fg)
         map.add_to(figure)
-        folium.LayerControl().add_to(map)
         figure.render()
         return {"map": figure}

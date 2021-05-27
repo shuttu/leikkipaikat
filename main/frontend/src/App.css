@@ -223,7 +223,7 @@ h1 {
 }
 
 .legend_container {
-  width: 350px;
+  width: 400px;
   height: 215px;
   border: solid 2px #FFFFFF;
   border-radius: 25px;
@@ -231,19 +231,37 @@ h1 {
   color: #FFFFFF;
   padding: 20px;
   position: absolute;
+  top: 2em;
+}
+
+@media only screen and (max-width: 450px){
+  .legend_container {
+    width: 90%;
+    top: 8em;
+  }
 }
 
 .legend_marker {
   width: 2em;
 }
 
-.legend_text {
+.legend_text_left {
   position: relative;
   top: 0.2em;
   margin-left: 1em;
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
   font-size: 25px;
+}
+
+.legend_text_right {
+  position: relative;
+  top: 0.2em;
+  margin-right: 1.7em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  float: right;
 }
 
 .legend_close_button_container {

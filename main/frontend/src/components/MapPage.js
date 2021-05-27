@@ -35,15 +35,15 @@ function MapPage() {
       {legend && (
         <div className="legend_container">
           <img className="legend_marker" src={greenMarker} alt="green" />
-          <span className="legend_text">Hiljaista</span>
+          <span className="legend_text_left">Hiljainen</span><span className="legend_text_right">(45-50 dB)</span>
           <br />
           <br />
           <img className="legend_marker" src={yellowMarker} alt="yellow" />
-          <span className="legend_text">Siedettävää</span>
+          <span className="legend_text_left">Hälyisä</span><span className="legend_text_right">(50-60 dB)</span>
           <br />
           <br />
           <img className="legend_marker" src={redMarker} alt="red" />
-          <span className="legend_text">Hirveä mökä</span>
+          <span className="legend_text_left">Meluisa</span><span className="legend_text_right">(60- dB)</span>
           <div className="legend_close_button_container">
             <span className="legend_close_button" onClick={hideLegend}>
               X

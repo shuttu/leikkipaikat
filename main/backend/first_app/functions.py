@@ -19,13 +19,17 @@ def get_popup(link, street, name, vol):
     #<iframe id="myIFrame" width="{}" height="{}" src={}""".format(x,y,url) + """ frameborder="0"></iframe>
     vol += " Desibeliä"
     html = f"""
-        <h1> {name}</h1>
-        <p>Jotain vaikka tekstiä</p>
-        <ul>
-            <li>{street}</li>
-            <li>{vol}</li>
-        </ul>
-        </p>
-        <a href={link} target="myIframe">Ajo-ohjeet</a>
+        <body style='padding: 10px; background-color: #5A0BBA; color: #FFFFFF; @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+                                                                               @import url("https://fonts.googleapis.com/css2?family=Neucha&display=swap");'>
+        <span style='font-family: "Roboto", sans-serif; font-weight: bold; font-size: 25px;'> {name}</span>
+        <br/>
+        <br/>
+        <span style='white-space: nowrap; font-family: "Roboto", sans-serif; font-size: 20px;'>{street}</span>
+        <br/>
+        <span style='font-family: "Roboto", sans-serif; font-size: 20px;'>Etäisyys</span>
+        <br/>
+        <br/>
+        <a style='font-family: "Neucha", cursive; font-size: 25px; text-decoration: none; color: white;' href={link} target="myIframe">Ajo-ohjeet</a>
+        </body>
         """
     return html
