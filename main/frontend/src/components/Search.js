@@ -4,7 +4,7 @@ import axios from 'axios';
 
 function Search() {
   const [inputValue, setInputValue] = useState("");
-  const [playgroundData, setPlaygroundData] = useState([{name: "", address: ""}]);
+  const [playgroundData, setPlaygroundData] = useState([{}]);
 
   const url = 'http://127.0.0.1:8000/leikkipaikat/'
 
@@ -19,6 +19,7 @@ function Search() {
     }
     getData();
   }, [])
+
 
   function handleInputChange(event) {
     setInputValue(event.target.value);
@@ -54,7 +55,11 @@ function Search() {
         if (inputValue == "") {
           return val;
         } else if (
-          val.name.toLowerCase().startsWith(inputValue.toLowerCase())
+          val.name.toLowerCase().includes(inputValue.toLowerCase())
+        ) {
+          return val;
+        } else if (
+          val.address.toLowerCase().includes(inputValue.toLowerCase())
         ) {
           return val;
         }
