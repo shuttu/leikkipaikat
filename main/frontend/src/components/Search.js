@@ -4,6 +4,7 @@ import axios from 'axios';
 
 function Search() {
   const [inputValue, setInputValue] = useState("");
+<<<<<<< HEAD:main/frontend/src/components/Search.js
   const [playgroundData, setPlaygroundData] = useState([{name: "", address: ""}]);
 
   const url = 'http://127.0.0.1:8000/leikkipaikat/'
@@ -19,6 +20,24 @@ function Search() {
     }
     getData();
   }, [])
+=======
+  const [playgroundData, setPlaygroundData] = useState([{}]);
+
+  const url = 'http://127.0.0.1:8000/leikkipaikat/'
+
+  useEffect(() => {
+    const getData = async () => {
+      await axios.get(url)
+      .then(response => {
+        setPlaygroundData(response.data.leikkipaikat.map(item => {
+          return item
+        }))
+      })
+    }
+    getData();
+  }, [])
+
+>>>>>>> develop:main/frontend/src/components/Search.js
 
   function handleInputChange(event) {
     setInputValue(event.target.value);
@@ -54,7 +73,15 @@ function Search() {
         if (inputValue == "") {
           return val;
         } else if (
+<<<<<<< HEAD:main/frontend/src/components/Search.js
           val.name.toLowerCase().startsWith(inputValue.toLowerCase())
+=======
+          val.name.toLowerCase().includes(inputValue.toLowerCase())
+        ) {
+          return val;
+        } else if (
+          val.address.toLowerCase().includes(inputValue.toLowerCase())
+>>>>>>> develop:main/frontend/src/components/Search.js
         ) {
           return val;
         }
