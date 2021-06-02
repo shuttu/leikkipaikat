@@ -4,11 +4,7 @@ from django.http import HttpResponse
 
 # kartan libit
 import folium
-<<<<<<< HEAD:main/backend/first_app/views.py
 from folium import plugins
-=======
-from folium import IFrame, plugins
->>>>>>> develop:main/backend/first_app/views.py
 from django.views.generic import TemplateView
 import requests
 import json
