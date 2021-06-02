@@ -4,7 +4,11 @@ from django.http import HttpResponse
 
 # kartan libit
 import folium
+<<<<<<< HEAD:main/backend/first_app/views.py
+from folium import plugins
+=======
 from folium import IFrame, plugins
+>>>>>>> develop:main/backend/first_app/views.py
 from django.views.generic import TemplateView
 import requests
 import json
@@ -26,6 +30,9 @@ class map(TemplateView):
             zoom_control=False
             #tiles='Stamen Terrain' Tähän vaihtoehtoiset kartta pohjat
         )
+
+        plugins.LocateControl(auto_start=True, position='bottomleft', drawCircle=False).add_to(map)
+
         fg = folium.FeatureGroup(name='Leikkikentät')
 
         plugins.LocateControl(position='bottomleft', icon='glyphicon glyphicon-record', drawCircle=False).add_to(map)
