@@ -130,9 +130,26 @@ h1 {
 
 .custom-card {
   width: 350px !important;
+  padding: 1em;
   margin-bottom: 1em !important;
   border: none !important;
   border-radius: 25px !important;
+  background-color: #FFFFFF;
+}
+
+.custom-card-vol-marker-container {
+  width: 2em;
+  float: left;
+}
+
+.custom-card-vol-marker {
+  width: 2em;
+  margin-right: 2em;
+}
+
+.custom-card-content-container {
+  height: 100%;
+  float: left;
 }
 
 .custom-card-name {
