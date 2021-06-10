@@ -16,6 +16,7 @@ import greyMapMarker from "../graphics/Grey-mapmarker.png";
 import greenMapMarker from "../graphics/Green-mapmarker.png";
 import yellowMapMarker from "../graphics/Yellow-mapmarker.png";
 import redMapMarker from "../graphics/Red-mapmarker.png";
+import LeikkipaikkaData from '../leikkipaikat.json';
 
 const MapPage = () => {
   const [legend, setLegend] = useState(false);
@@ -30,22 +31,18 @@ const MapPage = () => {
     setLegend(true);
   };
 
-  const url = "http://127.0.0.1:8000/map/";
-
   useEffect(() => {
     navigator.geolocation.getCurrentPosition((pos) => {
       setUserPos([pos.coords.latitude, pos.coords.longitude]);
     });
-    const getData = async () => {
-      await axios.get(url).then((response) => {
-        const data = [];
-        for (let i = 0; i < Object.keys(response.data).length; i++) {
-          data.push({ key: i, ...response.data[i] });
+    const GetData = () => {
+        const paikat = [];
+        for(let data of Object.keys(LeikkipaikkaData)) {
+          paikat.push(LeikkipaikkaData[data])
         }
-        setMapData(data);
-      });
+        setMapData(paikat);
     };
-    getData();
+    GetData();
   }, []);
 
   let greyIcon = new L.Icon({

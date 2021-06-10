@@ -1,0 +1,3629 @@
+{
+       "0": {
+              "name": "ANNALAN KOULU, ANNALAN TOIMIPISTE",
+              "street": "JUVANKATU 53",
+              "vol": "Empty",
+              "la": "61.46471093",
+              "lo": "23.89650927",
+              "point": "POINT (24494482.3698425 6817282.0414555)",
+              "link": "http://maps.google.com/maps?q=61.46471093,23.89650927&ll=61.46471093,23.89650927=17"
+       },
+       "1": {
+              "name": "ANNALAN P\u00c4IV\u00c4KOTI",
+              "street": "KOLUNKATU 2",
+              "vol": "Empty",
+              "la": "61.46503526",
+              "lo": "23.88992144",
+              "point": "POINT (24494131.199529916 6817318.758974825)",
+              "link": "http://maps.google.com/maps?q=61.46503526,23.88992144&ll=61.46503526,23.88992144=17"
+       },
+       "2": {
+              "name": "METS\u00c4NIITYN P\u00c4IV\u00c4KOTI",
+              "street": "PITK\u00c4NIITYNKATU 1",
+              "vol": "45-50",
+              "la": "61.46177299",
+              "lo": "23.90394639",
+              "point": "POINT (24494878.39923335 6816954.041120868)",
+              "link": "http://maps.google.com/maps?q=61.46177299,23.90394639&ll=61.46177299,23.90394639=17"
+       },
+       "3": {
+              "name": "LEINOLAN P\u00c4IV\u00c4KOTI",
+              "street": "ILMATTARENKATU 16",
+              "vol": "45-50",
+              "la": "61.48753125",
+              "lo": "23.91941046",
+              "point": "POINT (24495706.49369806 6819823.345645941)",
+              "link": "http://maps.google.com/maps?q=61.48753125,23.91941046&ll=61.48753125,23.91941046=17"
+       },
+       "4": {
+              "name": "KALKUN KOULU",
+              "street": "KALKUNKATU 34",
+              "vol": "50-55",
+              "la": "61.49576034",
+              "lo": "23.57819182",
+              "point": "POINT (24477533.69400607 6820810.3928175215)",
+              "link": "http://maps.google.com/maps?q=61.49576034,23.57819182&ll=61.49576034,23.57819182=17"
+       },
+       "5": {
+              "name": "ALEKSANTERIN KOULU",
+              "street": "HALLITUSKATU 26",
+              "vol": "55-60",
+              "la": "61.49664782",
+              "lo": "23.75081681",
+              "point": "POINT (24486728.364849314 6820861.978667688)",
+              "link": "http://maps.google.com/maps?q=61.49664782,23.75081681&ll=61.49664782,23.75081681=17"
+       },
+       "6": {
+              "name": "KALEVANHARJUN P\u00c4IV\u00c4KOTI",
+              "street": "KALEVANTIE 8",
+              "vol": "45-50",
+              "la": "61.49459954",
+              "lo": "23.78503009",
+              "point": "POINT (24488549.825482827 6820627.238701036)",
+              "link": "http://maps.google.com/maps?q=61.49459954,23.78503009&ll=61.49459954,23.78503009=17"
+       },
+       "7": {
+              "name": "VIINIKAN P\u00c4IV\u00c4KOTI",
+              "street": "LAMPITIE 42",
+              "vol": "50-55",
+              "la": "61.48492968",
+              "lo": "23.78381078",
+              "point": "POINT (24488481.30708734 6819549.875844184)",
+              "link": "http://maps.google.com/maps?q=61.48492968,23.78381078&ll=61.48492968,23.78381078=17"
+       },
+       "8": {
+              "name": "MYLLYPURONPUISTO KESKI",
+              "street": "TEOLLISUUSTIE - TUOHIKORVENTIE",
+              "vol": "45-50",
+              "la": "61.50784537",
+              "lo": "23.59017281",
+              "point": "POINT (24478180.28373671 6822153.0285538165)",
+              "link": "http://maps.google.com/maps?q=61.50784537,23.59017281&ll=61.50784537,23.59017281=17"
+       },
+       "9": {
+              "name": "KISAPUISTON KOULU+P\u00c4IV\u00c4KOTI",
+              "street": "TER\u00c4SKATU 1",
+              "vol": "Empty",
+              "la": "61.44608806",
+              "lo": "23.85017544",
+              "point": "POINT (24492007.307566486 6815211.572744503)",
+              "link": "http://maps.google.com/maps?q=61.44608806,23.85017544&ll=61.44608806,23.85017544=17"
+       },
+       "10": {
+              "name": "KISAPUISTON KOULU+P\u00c4IV\u00c4KOTI",
+              "street": "TER\u00c4SKATU 1",
+              "vol": "Empty",
+              "la": "61.44603372",
+              "lo": "23.85121884",
+              "point": "POINT (24492062.95601093 6815205.390636249)",
+              "link": "http://maps.google.com/maps?q=61.44603372,23.85121884&ll=61.44603372,23.85121884=17"
+       },
+       "11": {
+              "name": "AHJOLAN P\u00c4IV\u00c4KOTI",
+              "street": "AHJOLANKATU 3",
+              "vol": "55-60",
+              "la": "61.50546514",
+              "lo": "23.70988327",
+              "point": "POINT (24484552.603535 6821853.5682985)",
+              "link": "http://maps.google.com/maps?q=61.50546514,23.70988327&ll=61.50546514,23.70988327=17"
+       },
+       "12": {
+              "name": "KISAPUISTON KOULU+P\u00c4IV\u00c4KOTI",
+              "street": "TER\u00c4SKATU 1",
+              "vol": "Empty",
+              "la": "61.44558931",
+              "lo": "23.85113558",
+              "point": "POINT (24492058.401589256 6815155.876941407)",
+              "link": "http://maps.google.com/maps?q=61.44558931,23.85113558&ll=61.44558931,23.85113558=17"
+       },
+       "13": {
+              "name": "KAAKKURINPUISTO",
+              "street": "SIRPPITIE",
+              "vol": "55-60",
+              "la": "61.48814905",
+              "lo": "23.78916186",
+              "point": "POINT (24488767.5753675 6819907.697644)",
+              "link": "http://maps.google.com/maps?q=61.48814905,23.78916186&ll=61.48814905,23.78916186=17"
+       },
+       "14": {
+              "name": "RIIHIPUISTO",
+              "street": "RIIHITIE - JOKIPOHJANTIE",
+              "vol": "50-55",
+              "la": "61.48337518",
+              "lo": "23.79580005",
+              "point": "POINT (24489119.558905628 6819374.587983783)",
+              "link": "http://maps.google.com/maps?q=61.48337518,23.79580005&ll=61.48337518,23.79580005=17"
+       },
+       "15": {
+              "name": "KARUKANPUISTO",
+              "street": "KARUKANTIE",
+              "vol": "50-55",
+              "la": "61.48034954",
+              "lo": "23.80125907",
+              "point": "POINT (24489409.404965 6819036.521665)",
+              "link": "http://maps.google.com/maps?q=61.48034954,23.80125907&ll=61.48034954,23.80125907=17"
+       },
+       "16": {
+              "name": "OSMONPUISTO IT\u00c4",
+              "street": "TAMMELAN PUISTOKATU - SALHOJANKATU",
+              "vol": "50-55",
+              "la": "61.50461174",
+              "lo": "23.78040179",
+              "point": "POINT (24488307.0618075 6821743.789201)",
+              "link": "http://maps.google.com/maps?q=61.50461174,23.78040179&ll=61.50461174,23.78040179=17"
+       },
+       "17": {
+              "name": "LAMPIPUISTO",
+              "street": "NEKALANTIE - VIINIKANPUISTO",
+              "vol": "50-55",
+              "la": "61.48491628",
+              "lo": "23.79250495",
+              "point": "POINT (24488944.532115 6819546.876826)",
+              "link": "http://maps.google.com/maps?q=61.48491628,23.79250495&ll=61.48491628,23.79250495=17"
+       },
+       "18": {
+              "name": "VEISUNPUISTO",
+              "street": "UOTILANTIE - PENTTIL\u00c4NKATU",
+              "vol": "50-55",
+              "la": "61.47514814",
+              "lo": "23.81667218",
+              "point": "POINT (24490229.11443305 6818454.4884802)",
+              "link": "http://maps.google.com/maps?q=61.47514814,23.81667218&ll=61.47514814,23.81667218=17"
+       },
+       "19": {
+              "name": "VAAKONPUISTO",
+              "street": "NOKIANTIE - VAAKONKATU",
+              "vol": "45-50",
+              "la": "61.50324716",
+              "lo": "23.66350786",
+              "point": "POINT (24482082.062215 6821618.27152)",
+              "link": "http://maps.google.com/maps?q=61.50324716,23.66350786&ll=61.50324716,23.66350786=17"
+       },
+       "20": {
+              "name": "PETSAMONPUISTO",
+              "street": "MUTKAKATU - LEPOKATU",
+              "vol": "50-55",
+              "la": "61.50679488",
+              "lo": "23.79290767",
+              "point": "POINT (24488973.733232602 6821984.892522001)",
+              "link": "http://maps.google.com/maps?q=61.50679488,23.79290767&ll=61.50679488,23.79290767=17"
+       },
+       "21": {
+              "name": "LITUKANPUISTO",
+              "street": "KAUPINKATU - LITUKANKATU",
+              "vol": "45-50",
+              "la": "61.50345432",
+              "lo": "23.79749488",
+              "point": "POINT (24489216.814385 6821611.8632455)",
+              "link": "http://maps.google.com/maps?q=61.50345432,23.79749488&ll=61.50345432,23.79749488=17"
+       },
+       "22": {
+              "name": "RAUTAPELLONPUISTO",
+              "street": "RAUTAPELLONKATU - HALMEENKATU",
+              "vol": "55-60",
+              "la": "61.48723702",
+              "lo": "23.83871103",
+              "point": "POINT (24491407.057236295 6819798.5319262855)",
+              "link": "http://maps.google.com/maps?q=61.48723702,23.83871103&ll=61.48723702,23.83871103=17"
+       },
+       "23": {
+              "name": "KALEVAN KESKUSPUISTO",
+              "street": "JOUKAHAISENKATU - LEMMINK\u00c4ISENKATU",
+              "vol": "50-55",
+              "la": "61.49765149",
+              "lo": "23.81199816",
+              "point": "POINT (24489987.232694246 6820962.899749279)",
+              "link": "http://maps.google.com/maps?q=61.49765149,23.81199816&ll=61.49765149,23.81199816=17"
+       },
+       "24": {
+              "name": "KALEVAN KESKUSPUISTO",
+              "street": "JOUKAHAISENKATU - LEMMINK\u00c4ISENKATU",
+              "vol": "50-55",
+              "la": "61.49923435",
+              "lo": "23.80765228",
+              "point": "POINT (24489756.296892077 6821139.964814014)",
+              "link": "http://maps.google.com/maps?q=61.49923435,23.80765228&ll=61.49923435,23.80765228=17"
+       },
+       "25": {
+              "name": "KELTANOKANPUISTO IT\u00c4",
+              "street": "VILPPULANPOLKU - VIRTAINPOLKU",
+              "vol": "Empty",
+              "la": "61.45571766",
+              "lo": "23.84298556",
+              "point": "POINT (24491626.3325025 6816285.562567)",
+              "link": "http://maps.google.com/maps?q=61.45571766,23.84298556&ll=61.45571766,23.84298556=17"
+       },
+       "26": {
+              "name": "KALLENPUISTO",
+              "street": "KIVINIEMENKATU - KALKUNKULMA",
+              "vol": "50-55",
+              "la": "61.49682977",
+              "lo": "23.58208115",
+              "point": "POINT (24477741.608942382 6820928.231533962)",
+              "link": "http://maps.google.com/maps?q=61.49682977,23.58208115&ll=61.49682977,23.58208115=17"
+       },
+       "27": {
+              "name": "PYH\u00c4LL\u00d6NPUISTO LOUNAS",
+              "street": "M\u00c4NNIST\u00d6NKUJA - PYH\u00c4LL\u00d6NPOLKU",
+              "vol": "Empty",
+              "la": "61.52935901",
+              "lo": "23.70368233",
+              "point": "POINT (24484234.5369875 6824517.7113535)",
+              "link": "http://maps.google.com/maps?q=61.52935901,23.70368233&ll=61.52935901,23.70368233=17"
+       },
+       "28": {
+              "name": "PALOKALLIONPUISTO",
+              "street": "PALOKALLIONKATU",
+              "vol": "50-55",
+              "la": "61.44993140",
+              "lo": "23.75741534",
+              "point": "POINT (24487060.4392875 6815654.74372)",
+              "link": "http://maps.google.com/maps?q=61.44993140,23.75741534&ll=61.44993140,23.75741534=17"
+       },
+       "29": {
+              "name": "KARIKEPUISTO",
+              "street": "PEHKUSUONKATU-LEIMIKONKATU-KARIKEKATU",
+              "vol": "55-60",
+              "la": "61.46746056",
+              "lo": "23.82372200",
+              "point": "POINT (24490602.5348575 6817596.774286)",
+              "link": "http://maps.google.com/maps?q=61.46746056,23.82372200&ll=61.46746056,23.82372200=17"
+       },
+       "30": {
+              "name": "IHAISTENPUISTO",
+              "street": "IHAISTENKATU",
+              "vol": "Empty",
+              "la": "61.53817153",
+              "lo": "23.67144702",
+              "point": "POINT (24482524.430375 6825507.9731275)",
+              "link": "http://maps.google.com/maps?q=61.53817153,23.67144702&ll=61.53817153,23.67144702=17"
+       },
+       "31": {
+              "name": "PELTOVAINIONPUISTO ETEL\u00c4",
+              "street": "PELTOVAINIONKATU",
+              "vol": "50-55",
+              "la": "61.52271283",
+              "lo": "23.66930120",
+              "point": "POINT (24482401.5557725 6823785.880444)",
+              "link": "http://maps.google.com/maps?q=61.52271283,23.66930120&ll=61.52271283,23.66930120=17"
+       },
+       "32": {
+              "name": "ISONIEMENPUISTO",
+              "street": "ISONIEMENKATU",
+              "vol": "Empty",
+              "la": "61.52848894",
+              "lo": "23.68476781",
+              "point": "POINT (24483227.733885 6824425.474426)",
+              "link": "http://maps.google.com/maps?q=61.52848894,23.68476781&ll=61.52848894,23.68476781=17"
+       },
+       "33": {
+              "name": "TANHUANPUISTO",
+              "street": "HUUNALANKATU - TANHUANKATU",
+              "vol": "50-55",
+              "la": "61.49424574",
+              "lo": "23.86095570",
+              "point": "POINT (24492593.8434625 6820576.833055)",
+              "link": "http://maps.google.com/maps?q=61.49424574,23.86095570&ll=61.49424574,23.86095570=17"
+       },
+       "34": {
+              "name": "HALLILAN KOULU/ PVK/ NEUVOLA",
+              "street": "HAVUMETS\u00c4NKATU 1",
+              "vol": "50-55",
+              "la": "61.46364639",
+              "lo": "23.83952639",
+              "point": "POINT (24491444.027236134 6817169.561914287)",
+              "link": "http://maps.google.com/maps?q=61.46364639,23.83952639&ll=61.46364639,23.83952639=17"
+       },
+       "35": {
+              "name": "HALLILAN KOULU/ PVK/ NEUVOLA",
+              "street": "HAVUMETS\u00c4NKATU 1",
+              "vol": "55-60",
+              "la": "61.46405735",
+              "lo": "23.84029694",
+              "point": "POINT (24491485.222754315 6817215.256744753)",
+              "link": "http://maps.google.com/maps?q=61.46405735,23.84029694&ll=61.46405735,23.84029694=17"
+       },
+       "36": {
+              "name": "SORILAN P\u00c4IV\u00c4KOTI",
+              "street": "SORILANRAITTI 14",
+              "vol": "50-55",
+              "la": "61.55561373",
+              "lo": "23.93247225",
+              "point": "POINT (24496410.23653 6827409.510214)",
+              "link": "http://maps.google.com/maps?q=61.55561373,23.93247225&ll=61.55561373,23.93247225=17"
+       },
+       "37": {
+              "name": "TER\u00c4LAHDEN P\u00c4IV\u00c4KOTI",
+              "street": "NIEMIKYL\u00c4NTIE 14",
+              "vol": "45-50",
+              "la": "61.70787988",
+              "lo": "23.90238142",
+              "point": "POINT (24494836.0523925 6844379.995498)",
+              "link": "http://maps.google.com/maps?q=61.70787988,23.90238142&ll=61.70787988,23.90238142=17"
+       },
+       "38": {
+              "name": "SAMMON P\u00c4IV\u00c4KOTI",
+              "street": "LEMMINK\u00c4ISENKATU 11",
+              "vol": "45-50",
+              "la": "61.49850257",
+              "lo": "23.80848065",
+              "point": "POINT (24489800.173067037 6821058.287411201)",
+              "link": "http://maps.google.com/maps?q=61.49850257,23.80848065&ll=61.49850257,23.80848065=17"
+       },
+       "39": {
+              "name": "IRJALAN P\u00c4IV\u00c4KOTI",
+              "street": "IRJALANKUJA 4",
+              "vol": "50-55",
+              "la": "61.49711049",
+              "lo": "23.84978713",
+              "point": "POINT (24491999.689268634 6820897.39243397)",
+              "link": "http://maps.google.com/maps?q=61.49711049,23.84978713&ll=61.49711049,23.84978713=17"
+       },
+       "40": {
+              "name": "HAIHARANPUISTO",
+              "street": "J\u00c4RVIKATU",
+              "vol": "50-55",
+              "la": "61.47268531",
+              "lo": "23.89217946",
+              "point": "POINT (24494252.994625 6818171.054566)",
+              "link": "http://maps.google.com/maps?q=61.47268531,23.89217946&ll=61.47268531,23.89217946=17"
+       },
+       "41": {
+              "name": "K\u00c4\u00c4RMEKALLIONPUISTO",
+              "street": "TESOMAJ\u00c4RVENKATU - K\u00c4\u00c4RMEKALLIONPOLKU",
+              "vol": "50-55",
+              "la": "61.50550010",
+              "lo": "23.62350690",
+              "point": "POINT (24479953.509091172 6821880.977342567)",
+              "link": "http://maps.google.com/maps?q=61.50550010,23.62350690&ll=61.50550010,23.62350690=17"
+       },
+       "42": {
+              "name": "LINTUPUISTO",
+              "street": "LINDFORSINKATU-URHEILIJANPOLKU-V\u00c4LKYNRAITTI",
+              "vol": "Empty",
+              "la": "61.45067379",
+              "lo": "23.84200866",
+              "point": "POINT (24491572.87250947 6815723.617790835)",
+              "link": "http://maps.google.com/maps?q=61.45067379,23.84200866&ll=61.45067379,23.84200866=17"
+       },
+       "43": {
+              "name": "MULTISILLANPUISTO",
+              "street": "MULTISILLANKATU - MULTISILLANPOLKU",
+              "vol": "50-55",
+              "la": "61.43781816",
+              "lo": "23.74722435",
+              "point": "POINT (24486511.61904881 6814306.958811126)",
+              "link": "http://maps.google.com/maps?q=61.43781816,23.74722435&ll=61.43781816,23.74722435=17"
+       },
+       "44": {
+              "name": "PILOTINPUISTO",
+              "street": "KOELENT\u00c4J\u00c4NKATU - PILOTINPOLKU",
+              "vol": "55-60",
+              "la": "61.46461489",
+              "lo": "23.74177883",
+              "point": "POINT (24486232.86283 6817294.216282)",
+              "link": "http://maps.google.com/maps?q=61.46461489,23.74177883&ll=61.46461489,23.74177883=17"
+       },
+       "45": {
+              "name": "VARVARINPUISTO",
+              "street": "LEMP\u00c4\u00c4L\u00c4NTIE - PERKKOONKATU",
+              "vol": "50-55",
+              "la": "61.43518432",
+              "lo": "23.75261802",
+              "point": "POINT (24486798.317058805 6814012.35140708)",
+              "link": "http://maps.google.com/maps?q=61.43518432,23.75261802&ll=61.43518432,23.75261802=17"
+       },
+       "46": {
+              "name": "LOUTUNPUISTO",
+              "street": "LOUTUNKATU",
+              "vol": "50-55",
+              "la": "61.49695737",
+              "lo": "23.84015407",
+              "point": "POINT (24491486.5929675 6820881.5491015)",
+              "link": "http://maps.google.com/maps?q=61.49695737,23.84015407&ll=61.49695737,23.84015407=17"
+       },
+       "47": {
+              "name": "VEIKONPUISTO",
+              "street": "K\u00c4\u00c4RMEKALLIONPOLKU",
+              "vol": "Empty",
+              "la": "61.50618843",
+              "lo": "23.61788449",
+              "point": "POINT (24479654.594097964 6821959.424777917)",
+              "link": "http://maps.google.com/maps?q=61.50618843,23.61788449&ll=61.50618843,23.61788449=17"
+       },
+       "48": {
+              "name": "KILLERIN LEIKKIPUISTO",
+              "street": "KILLERINKATU",
+              "vol": "50-55",
+              "la": "61.49852385",
+              "lo": "23.62746016",
+              "point": "POINT (24480159.557687774 6821102.361687727)",
+              "link": "http://maps.google.com/maps?q=61.49852385,23.62746016&ll=61.49852385,23.62746016=17"
+       },
+       "49": {
+              "name": "SOTKANPUISTO",
+              "street": "N\u00c4SIJ\u00c4RVENKATU",
+              "vol": "55-60",
+              "la": "61.50107624",
+              "lo": "23.73951832",
+              "point": "POINT (24486128.57471039 6821357.8198211575)",
+              "link": "http://maps.google.com/maps?q=61.50107624,23.73951832&ll=61.50107624,23.73951832=17"
+       },
+       "50": {
+              "name": "PYYNIKINTORI",
+              "street": "F. E. SILLANP\u00c4\u00c4NKATU",
+              "vol": "55-60",
+              "la": "61.49679978",
+              "lo": "23.74142883",
+              "point": "POINT (24486228.424750146 6820880.860312225)",
+              "link": "http://maps.google.com/maps?q=61.49679978,23.74142883&ll=61.49679978,23.74142883=17"
+       },
+       "51": {
+              "name": "TAMPEREEN KANSAINV\u00c4LINEN KOULU, FISTA",
+              "street": "SATAKUNNANKATU 60",
+              "vol": "50-55",
+              "la": "61.49968171",
+              "lo": "23.73898544",
+              "point": "POINT (24486099.575184867 6821202.531340826)",
+              "link": "http://maps.google.com/maps?q=61.49968171,23.73898544&ll=61.49968171,23.73898544=17"
+       },
+       "52": {
+              "name": "LINNAINMAAN KOULU",
+              "street": "LINNAINMAANKATU 12",
+              "vol": "50-55",
+              "la": "61.49087683",
+              "lo": "23.89393456",
+              "point": "POINT (24494349.841441 6820198.110162307)",
+              "link": "http://maps.google.com/maps?q=61.49087683,23.89393456&ll=61.49087683,23.89393456=17"
+       },
+       "53": {
+              "name": "LINNAINMAAN P\u00c4IV\u00c4KOTI",
+              "street": "HANNULANKATU 8",
+              "vol": "50-55",
+              "la": "61.49252801",
+              "lo": "23.88452679",
+              "point": "POINT (24493849.011467338 6820382.963496631)",
+              "link": "http://maps.google.com/maps?q=61.49252801,23.88452679&ll=61.49252801,23.88452679=17"
+       },
+       "54": {
+              "name": "LINNAINMAAN P\u00c4IV\u00c4KOTI",
+              "street": "HANNULANKATU 8",
+              "vol": "50-55",
+              "la": "61.49231969",
+              "lo": "23.88481838",
+              "point": "POINT (24493864.502488393 6820359.721717623)",
+              "link": "http://maps.google.com/maps?q=61.49231969,23.88481838&ll=61.49231969,23.88481838=17"
+       },
+       "55": {
+              "name": "PALLOPUISTON P\u00c4IV\u00c4KOTI (LIIKEKESKUS)",
+              "street": "PARKANONKATU 29",
+              "vol": "Empty",
+              "la": "61.45295746",
+              "lo": "23.83247252",
+              "point": "POINT (24491064.87736307 6815979.37025887)",
+              "link": "http://maps.google.com/maps?q=61.45295746,23.83247252&ll=61.45295746,23.83247252=17"
+       },
+       "56": {
+              "name": "LEINOLAN TOIMINTAKESKUS",
+              "street": "SAMMALLADONKATU 1",
+              "vol": "55-60",
+              "la": "61.49351707",
+              "lo": "23.91185537",
+              "point": "POINT (24495304.889332246 6820490.909439363)",
+              "link": "http://maps.google.com/maps?q=61.49351707,23.91185537&ll=61.49351707,23.91185537=17"
+       },
+       "57": {
+              "name": "LEINOLAN TOIMINTAKESKUS",
+              "street": "SAMMALLADONKATU 1",
+              "vol": "50-55",
+              "la": "61.49456717",
+              "lo": "23.91258157",
+              "point": "POINT (24495343.727946486 6820607.877222806)",
+              "link": "http://maps.google.com/maps?q=61.49456717,23.91258157&ll=61.49456717,23.91258157=17"
+       },
+       "58": {
+              "name": "KALKUN P\u00c4IV\u00c4KOTI",
+              "street": "PITK\u00c4NIEMENKATU 19",
+              "vol": "45-50",
+              "la": "61.49712657",
+              "lo": "23.58426698",
+              "point": "POINT (24477858.236258402 6820960.5616169935)",
+              "link": "http://maps.google.com/maps?q=61.49712657,23.58426698&ll=61.49712657,23.58426698=17"
+       },
+       "59": {
+              "name": "RAHOLAN KOULU",
+              "street": "METS\u00c4KYL\u00c4NKATU 7",
+              "vol": "50-55",
+              "la": "61.49897427",
+              "lo": "23.63263093",
+              "point": "POINT (24480435.219380505 6821150.992049271)",
+              "link": "http://maps.google.com/maps?q=61.49897427,23.63263093&ll=61.49897427,23.63263093=17"
+       },
+       "60": {
+              "name": "RAHOLAN P\u00c4IV\u00c4KOTI",
+              "street": "JURVALANKATU 3",
+              "vol": "50-55",
+              "la": "61.49829429",
+              "lo": "23.63939902",
+              "point": "POINT (24480795.241917834 6821073.205693917)",
+              "link": "http://maps.google.com/maps?q=61.49829429,23.63939902&ll=61.49829429,23.63939902=17"
+       },
+       "61": {
+              "name": "HARJUN KOULU",
+              "street": "NOKIANTIE 22",
+              "vol": "55-60",
+              "la": "61.50316577",
+              "lo": "23.65752864",
+              "point": "POINT (24481763.628385004 6821610.859948605)",
+              "link": "http://maps.google.com/maps?q=61.50316577,23.65752864&ll=61.50316577,23.65752864=17"
+       },
+       "62": {
+              "name": "LIELAHDEN P\u00c4IV\u00c4KOTI",
+              "street": "OLLINOJANKATU 6",
+              "vol": "50-55",
+              "la": "61.52360279",
+              "lo": "23.67821870",
+              "point": "POINT (24482876.595427386 6823882.679464685)",
+              "link": "http://maps.google.com/maps?q=61.52360279,23.67821870&ll=61.52360279,23.67821870=17"
+       },
+       "63": {
+              "name": "LENT\u00c4V\u00c4NNIEMEN KOULU",
+              "street": "LENT\u00c4V\u00c4NNIEMENKATU 3",
+              "vol": "45-50",
+              "la": "61.52590430",
+              "lo": "23.69836213",
+              "point": "POINT (24483949.6979525 6824134.02703)",
+              "link": "http://maps.google.com/maps?q=61.52590430,23.69836213&ll=61.52590430,23.69836213=17"
+       },
+       "64": {
+              "name": "VEHMAISTEN P\u00c4IV\u00c4KOTI",
+              "street": "SEIMENKATU 1",
+              "vol": "50-55",
+              "la": "61.47760078",
+              "lo": "23.92070108",
+              "point": "POINT (24495773.907359805 6818716.639064645)",
+              "link": "http://maps.google.com/maps?q=61.47760078,23.92070108&ll=61.47760078,23.92070108=17"
+       },
+       "65": {
+              "name": "VEHMAISTEN KOULU",
+              "street": "SARVANNANKATU 7",
+              "vol": "50-55",
+              "la": "61.47578470",
+              "lo": "23.91988041",
+              "point": "POINT (24495729.92275279 6818514.313429237)",
+              "link": "http://maps.google.com/maps?q=61.47578470,23.91988041&ll=61.47578470,23.91988041=17"
+       },
+       "66": {
+              "name": "J\u00c4RVENSIVUN KOULU",
+              "street": "P\u00d6LL\u00d6NTAIVAL 1",
+              "vol": "65-70",
+              "la": "61.48795551",
+              "lo": "23.81433804",
+              "point": "POINT (24490108.775060028 6819882.052934131)",
+              "link": "http://maps.google.com/maps?q=61.48795551,23.81433804&ll=61.48795551,23.81433804=17"
+       },
+       "67": {
+              "name": "TAKAHUHDIN KOULU, VL 0-4 ",
+              "street": "HINTSANKATU 4",
+              "vol": "50-55",
+              "la": "61.49034260",
+              "lo": "23.85856717",
+              "point": "POINT (24492465.67565 6820142.1526705)",
+              "link": "http://maps.google.com/maps?q=61.49034260,23.85856717&ll=61.49034260,23.85856717=17"
+       },
+       "68": {
+              "name": "VESANPUISTO",
+              "street": "VESANKATU - KANNISTONKATU",
+              "vol": "50-55",
+              "la": "61.47020126",
+              "lo": "23.75702795",
+              "point": "POINT (24487048.19068244 6817913.616645996)",
+              "link": "http://maps.google.com/maps?q=61.47020126,23.75702795&ll=61.47020126,23.75702795=17"
+       },
+       "69": {
+              "name": "VUOHENHIEKANPUISTO",
+              "street": "KIRKKOSUONKATU - HERVANNAN VALTAV\u00c4YL\u00c4",
+              "vol": "55-60",
+              "la": "61.48434203",
+              "lo": "23.83080212",
+              "point": "POINT (24490984.8597225 6819476.991079)",
+              "link": "http://maps.google.com/maps?q=61.48434203,23.83080212&ll=61.48434203,23.83080212=17"
+       },
+       "70": {
+              "name": "H\u00c4RM\u00c4L\u00c4N KOULU",
+              "street": "NUOLIALANTIE 47",
+              "vol": "50-55",
+              "la": "61.46972810",
+              "lo": "23.73417670",
+              "point": "POINT (24485829.877377644 6817865.64079121)",
+              "link": "http://maps.google.com/maps?q=61.46972810,23.73417670&ll=61.46972810,23.73417670=17"
+       },
+       "71": {
+              "name": "LEPOLAN P\u00c4IV\u00c4KOTI",
+              "street": "LENTOKONETEHTAANKATU 2",
+              "vol": "50-55",
+              "la": "61.47098911",
+              "lo": "23.73466027",
+              "point": "POINT (24485856.226154655 6818006.058116219)",
+              "link": "http://maps.google.com/maps?q=61.47098911,23.73466027&ll=61.47098911,23.73466027=17"
+       },
+       "72": {
+              "name": "LEPOLAN P\u00c4IV\u00c4KOTI",
+              "street": "LENTOKONETEHTAANKATU 2",
+              "vol": "45-50",
+              "la": "61.47148687",
+              "lo": "23.73488903",
+              "point": "POINT (24485868.645628072 6818061.476932372)",
+              "link": "http://maps.google.com/maps?q=61.47148687,23.73488903&ll=61.47148687,23.73488903=17"
+       },
+       "73": {
+              "name": "HATANP\u00c4\u00c4N KOULU",
+              "street": "HAAPAKUJA 2",
+              "vol": "60-65",
+              "la": "61.47469070",
+              "lo": "23.76315227",
+              "point": "POINT (24487376.468112323 6818412.702652705)",
+              "link": "http://maps.google.com/maps?q=61.47469070,23.76315227&ll=61.47469070,23.76315227=17"
+       },
+       "74": {
+              "name": "KOIVISTON KOULU",
+              "street": "LEHV\u00c4NKATU 9",
+              "vol": "50-55",
+              "la": "61.47126155",
+              "lo": "23.79597777",
+              "point": "POINT (24489124.805044916 6818024.656016246)",
+              "link": "http://maps.google.com/maps?q=61.47126155,23.79597777&ll=61.47126155,23.79597777=17"
+       },
+       "75": {
+              "name": "KOIVISTONKYL\u00c4N P\u00c4IV\u00c4KOTI",
+              "street": "KOIVISTONTIE 50",
+              "vol": "50-55",
+              "la": "61.47082710",
+              "lo": "23.79321300",
+              "point": "POINT (24488977.278472666 6817976.706284564)",
+              "link": "http://maps.google.com/maps?q=61.47082710,23.79321300&ll=61.47082710,23.79321300=17"
+       },
+       "76": {
+              "name": "TURTOLAN P\u00c4IV\u00c4KOTI",
+              "street": "TURTOLANTANHUA 3",
+              "vol": "55-60",
+              "la": "61.47453282",
+              "lo": "23.84560133",
+              "point": "POINT (24491770.796894662 6818381.926413446)",
+              "link": "http://maps.google.com/maps?q=61.47453282,23.84560133&ll=61.47453282,23.84560133=17"
+       },
+       "77": {
+              "name": "MAKASIININ P\u00c4IV\u00c4KOTI",
+              "street": "IRJALANKUJA 4",
+              "vol": "50-55",
+              "la": "61.49738822",
+              "lo": "23.85101579",
+              "point": "POINT (24492065.197702516 6820928.192111295)",
+              "link": "http://maps.google.com/maps?q=61.49738822,23.85101579&ll=61.49738822,23.85101579=17"
+       },
+       "78": {
+              "name": "IRJALAN P\u00c4IV\u00c4KOTI",
+              "street": "IRJALANKUJA 4",
+              "vol": "50-55",
+              "la": "61.49667638",
+              "lo": "23.85006759",
+              "point": "POINT (24492014.515170727 6820848.982375175)",
+              "link": "http://maps.google.com/maps?q=61.49667638,23.85006759&ll=61.49667638,23.85006759=17"
+       },
+       "79": {
+              "name": "IKURIN P\u00c4IV\u00c4KOTI",
+              "street": "MAAMIEHENTIE 2",
+              "vol": "45-50",
+              "la": "61.51104532",
+              "lo": "23.59557581",
+              "point": "POINT (24478470.155794512 6822507.822748352)",
+              "link": "http://maps.google.com/maps?q=61.51104532,23.59557581&ll=61.51104532,23.59557581=17"
+       },
+       "80": {
+              "name": "KAARILAN KOULU",
+              "street": "VALLERINKATU 11",
+              "vol": "45-50",
+              "la": "61.50669719",
+              "lo": "23.67214543",
+              "point": "POINT (24482543.9369725 6822000.387157)",
+              "link": "http://maps.google.com/maps?q=61.50669719,23.67214543&ll=61.50669719,23.67214543=17"
+       },
+       "81": {
+              "name": "VELLAMON P\u00c4IV\u00c4KOTI ",
+              "street": "AALTOSENKATU 37",
+              "vol": "Empty",
+              "la": "61.50064247",
+              "lo": "23.78177085",
+              "point": "POINT (24488378.479225 6821301.2214415)",
+              "link": "http://maps.google.com/maps?q=61.50064247,23.78177085&ll=61.50064247,23.78177085=17"
+       },
+       "82": {
+              "name": "N\u00c4SIPUISTON P\u00c4IV\u00c4KOTI",
+              "street": "H\u00c4MEENPUISTO 2",
+              "vol": "55-60",
+              "la": "61.50213403",
+              "lo": "23.74960201",
+              "point": "POINT (24486666.0122675 6821473.59256)",
+              "link": "http://maps.google.com/maps?q=61.50213403,23.74960201&ll=61.50213403,23.74960201=17"
+       },
+       "83": {
+              "name": "ATALAN P\u00c4IV\u00c4KOTI",
+              "street": "PULKKAKATU 14",
+              "vol": "50-55",
+              "la": "61.50725587",
+              "lo": "23.91349755",
+              "point": "POINT (24495394.3930325 6822021.8069185)",
+              "link": "http://maps.google.com/maps?q=61.50725587,23.91349755&ll=61.50725587,23.91349755=17"
+       },
+       "84": {
+              "name": "LENT\u00c4V\u00c4NLAAKSON P\u00c4IV\u00c4KOTI",
+              "street": "PORRASSALMENKUJA 6",
+              "vol": "Empty",
+              "la": "61.53141423",
+              "lo": "23.70160784",
+              "point": "POINT (24484125.213455 6824747.241904)",
+              "link": "http://maps.google.com/maps?q=61.53141423,23.70160784&ll=61.53141423,23.70160784=17"
+       },
+       "85": {
+              "name": "TAKAHUHDIN KOULU, VL 5-9",
+              "street": "HANHENM\u00c4ENKATU 2",
+              "vol": "55-60",
+              "la": "61.49015052",
+              "lo": "23.85442911",
+              "point": "POINT (24492245.18798 6820121.232193)",
+              "link": "http://maps.google.com/maps?q=61.49015052,23.85442911&ll=61.49015052,23.85442911=17"
+       },
+       "86": {
+              "name": "HIRVIKALLIONPUISTO",
+              "street": "RUSKONTIE - HIRVIKALLIONKATU",
+              "vol": "Empty",
+              "la": "61.45670670",
+              "lo": "23.90936582",
+              "point": "POINT (24495166.57996 6816389.056672)",
+              "link": "http://maps.google.com/maps?q=61.45670670,23.90936582&ll=61.45670670,23.90936582=17"
+       },
+       "87": {
+              "name": "LENT\u00c4V\u00c4NNIEMEN KOULU",
+              "street": "LENT\u00c4V\u00c4NNIEMENKATU 3",
+              "vol": "Empty",
+              "la": "61.52641159",
+              "lo": "23.69852636",
+              "point": "POINT (24483958.6981775 6824190.517564)",
+              "link": "http://maps.google.com/maps?q=61.52641159,23.69852636&ll=61.52641159,23.69852636=17"
+       },
+       "88": {
+              "name": "KAUKAJ\u00c4RVEN KOULU",
+              "street": "JUVANKATU - MUINAISHAUDANKATU",
+              "vol": "60-65",
+              "la": "61.47071843",
+              "lo": "23.87088536",
+              "point": "POINT (24493117.552265 6817953.933742)",
+              "link": "http://maps.google.com/maps?q=61.47071843,23.87088536&ll=61.47071843,23.87088536=17"
+       },
+       "89": {
+              "name": "JUVAN P\u00c4IV\u00c4KOTI",
+              "street": "K\u00c4\u00c4TYKATU 6",
+              "vol": "55-60",
+              "la": "61.47015190",
+              "lo": "23.87139720",
+              "point": "POINT (24493144.71144089 6817890.747317713)",
+              "link": "http://maps.google.com/maps?q=61.47015190,23.87139720&ll=61.47015190,23.87139720=17"
+       },
+       "90": {
+              "name": "JUVAN P\u00c4IV\u00c4KOTI",
+              "street": "K\u00c4\u00c4TYKATU 6",
+              "vol": "50-55",
+              "la": "61.46975281",
+              "lo": "23.87203939",
+              "point": "POINT (24493178.85640527 6817846.207437026)",
+              "link": "http://maps.google.com/maps?q=61.46975281,23.87203939&ll=61.46975281,23.87203939=17"
+       },
+       "91": {
+              "name": "KAUKAJ\u00c4RVEN P\u00c4IV\u00c4KOTI",
+              "street": "J\u00c4RVIKATU 1",
+              "vol": "50-55",
+              "la": "61.47483368",
+              "lo": "23.88177704",
+              "point": "POINT (24493698.963860504 6818411.423796158)",
+              "link": "http://maps.google.com/maps?q=61.47483368,23.88177704&ll=61.47483368,23.88177704=17"
+       },
+       "92": {
+              "name": "SORIN AUKIO",
+              "street": "HATANP\u00c4\u00c4N VALTATIE - VUOLTEENKATU",
+              "vol": "60-65",
+              "la": "61.49538671",
+              "lo": "23.76991371",
+              "point": "POINT (24487744.9770375 6820717.7061895)",
+              "link": "http://maps.google.com/maps?q=61.49538671,23.76991371&ll=61.49538671,23.76991371=17"
+       },
+       "93": {
+              "name": "PUISTOKOULU, LIISANPUISTON KOULUTALO",
+              "street": "KAUPINKATU 29",
+              "vol": "45-50",
+              "la": "61.49855383",
+              "lo": "23.79884867",
+              "point": "POINT (24489287.217429537 6821065.543624538)",
+              "link": "http://maps.google.com/maps?q=61.49855383,23.79884867&ll=61.49855383,23.79884867=17"
+       },
+       "94": {
+              "name": "P\u00c4\u00c4SKYSEN P\u00c4IV\u00c4KOTI",
+              "street": "ATOMIKATU 5",
+              "vol": "Empty",
+              "la": "61.44407954",
+              "lo": "23.84877257",
+              "point": "POINT (24491931.94986496 6814987.923376526)",
+              "link": "http://maps.google.com/maps?q=61.44407954,23.84877257&ll=61.44407954,23.84877257=17"
+       },
+       "95": {
+              "name": "SAMMON KOULU (YL\u00c4ASTE)",
+              "street": "TEISKONTIE 16",
+              "vol": "50-55",
+              "la": "61.50006566",
+              "lo": "23.79775260",
+              "point": "POINT (24489229.366155338 6821234.198888025)",
+              "link": "http://maps.google.com/maps?q=61.50006566,23.79775260&ll=61.50006566,23.79775260=17"
+       },
+       "96": {
+              "name": "TAMMELAN KOULU",
+              "street": "ILMARINKATU 17",
+              "vol": "45-50",
+              "la": "61.50120550",
+              "lo": "23.78430938",
+              "point": "POINT (24488513.87285341 6821363.513170989)",
+              "link": "http://maps.google.com/maps?q=61.50120550,23.78430938&ll=61.50120550,23.78430938=17"
+       },
+       "97": {
+              "name": "SAUKONPUISTON KOULU",
+              "street": "KAUPINKATU 30",
+              "vol": "45-50",
+              "la": "61.50268099",
+              "lo": "23.79267832",
+              "point": "POINT (24488960.06419 6821526.492121)",
+              "link": "http://maps.google.com/maps?q=61.50268099,23.79267832&ll=61.50268099,23.79267832=17"
+       },
+       "98": {
+              "name": "HIPPOKSEN P\u00c4IV\u00c4KOTI",
+              "street": "KISSANMAANKATU 21",
+              "vol": "60-65",
+              "la": "61.49861154",
+              "lo": "23.82083267",
+              "point": "POINT (24490458.04197449 6821068.560198144)",
+              "link": "http://maps.google.com/maps?q=61.49861154,23.82083267&ll=61.49861154,23.82083267=17"
+       },
+       "99": {
+              "name": "KISSANMAAN PERHETUKIKESKUS",
+              "street": "KARHUNKATU 45",
+              "vol": "50-55",
+              "la": "61.50320811",
+              "lo": "23.82098838",
+              "point": "POINT (24490467.7410425 6821580.7666165)",
+              "link": "http://maps.google.com/maps?q=61.50320811,23.82098838&ll=61.50320811,23.82098838=17"
+       },
+       "100": {
+              "name": "KISSANMAAN PERHETUKIKESKUS",
+              "street": "KARHUNKATU 45",
+              "vol": "55-60",
+              "la": "61.50350657",
+              "lo": "23.82164485",
+              "point": "POINT (24490502.788475875 6821613.929146345)",
+              "link": "http://maps.google.com/maps?q=61.50350657,23.82164485&ll=61.50350657,23.82164485=17"
+       },
+       "101": {
+              "name": "SAMMON P\u00c4IV\u00c4KOTI",
+              "street": "LEMMINK\u00c4ISENKATU 11",
+              "vol": "45-50",
+              "la": "61.49825071",
+              "lo": "23.80895017",
+              "point": "POINT (24489825.095905837 6821030.147387223)",
+              "link": "http://maps.google.com/maps?q=61.49825071,23.80895017&ll=61.49825071,23.80895017=17"
+       },
+       "102": {
+              "name": "KISSANMAAN KOULU",
+              "street": "HIPPOKSENKATU 5",
+              "vol": "50-55",
+              "la": "61.50152242",
+              "lo": "23.81012397",
+              "point": "POINT (24489888.67161 6821394.554542)",
+              "link": "http://maps.google.com/maps?q=61.50152242,23.81012397&ll=61.50152242,23.81012397=17"
+       },
+       "103": {
+              "name": "PELIPUISTON P\u00c4IV\u00c4KOTI (PELIPUISTON L\u00c4HIPALVELUKESKUS OY)",
+              "street": "TEEKKARINKATU 17",
+              "vol": "Empty",
+              "la": "61.44529039",
+              "lo": "23.83316766",
+              "point": "POINT (24491099.7676 6815124.885865)",
+              "link": "http://maps.google.com/maps?q=61.44529039,23.83316766&ll=61.44529039,23.83316766=17"
+       },
+       "104": {
+              "name": "VUOREKSEN KESKUSPUISTO",
+              "street": "M\u00c4YR\u00c4NM\u00c4ENKATU - RAUTIOLANRINNE - LAGERL\u00d6FINKATU",
+              "vol": "Empty",
+              "la": "61.43181495",
+              "lo": "23.81781337",
+              "point": "POINT (24490276.4489025 6813625.4267035)",
+              "link": "http://maps.google.com/maps?q=61.43181495,23.81781337&ll=61.43181495,23.81781337=17"
+       },
+       "105": {
+              "name": "TAKAHUHDIN P\u00c4IV\u00c4KOTI",
+              "street": "HINTSANKATU 4",
+              "vol": "50-55",
+              "la": "61.49074126",
+              "lo": "23.85733539",
+              "point": "POINT (24492400.154415 6820186.720693)",
+              "link": "http://maps.google.com/maps?q=61.49074126,23.85733539&ll=61.49074126,23.85733539=17"
+       },
+       "106": {
+              "name": "PELTOVAINION P\u00c4IV\u00c4KOTI",
+              "street": "PELTOVAINIONKATU 13",
+              "vol": "50-55",
+              "la": "61.52245483",
+              "lo": "23.67036983",
+              "point": "POINT (24482458.27786 6823756.842349)",
+              "link": "http://maps.google.com/maps?q=61.52245483,23.67036983&ll=61.52245483,23.67036983=17"
+       },
+       "107": {
+              "name": "PISPALAN KOULU",
+              "street": "PISPALANHARJU 47",
+              "vol": "Empty",
+              "la": "61.50303913",
+              "lo": "23.71267239",
+              "point": "POINT (24484699.919218667 6821582.564489581)",
+              "link": "http://maps.google.com/maps?q=61.50303913,23.71267239&ll=61.50303913,23.71267239=17"
+       },
+       "108": {
+              "name": "LEINOLAN PERHETUKIKESKUS",
+              "street": "LEINOLANKATU 122",
+              "vol": "50-55",
+              "la": "61.48375813",
+              "lo": "23.90609208",
+              "point": "POINT (24494996.33577538 6819403.829299165)",
+              "link": "http://maps.google.com/maps?q=61.48375813,23.90609208&ll=61.48375813,23.90609208=17"
+       },
+       "109": {
+              "name": "TUOHIKORVENPUISTO",
+              "street": "HAUKILUOMANTIE - TUOHIKORVENTIE - RUISM\u00c4ENKATU",
+              "vol": "45-50",
+              "la": "61.51508555",
+              "lo": "23.59086085",
+              "point": "POINT (24478221.979495 6822959.6156845)",
+              "link": "http://maps.google.com/maps?q=61.51508555,23.59086085&ll=61.51508555,23.59086085=17"
+       },
+       "110": {
+              "name": "RANTAPERKI\u00d6N P\u00c4IV\u00c4KOTI",
+              "street": "TUOMIKUJA 6",
+              "vol": "50-55",
+              "la": "61.47530366",
+              "lo": "23.75998534",
+              "point": "POINT (24487207.92874 6818481.625576)",
+              "link": "http://maps.google.com/maps?q=61.47530366,23.75998534&ll=61.47530366,23.75998534=17"
+       },
+       "111": {
+              "name": "MAKASIININ P\u00c4IV\u00c4KOTI(SIIRTOKELPOINEN)",
+              "street": "IRJALANKUJA 4",
+              "vol": "50-55",
+              "la": "61.49741731",
+              "lo": "23.84927333",
+              "point": "POINT (24491972.4032925 6820931.6471155)",
+              "link": "http://maps.google.com/maps?q=61.49741731,23.84927333&ll=61.49741731,23.84927333=17"
+       },
+       "112": {
+              "name": "PIIRINIITYN P\u00c4IV\u00c4KOTI",
+              "street": "PIIRINIITYNKATU 2",
+              "vol": "Empty",
+              "la": "61.51867334",
+              "lo": "23.62468626",
+              "point": "POINT (24480024.755665 6823348.5921025)",
+              "link": "http://maps.google.com/maps?q=61.51867334,23.62468626&ll=61.51867334,23.62468626=17"
+       },
+       "113": {
+              "name": "NIEMENRANNAN P\u00c4IV\u00c4KOTI",
+              "street": "MATILDA NIEMEN KATU 9",
+              "vol": "Empty",
+              "la": "61.52256267",
+              "lo": "23.68889643",
+              "point": "POINT (24483444.24856 6823764.013765)",
+              "link": "http://maps.google.com/maps?q=61.52256267,23.68889643&ll=61.52256267,23.68889643=17"
+       },
+       "114": {
+              "name": "M\u00c4YR\u00c4NM\u00c4ENPUISTO 2",
+              "street": "HUPAKANKORVENKATU - PALKKIONMAANKATU",
+              "vol": "Empty",
+              "la": "61.43448121",
+              "lo": "23.82917274",
+              "point": "POINT (24490883.49089 6813920.904052)",
+              "link": "http://maps.google.com/maps?q=61.43448121,23.82917274&ll=61.43448121,23.82917274=17"
+       },
+       "115": {
+              "name": "RAUHANIEMEN PERHETUKIKESKUS (P\u00c4IV\u00c4PERHO)",
+              "street": "RAUHANIEMENTIE 21",
+              "vol": "Empty",
+              "la": "61.51513410",
+              "lo": "23.78305637",
+              "point": "POINT (24488452.3121075 6822915.8970685)",
+              "link": "http://maps.google.com/maps?q=61.51513410,23.78305637&ll=61.51513410,23.78305637=17"
+       },
+       "116": {
+              "name": "TASANTEEN P\u00c4IV\u00c4KOTI",
+              "street": "RUSTHOLLINKATU 8",
+              "vol": "50-55",
+              "la": "61.51679851",
+              "lo": "23.93196535",
+              "point": "POINT (24496378.7742875 6823084.050112)",
+              "link": "http://maps.google.com/maps?q=61.51679851,23.93196535&ll=61.51679851,23.93196535=17"
+       },
+       "117": {
+              "name": "PIKKU-MUOTIALAN P\u00c4IV\u00c4KOTI",
+              "street": "MUOTIALANTIE 38",
+              "vol": "45-50",
+              "la": "61.47682935",
+              "lo": "23.80565489",
+              "point": "POINT (24489642.482095 6818643.5374075)",
+              "link": "http://maps.google.com/maps?q=61.47682935,23.80565489&ll=61.47682935,23.80565489=17"
+       },
+       "118": {
+              "name": "ERKKIL\u00c4N P\u00c4IV\u00c4KOTI",
+              "street": "KULLERVONKATU 5",
+              "vol": "55-60",
+              "la": "61.50334213",
+              "lo": "23.77779016",
+              "point": "POINT (24488167.5186375 6821602.7790145)",
+              "link": "http://maps.google.com/maps?q=61.50334213,23.77779016&ll=61.50334213,23.77779016=17"
+       },
+       "119": {
+              "name": "SELLUPUISTO",
+              "street": "FEDERLEYNKATU",
+              "vol": "45-50",
+              "la": "61.52054987",
+              "lo": "23.68551342",
+              "point": "POINT (24483263.136265 6823540.578019)",
+              "link": "http://maps.google.com/maps?q=61.52054987,23.68551342&ll=61.52054987,23.68551342=17"
+       },
+       "120": {
+              "name": "KUUSELAN P\u00c4IV\u00c4KOTI",
+              "street": "NUOLIALANTIE 46",
+              "vol": "55-60",
+              "la": "61.47065947",
+              "lo": "23.74591986",
+              "point": "POINT (24486456.266725 6817966.9344445)",
+              "link": "http://maps.google.com/maps?q=61.47065947,23.74591986&ll=61.47065947,23.74591986=17"
+       },
+       "121": {
+              "name": "TALLIPIHA",
+              "street": "KUNINKAANKATU 4",
+              "vol": "50-55",
+              "la": "61.50340828",
+              "lo": "23.75508879",
+              "point": "POINT (24486958.7220875 6821614.481287)",
+              "link": "http://maps.google.com/maps?q=61.50340828,23.75508879&ll=61.50340828,23.75508879=17"
+       },
+       "122": {
+              "name": "LUHTAAN P\u00c4IV\u00c4KOTI",
+              "street": "LUHTAANKATU 10",
+              "vol": "50-55",
+              "la": "61.49618896",
+              "lo": "23.87086122",
+              "point": "POINT (24493121.886985 6820792.2949585)",
+              "link": "http://maps.google.com/maps?q=61.49618896,23.87086122&ll=61.49618896,23.87086122=17"
+       },
+       "123": {
+              "name": "SUOHOPEAT\u00c4PL\u00c4",
+              "street": "VASAMAMITTARINKATU",
+              "vol": "Empty",
+              "la": "61.49991165",
+              "lo": "23.92992131",
+              "point": "POINT (24496267.9549425 6821202.335791)",
+              "link": "http://maps.google.com/maps?q=61.49991165,23.92992131&ll=61.49991165,23.92992131=17"
+       },
+       "124": {
+              "name": "METS\u00c4NIITYN P\u00c4IV\u00c4KOTI",
+              "street": "PITK\u00c4NIITYNKATU 1",
+              "vol": "45-50",
+              "la": "61.46400699",
+              "lo": "23.88649917",
+              "point": "POINT (24493948.5434975 6817204.4846035)",
+              "link": "http://maps.google.com/maps?q=61.46400699,23.88649917&ll=61.46400699,23.88649917=17"
+       },
+       "125": {
+              "name": "VEHMAISTEN KOULU",
+              "street": "SARVANNANKATU 7",
+              "vol": "50-55",
+              "la": "61.47584318",
+              "lo": "23.92060243",
+              "point": "POINT (24495768.4118725 6818520.7832845)",
+              "link": "http://maps.google.com/maps?q=61.47584318,23.92060243&ll=61.47584318,23.92060243=17"
+       },
+       "126": {
+              "name": "RAUHANIEMEN PERHETUKIKESKUS (P\u00c4IV\u00c4PERHO)",
+              "street": "RAUHANIEMENTIE 21",
+              "vol": "Empty",
+              "la": "61.51512221",
+              "lo": "23.78218921",
+              "point": "POINT (24488406.1498875 6822914.7268615)",
+              "link": "http://maps.google.com/maps?q=61.51512221,23.78218921&ll=61.51512221,23.78218921=17"
+       },
+       "127": {
+              "name": "PAPPILAN P\u00c4IV\u00c4KOTI",
+              "street": "TAKAHUHDINKATU 77",
+              "vol": "55-60",
+              "la": "61.49159936",
+              "lo": "23.85576976",
+              "point": "POINT (24492316.96397 6820282.529032)",
+              "link": "http://maps.google.com/maps?q=61.49159936,23.85576976&ll=61.49159936,23.85576976=17"
+       },
+       "128": {
+              "name": "HUIKKAAN P\u00c4IV\u00c4KOTI",
+              "street": "JUKOLANKATU 2-4",
+              "vol": "60-65",
+              "la": "61.49493196",
+              "lo": "23.84140712",
+              "point": "POINT (24491552.7812975 6820655.679994)",
+              "link": "http://maps.google.com/maps?q=61.49493196,23.84140712&ll=61.49493196,23.84140712=17"
+       },
+       "129": {
+              "name": "V\u00c4H\u00c4-VIROLAISEN PUISTO",
+              "street": "FRANS EMILIN KATU",
+              "vol": "Empty",
+              "la": "61.43626423",
+              "lo": "23.81440763",
+              "point": "POINT (24490096.09038 6814121.7495865)",
+              "link": "http://maps.google.com/maps?q=61.43626423,23.81440763&ll=61.43626423,23.81440763=17"
+       },
+       "130": {
+              "name": "ATALAN P\u00c4IV\u00c4KOTI",
+              "street": "PULKKAKATU 14",
+              "vol": "55-60",
+              "la": "61.50750929",
+              "lo": "23.91313359",
+              "point": "POINT (24495375.0525425 6822050.073205)",
+              "link": "http://maps.google.com/maps?q=61.50750929,23.91313359&ll=61.50750929,23.91313359=17"
+       },
+       "131": {
+              "name": "KOIVIKKOPUISTON KOULU",
+              "street": "Q2 TEISKONTIE 35",
+              "vol": "Empty",
+              "la": "61.50416987",
+              "lo": "23.81610274",
+              "point": "POINT (24490207.886675 6821688.665866)",
+              "link": "http://maps.google.com/maps?q=61.50416987,23.81610274&ll=61.50416987,23.81610274=17"
+       },
+       "132": {
+              "name": "HAUKILUOMAN P\u00c4IV\u00c4KOTI",
+              "street": "TYVIKATU 11",
+              "vol": "Empty",
+              "la": "61.51856892",
+              "lo": "23.60582937",
+              "point": "POINT (24479021.077405 6823342.880428)",
+              "link": "http://maps.google.com/maps?q=61.51856892,23.60582937&ll=61.51856892,23.60582937=17"
+       },
+       "133": {
+              "name": "HAUKILUOMAN P\u00c4IV\u00c4KOTI",
+              "street": "TYVIKATU 11",
+              "vol": "Empty",
+              "la": "61.51853529",
+              "lo": "23.60503101",
+              "point": "POINT (24478978.56396 6823339.3894495)",
+              "link": "http://maps.google.com/maps?q=61.51853529,23.60503101&ll=61.51853529,23.60503101=17"
+       },
+       "134": {
+              "name": "TERVALEP\u00c4NPUISTO",
+              "street": "KOUKKURANNANKATU - TAKAMAANRINNE",
+              "vol": "Empty",
+              "la": "61.43237845",
+              "lo": "23.80630946",
+              "point": "POINT (24489662.6569575 6813689.9899)",
+              "link": "http://maps.google.com/maps?q=61.43237845,23.80630946&ll=61.43237845,23.80630946=17"
+       },
+       "135": {
+              "name": "MULTISILLAN P\u00c4IV\u00c4KOTI",
+              "street": "TER\u00c4V\u00c4NKATU 3",
+              "vol": "55-60",
+              "la": "61.43946690",
+              "lo": "23.75357045",
+              "point": "POINT (24486850.9470175 6814489.390969)",
+              "link": "http://maps.google.com/maps?q=61.43946690,23.75357045&ll=61.43946690,23.75357045=17"
+       },
+       "136": {
+              "name": "KALEVANHARJUN P\u00c4IV\u00c4KOTI",
+              "street": "KALEVANTIE 8",
+              "vol": "50-55",
+              "la": "61.49447840",
+              "lo": "23.78620052",
+              "point": "POINT (24488612.122765 6820613.5346005)",
+              "link": "http://maps.google.com/maps?q=61.49447840,23.78620052&ll=61.49447840,23.78620052=17"
+       },
+       "137": {
+              "name": "KALEVANHARJUN P\u00c4IV\u00c4KOTI",
+              "street": "KALEVANTIE 8",
+              "vol": "45-50",
+              "la": "61.49486486",
+              "lo": "23.78510291",
+              "point": "POINT (24488553.80132 6820656.793096)",
+              "link": "http://maps.google.com/maps?q=61.49486486,23.78510291&ll=61.49486486,23.78510291=17"
+       },
+       "138": {
+              "name": "TESOMAN YHTEN\u00c4ISKOULU JA P\u00c4IV\u00c4KOTI",
+              "street": "KOHMANKAARI 11",
+              "vol": "45-50",
+              "la": "61.50732291",
+              "lo": "23.62994062",
+              "point": "POINT (24480297.224875 6822082.143211)",
+              "link": "http://maps.google.com/maps?q=61.50732291,23.62994062&ll=61.50732291,23.62994062=17"
+       },
+       "139": {
+              "name": "LINNAINMAAN SOSIAALI- JA TERVEYSASEMA",
+              "street": "Kirvi\u00e4l\u00e4nkatu 2",
+              "vol": "45-50",
+              "la": "61.49477570",
+              "lo": "23.88733340",
+              "point": "POINT (24493998.945765 6820633.178437)",
+              "link": "http://maps.google.com/maps?q=61.49477570,23.88733340&ll=61.49477570,23.88733340=17"
+       },
+       "140": {
+              "name": "M\u00c4NTYKADUN P\u00c4IV\u00c4KOTI",
+              "street": "M\u00c4NTYKATU 6",
+              "vol": "45-50",
+              "la": "61.49475624",
+              "lo": "23.74592987",
+              "point": "POINT (24486467.26284 6820652.1921745)",
+              "link": "http://maps.google.com/maps?q=61.49475624,23.74592987&ll=61.49475624,23.74592987=17"
+       },
+       "141": {
+              "name": "MULTISILLAN SIIRTOP\u00c4IV\u00c4KOTI",
+              "street": "TER\u00c4V\u00c4NKATU 1",
+              "vol": "50-55",
+              "la": "61.44039829",
+              "lo": "23.75312341",
+              "point": "POINT (24486827.48647 6814593.2714035)",
+              "link": "http://maps.google.com/maps?q=61.44039829,23.75312341&ll=61.44039829,23.75312341=17"
+       },
+       "142": {
+              "name": "TALVITIEN P\u00c4IV\u00c4KOTI JA KOULU",
+              "street": "TALVITIE 24",
+              "vol": "55-60",
+              "la": "61.46876977",
+              "lo": "23.74980496",
+              "point": "POINT (24486662.553065 6817755.5528755)",
+              "link": "http://maps.google.com/maps?q=61.46876977,23.74980496&ll=61.46876977,23.74980496=17"
+       },
+       "143": {
+              "name": "KUUSIKON PERHETUKIKESKUS",
+              "street": "L\u00c4\u00c4K\u00c4RINKATU 12",
+              "vol": "45-50",
+              "la": "61.50700397",
+              "lo": "23.82838207",
+              "point": "POINT (24490862.56349 6822002.7076045)",
+              "link": "http://maps.google.com/maps?q=61.50700397,23.82838207&ll=61.50700397,23.82838207=17"
+       },
+       "144": {
+              "name": "KALKUNVUOREN P\u00c4IV\u00c4KOTI JA KOULU",
+              "street": "KALKUNVUORENKATU 10",
+              "vol": "Empty",
+              "la": "61.49896693",
+              "lo": "23.60049037",
+              "point": "POINT (24478723.53568 6821160.242035)",
+              "link": "http://maps.google.com/maps?q=61.49896693,23.60049037&ll=61.49896693,23.60049037=17"
+       },
+       "145": {
+              "name": "VUOREKSEN KOULUKESKUS",
+              "street": "M\u00c4YR\u00c4NM\u00c4ENKATU 26",
+              "vol": "Empty",
+              "la": "61.43168885",
+              "lo": "23.81697260",
+              "point": "POINT (24490231.536145 6813611.5003735)",
+              "link": "http://maps.google.com/maps?q=61.43168885,23.81697260&ll=61.43168885,23.81697260=17"
+       },
+       "146": {
+              "name": "VUOREKSEN KOULUKESKUS",
+              "street": "M\u00c4YR\u00c4NM\u00c4ENKATU 26",
+              "vol": "Empty",
+              "la": "61.43177482",
+              "lo": "23.81571120",
+              "point": "POINT (24490164.2404425 6813621.2703505)",
+              "link": "http://maps.google.com/maps?q=61.43177482,23.81571120&ll=61.43177482,23.81571120=17"
+       },
+       "147": {
+              "name": "SORJAN KES\u00c4SIIRTOLA",
+              "street": "M\u00d6RRINTIE 4, SASTAMALA",
+              "vol": "Empty",
+              "la": "61.50190063",
+              "lo": "23.80899497",
+              "point": "",
+              "link": "http://maps.google.com/maps?q=61.50190063,23.80899497&ll=61.50190063,23.80899497=17"
+       },
+       "148": {
+              "name": "KISSANMAAN KOULU",
+              "street": "HIPPOKSENKATU 5",
+              "vol": "50-55",
+              "la": "61.48371920",
+              "lo": "23.77957281",
+              "point": "POINT (24489828.6735225 6821436.876394)",
+              "link": "http://maps.google.com/maps?q=61.48371920,23.77957281&ll=61.48371920,23.77957281=17"
+       },
+       "149": {
+              "name": "PAHALAMMENPUISTO",
+              "street": "VIINIKANKATU - LEMP\u00c4\u00c4L\u00c4NTIE",
+              "vol": "55-60",
+              "la": "61.50736099",
+              "lo": "23.61761085",
+              "point": "POINT (24488255.050335 6819415.7391625)",
+              "link": "http://maps.google.com/maps?q=61.50736099,23.61761085&ll=61.50736099,23.61761085=17"
+       },
+       "150": {
+              "name": "TESOMAJ\u00c4RVEN P\u00c4IV\u00c4KOTI",
+              "street": "Raiskionkatu 8",
+              "vol": "Empty",
+              "la": "61.52557671",
+              "lo": "23.66834714",
+              "point": "POINT (24479640.7910125 6822090.1748065)",
+              "link": "http://maps.google.com/maps?q=61.52557671,23.66834714&ll=61.52557671,23.66834714=17"
+       },
+       "151": {
+              "name": "LINTULAMMEN P\u00c4IV\u00c4KOTI",
+              "street": "Ollinojankatu 25",
+              "vol": "45-50",
+              "la": "61.44081826",
+              "lo": "23.89324186",
+              "point": "POINT (24482352.4083625 6824105.2808185)",
+              "link": "http://maps.google.com/maps?q=61.44081826,23.89324186&ll=61.44081826,23.89324186=17"
+       },
+       "152": {
+              "name": "LINTUHYTINPUISTO",
+              "street": "MAKKARAJ\u00c4RVENKATU",
+              "vol": "Empty",
+              "la": "61.49666761",
+              "lo": "23.81282958",
+              "point": "POINT (24494303.8093825 6814619.8065985)",
+              "link": "http://maps.google.com/maps?q=61.49666761,23.81282958&ll=61.49666761,23.81282958=17"
+       },
+       "153": {
+              "name": "PELLERVON P\u00c4IV\u00c4KOTI",
+              "street": "Pellervonkatu 20",
+              "vol": "45-50",
+              "la": "61.47049743",
+              "lo": "23.87356112",
+              "point": "POINT (24490031.1982475 6820853.131669)",
+              "link": "http://maps.google.com/maps?q=61.47049743,23.87356112&ll=61.47049743,23.87356112=17"
+       },
+       "154": {
+              "name": "JUVA-ANNALAN P\u00c4IV\u00c4KOTI",
+              "street": "K\u00c4\u00c4TYKATU",
+              "vol": "Empty",
+              "la": "61.50821677",
+              "lo": "23.60465510",
+              "point": "POINT (24493260.1359075 6817929.026971)",
+              "link": "http://maps.google.com/maps?q=61.50821677,23.60465510&ll=61.50821677,23.60465510=17"
+       },
+       "155": {
+              "name": "L\u00c4NSI-TESOMAN P\u00c4IV\u00c4KOTI",
+              "street": "VIRONT\u00d6RM\u00c4NKATU 9",
+              "vol": "Empty",
+              "la": "61.50648436",
+              "lo": "23.63048263",
+              "point": "POINT (24478951.5832725 6822189.654349)",
+              "link": "http://maps.google.com/maps?q=61.50648436,23.63048263&ll=61.50648436,23.63048263=17"
+       },
+       "156": {
+              "name": "TESOMAN YHTEN\u00c4ISKOULU JA P\u00c4IV\u00c4KOTI",
+              "street": "KOHMANKAARI 11",
+              "vol": "50-55",
+              "la": "61.47227850",
+              "lo": "23.77928610",
+              "point": "POINT (24480325.55246 6821988.534832)",
+              "link": "http://maps.google.com/maps?q=61.47227850,23.77928610&ll=61.47227850,23.77928610=17"
+       },
+       "157": {
+              "name": "PUNALADONPUISTO",
+              "street": "VILJAPELLONTIE - PUNALADONTIE",
+              "vol": "50-55",
+              "la": "61.52135295",
+              "lo": "23.69365250",
+              "point": "POINT (24488235.4585875 6818140.8786235)",
+              "link": "http://maps.google.com/maps?q=61.52135295,23.69365250&ll=61.52135295,23.69365250=17"
+       },
+       "158": {
+              "name": "SAHANVAINIONPUISTO",
+              "street": "FEDERLEYNKATU",
+              "vol": "45-50",
+              "la": "61.49343440",
+              "lo": "23.78535978",
+              "point": "POINT (24483696.7135975 6823628.0070295)",
+              "link": "http://maps.google.com/maps?q=61.49343440,23.78535978&ll=61.49343440,23.78535978=17"
+       },
+       "159": {
+              "name": "SAIRAALANKATU 6 (X)",
+              "street": "Sairaalankatu  6",
+              "vol": "50-55",
+              "la": "61.50170491",
+              "lo": "23.79090320",
+              "point": "POINT (24488566.9587175 6820497.341761)",
+              "link": "http://maps.google.com/maps?q=61.50170491,23.79090320&ll=61.50170491,23.79090320=17"
+       },
+       "160": {
+              "name": "ILMARIN P\u00c4IV\u00c4KOTI",
+              "street": "PETSAMONKATU 9",
+              "vol": "55-60",
+              "la": "61.51085400",
+              "lo": "23.62635979",
+              "point": "POINT (24488865.189995 6821418.0227125)",
+              "link": "http://maps.google.com/maps?q=61.51085400,23.62635979&ll=61.51085400,23.62635979=17"
+       },
+       "161": {
+              "name": "TOHLOPINPUISTO",
+              "street": "TOHLOPINKATU",
+              "vol": "45-50",
+              "la": "61.50883724",
+              "lo": "23.60131879",
+              "point": "POINT (24480108.8303315 6822476.722614064)",
+              "link": "http://maps.google.com/maps?q=61.50883724,23.60131879&ll=61.50883724,23.60131879=17"
+       },
+       "162": {
+              "name": "AKANPUISTO",
+              "street": "KYNT\u00c4J\u00c4NTIE - KARJAKONTIE",
+              "vol": "45-50",
+              "la": "61.50549432",
+              "lo": "23.59652618",
+              "point": "POINT (24478774.380332503 6822259.8796214415)",
+              "link": "http://maps.google.com/maps?q=61.50549432,23.59652618&ll=61.50549432,23.59652618=17"
+       },
+       "163": {
+              "name": "SARKAPUISTO",
+              "street": "SARKAKATU",
+              "vol": "45-50",
+              "la": "61.52158790",
+              "lo": "23.63039633",
+              "point": "POINT (24478516.9206675 6821888.927431)",
+              "link": "http://maps.google.com/maps?q=61.52158790,23.63039633&ll=61.52158790,23.63039633=17"
+       },
+       "164": {
+              "name": "UUNINPER\u00c4NPUISTO",
+              "street": "SAARIKORVENTIE - MURRONKORVENTIE",
+              "vol": "45-50",
+              "la": "61.50105523",
+              "lo": "23.65931599",
+              "point": "POINT (24480330.500845 6823671.6445645)",
+              "link": "http://maps.google.com/maps?q=61.50105523,23.65931599&ll=61.50105523,23.65931599=17"
+       },
+       "165": {
+              "name": "OMENAPUISTO",
+              "street": "GADDINPOLKU - RAHOLANKATU",
+              "vol": "55-60",
+              "la": "61.50022463",
+              "lo": "23.67290407",
+              "point": "POINT (24481857.573535 6821375.169703)",
+              "link": "http://maps.google.com/maps?q=61.50022463,23.67290407&ll=61.50022463,23.67290407=17"
+       },
+       "166": {
+              "name": "HUTIKONPUISTO",
+              "street": "SIMOLANKATU - HUTIKONPOLKU",
+              "vol": "55-60",
+              "la": "61.49867849",
+              "lo": "23.64181550",
+              "point": "POINT (24482580.70991 6821278.905253)",
+              "link": "http://maps.google.com/maps?q=61.49867849,23.64181550&ll=61.49867849,23.64181550=17"
+       },
+       "167": {
+              "name": "PIIKAHAKA",
+              "street": "NOKIANTIE - VOIONMAANKATU",
+              "vol": "50-55",
+              "la": "61.50050523",
+              "lo": "23.63293842",
+              "point": "POINT (24480924.172546234 6821115.310392671)",
+              "link": "http://maps.google.com/maps?q=61.50050523,23.63293842&ll=61.50050523,23.63293842=17"
+       },
+       "168": {
+              "name": "KORVENPUISTO-RISTIM\u00c4KI",
+              "street": "METS\u00c4KYL\u00c4NKATU - RISUHARJUNKATU",
+              "vol": "50-55",
+              "la": "61.50588670",
+              "lo": "23.69595837",
+              "point": "POINT (24480452.5554725 6821321.5041655)",
+              "link": "http://maps.google.com/maps?q=61.50588670,23.69595837&ll=61.50588670,23.69595837=17"
+       },
+       "169": {
+              "name": "P\u00c4TTINIEMENPUISTO POHJOINEN",
+              "street": "PISPANARONRAITTI, pohjoisp\u00e4\u00e4",
+              "vol": "50-55",
+              "la": "61.50424392",
+              "lo": "23.61330794",
+              "point": "POINT (24483811.3886125 6821903.9236495)",
+              "link": "http://maps.google.com/maps?q=61.50424392,23.61330794&ll=61.50424392,23.61330794=17"
+       },
+       "170": {
+              "name": "RATAMONPUISTO",
+              "street": "TESOMANKATU",
+              "vol": "55-60",
+              "la": "61.43229606",
+              "lo": "23.80966096",
+              "point": "POINT (24479409.6363225 6821744.1721285)",
+              "link": "http://maps.google.com/maps?q=61.43229606,23.80966096&ll=61.43229606,23.80966096=17"
+       },
+       "171": {
+              "name": "VUOREKSEN P\u00c4IV\u00c4KOTI KLAAVA",
+              "street": "VUOREKSEN PUISTOKATU 87",
+              "vol": "45-50",
+              "la": "61.49363173",
+              "lo": "23.61980001",
+              "point": "POINT (24489841.5009475 6813680.281969)",
+              "link": "http://maps.google.com/maps?q=61.49363173,23.61980001&ll=61.49363173,23.61980001=17"
+       },
+       "172": {
+              "name": "PAAVALIN SUOJAVIHERALUE",
+              "street": "PAAVALINKUJA - HANNUNKUJA",
+              "vol": "55-60",
+              "la": "61.46369658",
+              "lo": "23.81839053",
+              "point": "POINT (24479748.423115 6820559.558509)",
+              "link": "http://maps.google.com/maps?q=61.46369658,23.81839053&ll=61.46369658,23.81839053=17"
+       },
+       "173": {
+              "name": "KATAJIKONPUISTO",
+              "street": "KATAJIKONKATU - VESAKONKATU",
+              "vol": "50-55",
+              "la": "61.50718664",
+              "lo": "23.69022991",
+              "point": "POINT (24490317.144395 6817178.1091)",
+              "link": "http://maps.google.com/maps?q=61.50718664,23.69022991&ll=61.50718664,23.69022991=17"
+       },
+       "174": {
+              "name": "HENNERIN LEIKKITOIMINTAKESKUS",
+              "street": "PISPALAN VALTATIE 79",
+              "vol": "60-65",
+              "la": "61.50761567",
+              "lo": "23.68208585",
+              "point": "POINT (24483507.068466205 6822050.220659593)",
+              "link": "http://maps.google.com/maps?q=61.50761567,23.68208585&ll=61.50761567,23.68208585=17"
+       },
+       "175": {
+              "name": "HYHKYN P\u00c4IV\u00c4KOTI",
+              "street": "KRAATARINKATU 5",
+              "vol": "45-50",
+              "la": "61.51129967",
+              "lo": "23.78660865",
+              "point": "POINT (24483073.693901945 6822100.118582892)",
+              "link": "http://maps.google.com/maps?q=61.51129967,23.78660865&ll=61.51129967,23.78660865=17"
+       },
+       "176": {
+              "name": "KAUPIN KANSANPUISTO-K\u00c4PYTIEN KENTT\u00c4",
+              "street": "K\u00c4PYTIE",
+              "vol": "Empty",
+              "la": "61.51114849",
+              "lo": "23.78216127",
+              "point": "POINT (24488639.99704 6822487.975891)",
+              "link": "http://maps.google.com/maps?q=61.51114849,23.78216127&ll=61.51114849,23.78216127=17"
+       },
+       "177": {
+              "name": "HELLETIEN AUKIO",
+              "street": "KANTOTIE - NOTKOTIE",
+              "vol": "Empty",
+              "la": "61.51992538",
+              "lo": "23.62421180",
+              "point": "POINT (24488403.182999182 6822471.911473619)",
+              "link": "http://maps.google.com/maps?q=61.51992538,23.62421180&ll=61.51992538,23.62421180=17"
+       },
+       "178": {
+              "name": "LAMMINP\u00c4\u00c4N KOULU",
+              "street": "KORTESUONTIE 27",
+              "vol": "Empty",
+              "la": "61.50081482",
+              "lo": "23.89612173",
+              "point": "POINT (24480000.308003858 6823488.261045321)",
+              "link": "http://maps.google.com/maps?q=61.50081482,23.89612173&ll=61.50081482,23.89612173=17"
+       },
+       "179": {
+              "name": "ATANPUISTO",
+              "street": "AITOLAHDENTIE - LAUTASPY\u00d6R\u00c4NKATU",
+              "vol": "55-60",
+              "la": "61.50236462",
+              "lo": "23.84798773",
+              "point": "POINT (24494468.117325 6821305.384072)",
+              "link": "http://maps.google.com/maps?q=61.50236462,23.84798773&ll=61.50236462,23.84798773=17"
+       },
+       "180": {
+              "name": "JAAKONM\u00c4ENPUISTO",
+              "street": "JAAKONM\u00c4ENKATU - HUHMARINRINNE",
+              "vol": "50-55",
+              "la": "61.46453406",
+              "lo": "23.91716855",
+              "point": "POINT (24491905.218608145 6821483.119658832)",
+              "link": "http://maps.google.com/maps?q=61.46453406,23.91716855&ll=61.46453406,23.91716855=17"
+       },
+       "181": {
+              "name": "KYNSILAUKANPUISTO",
+              "street": "KYNSILAUKANKATU - SELLERIKATU",
+              "vol": "Empty",
+              "la": "61.49243234",
+              "lo": "23.91234643",
+              "point": "POINT (24495583.798234794 6817260.758253796)",
+              "link": "http://maps.google.com/maps?q=61.49243234,23.91234643&ll=61.49243234,23.91234643=17"
+       },
+       "182": {
+              "name": "AITONIITTY",
+              "street": "AITONIITYNKATU - ETUNIITYNKATU",
+              "vol": "45-50",
+              "la": "61.51840486",
+              "lo": "23.62721924",
+              "point": "POINT (24495330.883385 6820369.994533)",
+              "link": "http://maps.google.com/maps?q=61.51840486,23.62721924&ll=61.51840486,23.62721924=17"
+       },
+       "183": {
+              "name": "KUUSIKORPI",
+              "street": "P\u00c4NNINSAARENKATU - KUUSIKORVENKATU",
+              "vol": "50-55",
+              "la": "61.51351963",
+              "lo": "23.60850017",
+              "point": "POINT (24480159.395625 6823317.9003115)",
+              "link": "http://maps.google.com/maps?q=61.51351963,23.60850017&ll=61.51351963,23.60850017=17"
+       },
+       "184": {
+              "name": "MESIHEIN\u00c4NPUISTO",
+              "street": "MESIHEIN\u00c4NKATU",
+              "vol": "45-50",
+              "la": "61.44107035",
+              "lo": "23.74665015",
+              "point": "POINT (24479159.844475 6822779.349253)",
+              "link": "http://maps.google.com/maps?q=61.44107035,23.74665015&ll=61.44107035,23.74665015=17"
+       },
+       "185": {
+              "name": "TER\u00c4V\u00c4NM\u00c4KI",
+              "street": "MULTISILLANKATU - MULTISILLANPOLKU",
+              "vol": "50-55",
+              "la": "61.52284857",
+              "lo": "23.94295184",
+              "point": "POINT (24486482.386845 6814669.487341)",
+              "link": "http://maps.google.com/maps?q=61.52284857,23.94295184&ll=61.52284857,23.94295184=17"
+       },
+       "186": {
+              "name": "KATISKANMETSIKK\u00d6",
+              "street": "KATISKANKATU",
+              "vol": "50-55",
+              "la": "61.48038871",
+              "lo": "23.75974115",
+              "point": "POINT (24496964.1336725 6823757.69374)",
+              "link": "http://maps.google.com/maps?q=61.48038871,23.75974115&ll=61.48038871,23.75974115=17"
+       },
+       "187": {
+              "name": "E.J. REINIL\u00c4N PUISTO",
+              "street": "HATANP\u00c4\u00c4N PUISTOKUJA - HATANP\u00c4\u00c4N VALTATIE",
+              "vol": "45-50",
+              "la": "61.48210541",
+              "lo": "23.75893334",
+              "point": "POINT (24487197.002192542 6819048.333960526)",
+              "link": "http://maps.google.com/maps?q=61.48210541,23.75893334&ll=61.48210541,23.75893334=17"
+       },
+       "188": {
+              "name": "E.J. REINIL\u00c4N PUISTO",
+              "street": "HATANP\u00c4\u00c4N PUISTOKUJA - HATANP\u00c4\u00c4N VALTATIE",
+              "vol": "Empty",
+              "la": "61.51306066",
+              "lo": "23.60175387",
+              "point": "POINT (24487154.66293 6819239.7958225)",
+              "link": "http://maps.google.com/maps?q=61.51306066,23.60175387&ll=61.51306066,23.60175387=17"
+       },
+       "189": {
+              "name": "NIITT\u00c4J\u00c4NPUISTO",
+              "street": "MAAMIEHENTIE - NIITT\u00c4J\u00c4NTIE",
+              "vol": "45-50",
+              "la": "61.49645385",
+              "lo": "23.63169463",
+              "point": "POINT (24478800.41921221 6822730.378723048)",
+              "link": "http://maps.google.com/maps?q=61.49645385,23.63169463&ll=61.49645385,23.63169463=17"
+       },
+       "190": {
+              "name": "JUURESPUISTO",
+              "street": "NAURISKATU - PORKKANAKUJA",
+              "vol": "50-55",
+              "la": "61.50050357",
+              "lo": "23.71013205",
+              "point": "POINT (24480383.7686375 6820870.407997)",
+              "link": "http://maps.google.com/maps?q=61.50050357,23.71013205&ll=61.50050357,23.71013205=17"
+       },
+       "191": {
+              "name": "LORISEVANPUISTO",
+              "street": "TAHMELAN VIERTOTIE - TAHMELANKATU",
+              "vol": "Empty",
+              "la": "61.50330452",
+              "lo": "23.70255888",
+              "point": "POINT (24484563.3917475 6821300.608879)",
+              "link": "http://maps.google.com/maps?q=61.50330452,23.70255888&ll=61.50330452,23.70255888=17"
+       },
+       "192": {
+              "name": "HAUTALAAKSO",
+              "street": "UITTOTUNNELINKATU - SAUNASAARENKATU",
+              "vol": "Empty",
+              "la": "61.46070711",
+              "lo": "23.90784796",
+              "point": "POINT (24484161.51626372 6821614.553460892)",
+              "link": "http://maps.google.com/maps?q=61.46070711,23.90784796&ll=61.46070711,23.90784796=17"
+       },
+       "193": {
+              "name": "PATASUONPUISTO",
+              "street": "SAKKOLANM\u00c4ENKATU",
+              "vol": "Empty",
+              "la": "61.50411268",
+              "lo": "23.70980204",
+              "point": "POINT (24495086.26388 6816834.962563)",
+              "link": "http://maps.google.com/maps?q=61.50411268,23.70980204&ll=61.50411268,23.70980204=17"
+       },
+       "194": {
+              "name": "P\u00c4IV\u00d6L\u00c4NPUISTO",
+              "street": "P\u00c4IV\u00d6L\u00c4NKATU - PORTAANP\u00c4\u00c4",
+              "vol": "50-55",
+              "la": "61.46187531",
+              "lo": "23.89240711",
+              "point": "POINT (24484547.607465144 6821702.873794168)",
+              "link": "http://maps.google.com/maps?q=61.46187531,23.89240711&ll=61.46187531,23.89240711=17"
+       },
+       "195": {
+              "name": "SOLKIM\u00c4ENPUISTO",
+              "street": "OJAVAINIONKATU - SUOPELLONKATU",
+              "vol": "45-50",
+              "la": "61.50365878",
+              "lo": "23.75977817",
+              "point": "POINT (24494263.1413525 6816966.4038145)",
+              "link": "http://maps.google.com/maps?q=61.50365878,23.75977817&ll=61.50365878,23.75977817=17"
+       },
+       "196": {
+              "name": "ALEKSANDRA SILTASEN PUISTO",
+              "street": "KEERNAKATU - ALAVERSTAANRAITTI",
+              "vol": "45-50",
+              "la": "61.46390122",
+              "lo": "23.78703981",
+              "point": "POINT (24487208.5290475 6821641.467004)",
+              "link": "http://maps.google.com/maps?q=61.46390122,23.78703981&ll=61.46390122,23.78703981=17"
+       },
+       "197": {
+              "name": "NIRVANPELTO",
+              "street": "LAHDESJ\u00c4RVENKATU - NIRVANSUONKATU",
+              "vol": "50-55",
+              "la": "61.50067918",
+              "lo": "23.80074683",
+              "point": "POINT (24488645.699247893 6817205.970364503)",
+              "link": "http://maps.google.com/maps?q=61.50067918,23.80074683&ll=61.50067918,23.80074683=17"
+       },
+       "198": {
+              "name": "KIOVANPUISTO",
+              "street": "KAUPINKATU - UIMALANKATU - PELLERVONKATU",
+              "vol": "Empty",
+              "la": "61.49853984",
+              "lo": "23.80377869",
+              "point": "POINT (24489389.0316575 6821302.0763965)",
+              "link": "http://maps.google.com/maps?q=61.49853984,23.80377869&ll=61.49853984,23.80377869=17"
+       },
+       "199": {
+              "name": "KIOVANPUISTO",
+              "street": "KAUPINKATU - UIMALANKATU - PELLERVONKATU",
+              "vol": "45-50",
+              "la": "61.46466320",
+              "lo": "23.89228632",
+              "point": "POINT (24489549.771735366 6821063.18520062)",
+              "link": "http://maps.google.com/maps?q=61.46466320,23.89228632&ll=61.46466320,23.89228632=17"
+       },
+       "200": {
+              "name": "ISONIITYNPUISTO ANNALANPUISTO",
+              "street": "ISONIITYNPOLKU - OJAVAINIONKATU",
+              "vol": "Empty",
+              "la": "61.49822485",
+              "lo": "23.71876829",
+              "point": "POINT (24494257.214035 6817277.0874955)",
+              "link": "http://maps.google.com/maps?q=61.49822485,23.71876829&ll=61.49822485,23.71876829=17"
+       },
+       "201": {
+              "name": "TAHMELAN P\u00c4IV\u00c4KOTI",
+              "street": "TORPANKATU 13",
+              "vol": "Empty",
+              "la": "61.50738533",
+              "lo": "23.60299725",
+              "point": "POINT (24485022.20782649 6821044.661666698)",
+              "link": "http://maps.google.com/maps?q=61.50738533,23.60299725&ll=61.50738533,23.60299725=17"
+       },
+       "202": {
+              "name": "IKURIN KOULU",
+              "street": "VIRONT\u00d6RM\u00c4NKATU 7",
+              "vol": "45-50",
+              "la": "61.50232936",
+              "lo": "23.76597577",
+              "point": "POINT (24478862.7547925 6822097.538152)",
+              "link": "http://maps.google.com/maps?q=61.50232936,23.76597577&ll=61.50232936,23.76597577=17"
+       },
+       "203": {
+              "name": "JUSSINKYL\u00c4N P\u00c4IV\u00c4KOTI",
+              "street": "SUKKAVARTAANKATU 4",
+              "vol": "45-50",
+              "la": "61.50220236",
+              "lo": "23.76684563",
+              "point": "POINT (24487538.009212393 6821492.120703967)",
+              "link": "http://maps.google.com/maps?q=61.50220236,23.76684563&ll=61.50220236,23.76684563=17"
+       },
+       "204": {
+              "name": "JUSSINKYL\u00c4N P\u00c4IV\u00c4KOTI",
+              "street": "SUKKAVARTAANKATU 4",
+              "vol": "Empty",
+              "la": "61.44472847",
+              "lo": "23.84484842",
+              "point": "POINT (24487584.279715 6821477.8019275)",
+              "link": "http://maps.google.com/maps?q=61.44472847,23.84484842&ll=61.44472847,23.84484842=17"
+       },
+       "205": {
+              "name": "PELIPUISTON P\u00c4IV\u00c4KOTI (PELIPUISTON L\u00c4HIPALVELUKESKUS OY)",
+              "street": "TEEKKARINKATU 17",
+              "vol": "Empty",
+              "la": "61.47436277",
+              "lo": "23.81458733",
+              "point": "POINT (24491722.766948074 6815060.729784092)",
+              "link": "http://maps.google.com/maps?q=61.47436277,23.81458733&ll=61.47436277,23.81458733=17"
+       },
+       "206": {
+              "name": "VEISUN P\u00c4IV\u00c4KOTI",
+              "street": "VEISUNKATU 80",
+              "vol": "50-55",
+              "la": "61.47678830",
+              "lo": "23.82203767",
+              "point": "POINT (24490117.749256883 6818367.283719155)",
+              "link": "http://maps.google.com/maps?q=61.47678830,23.82203767&ll=61.47678830,23.82203767=17"
+       },
+       "207": {
+              "name": "MUOTIALATALO (KOULU,PVK,NEUVOLA)",
+              "street": "MUOTIALANTIE 64",
+              "vol": "50-55",
+              "la": "61.50565869",
+              "lo": "23.70733207",
+              "point": "POINT (24490515.57899041 6818636.470653176)",
+              "link": "http://maps.google.com/maps?q=61.50565869,23.70733207&ll=61.50565869,23.70733207=17"
+       },
+       "208": {
+              "name": "PISPALAN P\u00c4IV\u00c4KOTI",
+              "street": "PISPALAN VALTATIE 6",
+              "vol": "55-60",
+              "la": "61.49531515",
+              "lo": "23.74694374",
+              "point": "POINT (24484416.861130368 6821875.744159838)",
+              "link": "http://maps.google.com/maps?q=61.49531515,23.74694374&ll=61.49531515,23.74694374=17"
+       },
+       "209": {
+              "name": "KOULUKADUN P\u00c4IV\u00c4KOTI",
+              "street": "KOULUKATU 8",
+              "vol": "Empty",
+              "la": "61.49694020",
+              "lo": "23.63133061",
+              "point": "POINT (24486521.50727842 6820714.264779137)",
+              "link": "http://maps.google.com/maps?q=61.49694020,23.63133061&ll=61.49694020,23.63133061=17"
+       },
+       "210": {
+              "name": "VILLIL\u00c4N P\u00c4IV\u00c4KOTI",
+              "street": "PORKKANAKUJA 6",
+              "vol": "50-55",
+              "la": "61.48248316",
+              "lo": "23.75788920",
+              "point": "POINT (24480364.68758629 6820924.714463157)",
+              "link": "http://maps.google.com/maps?q=61.48248316,23.75788920&ll=61.48248316,23.75788920=17"
+       },
+       "211": {
+              "name": "KUKKAPELLON P\u00c4IV\u00c4KOTI",
+              "street": "HATANP\u00c4\u00c4N PUISTOKUJA 20",
+              "vol": "Empty",
+              "la": "61.49381173",
+              "lo": "23.90306677",
+              "point": "POINT (24487099.18173524 6819282.097393744)",
+              "link": "http://maps.google.com/maps?q=61.49381173,23.90306677&ll=61.49381173,23.90306677=17"
+       },
+       "212": {
+              "name": "IT\u00c4TUULEN P\u00c4IV\u00c4KOTI",
+              "street": "M\u00c4ENTAKUSENKATU 29",
+              "vol": "55-60",
+              "la": "61.50249475",
+              "lo": "23.77251103",
+              "point": "POINT (24494836.805098157 6820524.40935878)",
+              "link": "http://maps.google.com/maps?q=61.50249475,23.77251103&ll=61.50249475,23.77251103=17"
+       },
+       "213": {
+              "name": "JUHANNUSKYL\u00c4N KOULU, JOHANNEKSEN KOULUTALO",
+              "street": "ERKKIL\u00c4NKATU 10",
+              "vol": "65-70",
+              "la": "61.48507532",
+              "lo": "23.78434363",
+              "point": "POINT (24487886.080944404 6821509.319053988)",
+              "link": "http://maps.google.com/maps?q=61.48507532,23.78434363&ll=61.48507532,23.78434363=17"
+       },
+       "214": {
+              "name": "LYLYPUISTIKKO",
+              "street": "LYLYTIE",
+              "vol": "50-55",
+              "la": "61.44646643",
+              "lo": "23.85044041",
+              "point": "POINT (24488509.75126953 6819566.010568301)",
+              "link": "http://maps.google.com/maps?q=61.44646643,23.85044041&ll=61.44646643,23.85044041=17"
+       },
+       "215": {
+              "name": "KISAKOLMIO",
+              "street": "VALTARAITTI - TER\u00c4SPOLKU",
+              "vol": "Empty",
+              "la": "61.44566575",
+              "lo": "23.85147866",
+              "point": "POINT (24492021.5398475 6815253.7048225)",
+              "link": "http://maps.google.com/maps?q=61.44566575,23.85147866&ll=61.44566575,23.85147866=17"
+       },
+       "216": {
+              "name": "KISAPUISTO",
+              "street": "VALTARAITTI - ATOMIPOLKU",
+              "vol": "Empty",
+              "la": "61.54020963",
+              "lo": "23.93925524",
+              "point": "POINT (24492076.723026883 6815164.35291802)",
+              "link": "http://maps.google.com/maps?q=61.54020963,23.93925524&ll=61.54020963,23.93925524=17"
+       },
+       "217": {
+              "name": "NURMIN LEIKKIPAIKKA",
+              "street": "KAITAVEDENTIE",
+              "vol": "50-55",
+              "la": "61.55536710",
+              "lo": "23.92901213",
+              "point": "POINT (24496769.21866 6825692.550865)",
+              "link": "http://maps.google.com/maps?q=61.55536710,23.92901213&ll=61.55536710,23.92901213=17"
+       },
+       "218": {
+              "name": "SORILAN KOULU",
+              "street": "SORILANRAITTI 5",
+              "vol": "Empty",
+              "la": "61.62807141",
+              "lo": "23.83616279",
+              "point": "POINT (24496226.267388858 6827382.221158852)",
+              "link": "http://maps.google.com/maps?q=61.62807141,23.83616279&ll=61.62807141,23.83616279=17"
+       },
+       "219": {
+              "name": "K\u00c4MMENNIEMEN KOULU",
+              "street": "PAAVOLANTIE 4",
+              "vol": "Empty",
+              "la": "61.62821935",
+              "lo": "23.83862917",
+              "point": "POINT (24491310.756626572 6835493.184652492)",
+              "link": "http://maps.google.com/maps?q=61.62821935,23.83862917&ll=61.62821935,23.83862917=17"
+       },
+       "220": {
+              "name": "K\u00c4MMENNIEMEN P\u00c4IV\u00c4KOTI",
+              "street": "PAAVOLANTIE 2",
+              "vol": "Empty",
+              "la": "61.70784358",
+              "lo": "23.90276521",
+              "point": "POINT (24491441.60370851 6835509.345152135)",
+              "link": "http://maps.google.com/maps?q=61.70784358,23.90276521&ll=61.70784358,23.90276521=17"
+       },
+       "221": {
+              "name": "TER\u00c4LAHDEN KOULU",
+              "street": "NIEMIKYL\u00c4NTIE 14",
+              "vol": "Empty",
+              "la": "61.70785633",
+              "lo": "23.89976238",
+              "point": "POINT (24494856.34843627 6844375.919776792)",
+              "link": "http://maps.google.com/maps?q=61.70785633,23.89976238&ll=61.70785633,23.89976238=17"
+       },
+       "222": {
+              "name": "TER\u00c4LAHDEN LEIKKIPAIKKA",
+              "street": "TER\u00c4LAHDENTIE",
+              "vol": "50-55",
+              "la": "61.50730649",
+              "lo": "23.60197632",
+              "point": "POINT (24494697.503105 6844377.581536)",
+              "link": "http://maps.google.com/maps?q=61.50730649,23.60197632&ll=61.50730649,23.60197632=17"
+       },
+       "223": {
+              "name": "MYLL\u00c4RIN P\u00c4IV\u00c4KOTI",
+              "street": "VIRONT\u00d6RM\u00c4NKATU 7",
+              "vol": "45-50",
+              "la": "61.47159398",
+              "lo": "23.72899059",
+              "point": "POINT (24478808.345145 6822089.084587)",
+              "link": "http://maps.google.com/maps?q=61.47159398,23.72899059&ll=61.47159398,23.72899059=17"
+       },
+       "224": {
+              "name": "TEHTAANKALLIONPUISTO",
+              "street": "H\u00c4RM\u00c4L\u00c4NSAARENKATU - NUOLIALANTIE",
+              "vol": "50-55",
+              "la": "61.49854391",
+              "lo": "23.74545970",
+              "point": "POINT (24485554.28883 6818074.705633)",
+              "link": "http://maps.google.com/maps?q=61.49854391,23.74545970&ll=61.49854391,23.74545970=17"
+       },
+       "225": {
+              "name": "THE ENGLISH SCHOOL OF TAMPERE",
+              "street": "AMURINKUJA 21B",
+              "vol": "50-55",
+              "la": "61.52133470",
+              "lo": "23.94526590",
+              "point": "POINT (24486443.8682675 6821074.37515)",
+              "link": "http://maps.google.com/maps?q=61.52133470,23.94526590&ll=61.52133470,23.94526590=17"
+       },
+       "226": {
+              "name": "OLKAHISEN P\u00c4IV\u00c4KOTI",
+              "street": "JENSENINKATU 3",
+              "vol": "45-50",
+              "la": "61.49365194",
+              "lo": "23.62570132",
+              "point": "POINT (24497087.13625472 6823588.885071479)",
+              "link": "http://maps.google.com/maps?q=61.49365194,23.62570132&ll=61.49365194,23.62570132=17"
+       },
+       "227": {
+              "name": "VILLIL\u00c4NPUISTO",
+              "street": "VILLIL\u00c4NNIEMI",
+              "vol": "50-55",
+              "la": "61.50243102",
+              "lo": "23.71493325",
+              "point": "POINT (24480062.77021121 6820559.992357541)",
+              "link": "http://maps.google.com/maps?q=61.50243102,23.71493325&ll=61.50243102,23.71493325=17"
+       },
+       "228": {
+              "name": "VESIS\u00c4ILI\u00d6NM\u00c4KI",
+              "street": "PISPALANHARJU - PROVASTINKATU",
+              "vol": "45-50",
+              "la": "61.50689045",
+              "lo": "23.77847908",
+              "point": "POINT (24484820.012419675 6821514.269252945)",
+              "link": "http://maps.google.com/maps?q=61.50689045,23.77847908&ll=61.50689045,23.77847908=17"
+       },
+       "229": {
+              "name": "TUNTURIN SUOJAVIHERALUE",
+              "street": "TUNTURIKATU - KEKKOSENTIE",
+              "vol": "55-60",
+              "la": "61.49142303",
+              "lo": "23.74737006",
+              "point": "POINT (24488205.546613645 6821998.068126321)",
+              "link": "http://maps.google.com/maps?q=61.49142303,23.74737006&ll=61.49142303,23.74737006=17"
+       },
+       "230": {
+              "name": "ETEL\u00c4PUISTO",
+              "street": "ETEL\u00c4PUISTO - KOULUKATU",
+              "vol": "Empty",
+              "la": "61.49298069",
+              "lo": "23.75672405",
+              "point": "POINT (24486542.5337175 6820280.452192)",
+              "link": "http://maps.google.com/maps?q=61.49298069,23.75672405&ll=61.49298069,23.75672405=17"
+       },
+       "231": {
+              "name": "NALKALANTORI POHJOINEN",
+              "street": "TIILIRUUKINKATU - PYH\u00c4J\u00c4RVENKATU",
+              "vol": "50-55",
+              "la": "61.49656172",
+              "lo": "23.74909250",
+              "point": "POINT (24487041.461985 6820452.137848)",
+              "link": "http://maps.google.com/maps?q=61.49656172,23.74909250&ll=61.49656172,23.74909250=17"
+       },
+       "232": {
+              "name": "PYYNIKIN KIRKKOPUISTO",
+              "street": "PIRKANKATU - H\u00c4MEENPUISTO",
+              "vol": "50-55",
+              "la": "61.44393376",
+              "lo": "23.85269587",
+              "point": "POINT (24486636.490388487 6820852.73639326)",
+              "link": "http://maps.google.com/maps?q=61.44393376,23.85269587&ll=61.44393376,23.85269587=17"
+       },
+       "233": {
+              "name": "KOULUMETSIKK\u00d6",
+              "street": "MEKANIIKANPOLKU - MYLLYVUOREN KOULU",
+              "vol": "Empty",
+              "la": "61.49877114",
+              "lo": "23.73933839",
+              "point": "POINT (24492141.22256 6814971.199705)",
+              "link": "http://maps.google.com/maps?q=61.49877114,23.73933839&ll=61.49877114,23.73933839=17"
+       },
+       "234": {
+              "name": "KIVIPUNALANPUISTO",
+              "street": "PIRKANKATU-SOTKANKATU-SATAKUNNANKATU",
+              "vol": "Empty",
+              "la": "61.50680291",
+              "lo": "23.76783498",
+              "point": "POINT (24486117.96613064 6821100.985058279)",
+              "link": "http://maps.google.com/maps?q=61.50680291,23.76783498&ll=61.50680291,23.76783498=17"
+       },
+       "235": {
+              "name": "SOUKKAPUISTO",
+              "street": "SOUKANLAHDENKATU",
+              "vol": "50-55",
+              "la": "61.47194492",
+              "lo": "23.82759806",
+              "point": "POINT (24487638.788964882 6821990.285200085)",
+              "link": "http://maps.google.com/maps?q=61.47194492,23.82759806&ll=61.47194492,23.82759806=17"
+       },
+       "236": {
+              "name": "H\u00c4RK\u00c4L\u00c4NM\u00c4KI",
+              "street": "KUUSISTONKATU - KORKINM\u00c4ENKATU",
+              "vol": "45-50",
+              "la": "61.49623333",
+              "lo": "23.73570936",
+              "point": "POINT (24490810.490105 6818095.943671)",
+              "link": "http://maps.google.com/maps?q=61.49623333,23.73570936&ll=61.49623333,23.73570936=17"
+       },
+       "237": {
+              "name": "ILOM\u00c4EN AUKEA",
+              "street": "PALOM\u00c4ENTIE",
+              "vol": "Empty",
+              "la": "61.49461589",
+              "lo": "23.83120805",
+              "point": "POINT (24485923.5491175 6820818.958336)",
+              "link": "http://maps.google.com/maps?q=61.49461589,23.83120805&ll=61.49461589,23.83120805=17"
+       },
+       "238": {
+              "name": "UUDENMAANPUISTO",
+              "street": "UUDENKYL\u00c4NKUJA - VIPUSENKATU",
+              "vol": "50-55",
+              "la": "61.51687651",
+              "lo": "23.92596467",
+              "point": "POINT (24491009.452062212 6820621.822650274)",
+              "link": "http://maps.google.com/maps?q=61.51687651,23.92596467&ll=61.51687651,23.92596467=17"
+       },
+       "239": {
+              "name": "EKKIL\u00c4NPUISTO POHJOINEN",
+              "street": "TASANTEENKATU - KOKKOKALLIONKATU",
+              "vol": "50-55",
+              "la": "61.47201567",
+              "lo": "23.79293815",
+              "point": "POINT (24496059.39088347 6823093.089511453)",
+              "link": "http://maps.google.com/maps?q=61.47201567,23.79293815&ll=61.47201567,23.79293815=17"
+       },
+       "240": {
+              "name": "MAHLANPUISTO",
+              "street": "KOIVISTONTIE - MAHLANKATU",
+              "vol": "50-55",
+              "la": "61.47170792",
+              "lo": "23.79503815",
+              "point": "POINT (24488963.04816811 6818109.203396181)",
+              "link": "http://maps.google.com/maps?q=61.47170792,23.79503815&ll=61.47170792,23.79503815=17"
+       },
+       "241": {
+              "name": "M\u00c4KITUVANPUISTO",
+              "street": "KOIVISTONTIE - ANTILANKUJA",
+              "vol": "55-60",
+              "la": "61.51322121",
+              "lo": "23.92119034",
+              "point": "POINT (24489074.87589869 6818074.554746578)",
+              "link": "http://maps.google.com/maps?q=61.51322121,23.92119034&ll=61.51322121,23.92119034=17"
+       },
+       "242": {
+              "name": "AHOLANPUISTO",
+              "street": "AHOLANMUTKA",
+              "vol": "50-55",
+              "la": "61.50908778",
+              "lo": "23.91177923",
+              "point": "POINT (24495804.7796 6822686.0500105)",
+              "link": "http://maps.google.com/maps?q=61.50908778,23.91177923&ll=61.50908778,23.91177923=17"
+       },
+       "243": {
+              "name": "LAUTAKATONPUISTO",
+              "street": "LAUTAKATONKATU - AITOLAHDENTIE",
+              "vol": "55-60",
+              "la": "61.51073356",
+              "lo": "23.92355417",
+              "point": "POINT (24495303.18133157 6822226.073307027)",
+              "link": "http://maps.google.com/maps?q=61.51073356,23.92355417&ll=61.51073356,23.92355417=17"
+       },
+       "244": {
+              "name": "KEPINOJANPUISTO",
+              "street": "AITOLAHDENTIE - NIKINV\u00c4YL\u00c4 - SAUVAKATU",
+              "vol": "Empty",
+              "la": "61.48317074",
+              "lo": "23.78597060",
+              "point": "POINT (24495930.28685917 6822408.683033194)",
+              "link": "http://maps.google.com/maps?q=61.48317074,23.78597060&ll=61.48317074,23.78597060=17"
+       },
+       "245": {
+              "name": "ISONPORTINPUISTO",
+              "street": "ISONPORTINTIE",
+              "vol": "50-55",
+              "la": "61.49330294",
+              "lo": "23.80337948",
+              "point": "POINT (24488595.740385536 6819353.485426387)",
+              "link": "http://maps.google.com/maps?q=61.49330294,23.80337948&ll=61.49330294,23.80337948=17"
+       },
+       "246": {
+              "name": "KALEVANKIVENPUISTIKKO",
+              "street": "KALEVANTIE - RASTAANPOLKU",
+              "vol": "60-65",
+              "la": "61.52164519",
+              "lo": "23.94306922",
+              "point": "POINT (24489526.750765 6820479.6647665)",
+              "link": "http://maps.google.com/maps?q=61.52164519,23.94306922&ll=61.52164519,23.94306922=17"
+       },
+       "247": {
+              "name": "OLKAHISEN P\u00c4IV\u00c4KOTI",
+              "street": "JENSENINKATU 3",
+              "vol": "45-50",
+              "la": "61.50558342",
+              "lo": "23.67973198",
+              "point": "POINT (24496970.2626525 6823623.586171)",
+              "link": "http://maps.google.com/maps?q=61.50558342,23.67973198&ll=61.50558342,23.67973198=17"
+       },
+       "248": {
+              "name": "VISKANPUISTO",
+              "street": "PEURANKATU - AAPELINRAITTI",
+              "vol": "50-55",
+              "la": "61.47147438",
+              "lo": "23.80030733",
+              "point": "POINT (24482947.257695522 6821874.265023463)",
+              "link": "http://maps.google.com/maps?q=61.47147438,23.80030733&ll=61.47147438,23.80030733=17"
+       },
+       "249": {
+              "name": "AHLMANINHAKA",
+              "street": "RINTAM\u00c4ENKUJA - HAUKISENRAITTI",
+              "vol": "55-60",
+              "la": "61.46678211",
+              "lo": "23.80466339",
+              "point": "POINT (24489355.65965 6818047.6590445)",
+              "link": "http://maps.google.com/maps?q=61.46678211,23.80466339&ll=61.46678211,23.80466339=17"
+       },
+       "250": {
+              "name": "HAUKISENMAA",
+              "street": "VEISUNKATU -HAUENKATU",
+              "vol": "50-55",
+              "la": "61.51880858",
+              "lo": "23.60433533",
+              "point": "POINT (24489586.28667 6817524.065284)",
+              "link": "http://maps.google.com/maps?q=61.51880858,23.60433533&ll=61.51880858,23.60433533=17"
+       },
+       "251": {
+              "name": "HAUKILUOMANPUISTO",
+              "street": "RUNKOKATU - TYVIKATU",
+              "vol": "Empty",
+              "la": "61.46879777",
+              "lo": "23.78168850",
+              "point": "POINT (24478941.7231625 6823370.0680375)",
+              "link": "http://maps.google.com/maps?q=61.46879777,23.78168850&ll=61.46879777,23.78168850=17"
+       },
+       "252": {
+              "name": "TAATALANPUISTO",
+              "street": "SIVULANKATU - KIVIM\u00c4ENKATU",
+              "vol": "50-55",
+              "la": "61.46584476",
+              "lo": "23.91221664",
+              "point": "POINT (24488362.212875824 6817752.567440682)",
+              "link": "http://maps.google.com/maps?q=61.46584476,23.91221664&ll=61.46584476,23.91221664=17"
+       },
+       "253": {
+              "name": "LEVONM\u00c4ENPUISTO-KUMINA",
+              "street": "KUMINAKATU-MAUSTEKATU-PERSILJAKATU",
+              "vol": "45-50",
+              "la": "61.47306836",
+              "lo": "23.88763156",
+              "point": "POINT (24495319.98113 6817407.164302)",
+              "link": "http://maps.google.com/maps?q=61.47306836,23.88763156&ll=61.47306836,23.88763156=17"
+       },
+       "254": {
+              "name": "HAIHARANPUISTO",
+              "street": "J\u00c4RVIKATU",
+              "vol": "50-55",
+              "la": "61.49448847",
+              "lo": "23.84469667",
+              "point": "POINT (24494010.658001475 6818214.149656438)",
+              "link": "http://maps.google.com/maps?q=61.49448847,23.84469667&ll=61.49448847,23.84469667=17"
+       },
+       "255": {
+              "name": "JUKOLANPUISTO ETEL\u00c4",
+              "street": "TAKAHUHDINTIE - JUKOLANKATU",
+              "vol": "55-60",
+              "la": "61.49015774",
+              "lo": "23.79786113",
+              "point": "POINT (24491727.876525477 6820605.837024518)",
+              "link": "http://maps.google.com/maps?q=61.49015774,23.79786113&ll=61.49015774,23.79786113=17"
+       },
+       "256": {
+              "name": "TURJANPUISTO",
+              "street": "TURJANKATU - IIDESRANTA",
+              "vol": "50-55",
+              "la": "61.50053519",
+              "lo": "23.79017508",
+              "point": "POINT (24489231.722968765 6820130.072787036)",
+              "link": "http://maps.google.com/maps?q=61.50053519,23.79017508&ll=61.50053519,23.79017508=17"
+       },
+       "257": {
+              "name": "ILVESPUISTO",
+              "street": "ILMARINKATU - TEISKONTIE",
+              "vol": "55-60",
+              "la": "61.48274405",
+              "lo": "23.79070711",
+              "point": "POINT (24488825.996421956 6821287.796503095)",
+              "link": "http://maps.google.com/maps?q=61.48274405,23.79070711&ll=61.48274405,23.79070711=17"
+       },
+       "258": {
+              "name": "TAMPEREEN NORMAALIKOULU, NEKALAN KOULU",
+              "street": "LOUNAANTIE 2",
+              "vol": "55-60",
+              "la": "61.50351614",
+              "lo": "23.68851889",
+              "point": "POINT (24488847.965128947 6819305.117802182)",
+              "link": "http://maps.google.com/maps?q=61.50351614,23.68851889&ll=61.50351614,23.68851889=17"
+       },
+       "259": {
+              "name": "TUPA-HAKAN RYHM\u00c4PERHEP\u00c4IV\u00c4KOTI",
+              "street": "KARVOLANKATU 2",
+              "vol": "50-55",
+              "la": "61.50704245",
+              "lo": "23.91955737",
+              "point": "POINT (24483414.015435 6821641.626655)",
+              "link": "http://maps.google.com/maps?q=61.50704245,23.91955737&ll=61.50704245,23.91955737=17"
+       },
+       "260": {
+              "name": "ATALANPUISTO",
+              "street": "SIENEST\u00c4J\u00c4NKATU - EERONKUJA",
+              "vol": "45-50",
+              "la": "61.50570843",
+              "lo": "23.91416526",
+              "point": "POINT (24495717.003397856 6821997.61044111)",
+              "link": "http://maps.google.com/maps?q=61.50570843,23.91416526&ll=61.50570843,23.91416526=17"
+       },
+       "261": {
+              "name": "ATALANPUISTO",
+              "street": "SIENEST\u00c4J\u00c4NKATU - EERONKUJA",
+              "vol": "45-50",
+              "la": "61.50213851",
+              "lo": "23.91623319",
+              "point": "POINT (24495429.71620232 6821849.31666218)",
+              "link": "http://maps.google.com/maps?q=61.50213851,23.91623319&ll=61.50213851,23.91623319=17"
+       },
+       "262": {
+              "name": "LAAVUPUISTO",
+              "street": "NIKINV\u00c4YL\u00c4 - TAIVALTAJANKATU",
+              "vol": "50-55",
+              "la": "61.47757837",
+              "lo": "23.81878498",
+              "point": "POINT (24495539.3124175 6821451.351175)",
+              "link": "http://maps.google.com/maps?q=61.47757837,23.81878498&ll=61.47757837,23.81878498=17"
+       },
+       "263": {
+              "name": "VINNINKOIVIKKO",
+              "street": "UOTILANTIE",
+              "vol": "50-55",
+              "la": "61.45212787",
+              "lo": "23.83308279",
+              "point": "POINT (24490342.47379 6818724.990967)",
+              "link": "http://maps.google.com/maps?q=61.45212787,23.83308279&ll=61.45212787,23.83308279=17"
+       },
+       "264": {
+              "name": "PALLOPUISTO",
+              "street": "PARKANONKATU - MUROLEENPOLKU",
+              "vol": "Empty",
+              "la": "61.52096805",
+              "lo": "23.94461567",
+              "point": "POINT (24491097.1896025 6815886.840229)",
+              "link": "http://maps.google.com/maps?q=61.52096805,23.94461567&ll=61.52096805,23.94461567=17"
+       },
+       "265": {
+              "name": "LAMMASKALLIO",
+              "street": "JENSENINKATU - OLKAHITTENPER\u00c4",
+              "vol": "50-55",
+              "la": "61.52774973",
+              "lo": "23.94863151",
+              "point": "POINT (24497052.497196533 6823548.0557266055)",
+              "link": "http://maps.google.com/maps?q=61.52774973,23.94863151&ll=61.52774973,23.94863151=17"
+       },
+       "266": {
+              "name": "VASTARANNANPUISTO IT\u00c4",
+              "street": "VASTARANNANKATU - MUURAHAISENPOLKU",
+              "vol": "Empty",
+              "la": "61.50529383",
+              "lo": "23.90710730",
+              "point": "POINT (24497266.81228966 6824303.615952932)",
+              "link": "http://maps.google.com/maps?q=61.50529383,23.90710730&ll=61.50529383,23.90710730=17"
+       },
+       "267": {
+              "name": "NIKINPUISTO",
+              "street": "AITOLAHDENTIE - ATALANV\u00c4YL\u00c4",
+              "vol": "55-60",
+              "la": "61.49017990",
+              "lo": "23.84896914",
+              "point": "POINT (24495053.848706245 6821803.630748851)",
+              "link": "http://maps.google.com/maps?q=61.49017990,23.84896914&ll=61.49017990,23.84896914=17"
+       },
+       "268": {
+              "name": "JANKANPUISTO",
+              "street": "JANKANRAITTI - SAMMON VALTATIE",
+              "vol": "50-55",
+              "la": "61.49943608",
+              "lo": "23.82326171",
+              "point": "POINT (24491954.33383134 6820125.1682050275)",
+              "link": "http://maps.google.com/maps?q=61.49943608,23.82326171&ll=61.49943608,23.82326171=17"
+       },
+       "269": {
+              "name": "TAPIOLANPUISTO",
+              "street": "TAKAHUHDINTIE - SUDENKATU",
+              "vol": "45-50",
+              "la": "61.47555154",
+              "lo": "23.80180052",
+              "point": "POINT (24490587.65444 6821160.0915775)",
+              "link": "http://maps.google.com/maps?q=61.47555154,23.80180052&ll=61.47555154,23.80180052=17"
+       },
+       "270": {
+              "name": "VIHIOJANPUISTO-PELIPUISTO",
+              "street": "JOKIPOHJANTIE-HALLILANTIE-KOSKUENPOLKU",
+              "vol": "50-55",
+              "la": "61.50116977",
+              "lo": "23.81340346",
+              "point": "POINT (24489436.633059055 6818501.760638028)",
+              "link": "http://maps.google.com/maps?q=61.50116977,23.81340346&ll=61.50116977,23.81340346=17"
+       },
+       "271": {
+              "name": "MAJAVAPUISTO",
+              "street": "MAJAVANKATU",
+              "vol": "45-50",
+              "la": "61.50125358",
+              "lo": "23.82833861",
+              "point": "POINT (24490063.19922838 6821354.7520190235)",
+              "link": "http://maps.google.com/maps?q=61.50125358,23.82833861&ll=61.50125358,23.82833861=17"
+       },
+       "272": {
+              "name": "NALLENPUISTO",
+              "street": "RITAKATU - SUDENKATU",
+              "vol": "45-50",
+              "la": "61.46587011",
+              "lo": "23.89714977",
+              "point": "POINT (24490858.56191265 6821361.90639435)",
+              "link": "http://maps.google.com/maps?q=61.46587011,23.89714977&ll=61.46587011,23.89714977=17"
+       },
+       "273": {
+              "name": "KUUSELANPUISTO",
+              "street": "HIKIVUORENKATU - OJAVAINIONKATU",
+              "vol": "Empty",
+              "la": "61.44076930",
+              "lo": "23.85211336",
+              "point": "POINT (24494516.722224776 6817411.163269884)",
+              "link": "http://maps.google.com/maps?q=61.44076930,23.85211336&ll=61.44076930,23.85211336=17"
+       },
+       "274": {
+              "name": "HELAPUISTO L\u00c4NSI",
+              "street": "VALTARAITTI - HELARAITTI",
+              "vol": "Empty",
+              "la": "61.48935503",
+              "lo": "23.92193904",
+              "point": "POINT (24492109.345970944 6814618.633712348)",
+              "link": "http://maps.google.com/maps?q=61.48935503,23.92193904&ll=61.48935503,23.92193904=17"
+       },
+       "275": {
+              "name": "KALERVONPUISTO",
+              "street": "TILKANKATU-ORIMUSKATU-ILMATTARENKATU",
+              "vol": "50-55",
+              "la": "61.49129860",
+              "lo": "23.92933363",
+              "point": "POINT (24495841.4506825 6820026.417967)",
+              "link": "http://maps.google.com/maps?q=61.49129860,23.92933363&ll=61.49129860,23.92933363=17"
+       },
+       "276": {
+              "name": "TOISPUOLISENPUISTO",
+              "street": "HUSSANKATU - RAUDIKONKATU",
+              "vol": "50-55",
+              "la": "61.51155879",
+              "lo": "23.65936762",
+              "point": "POINT (24496235.6176375 6820242.554398)",
+              "link": "http://maps.google.com/maps?q=61.51155879,23.65936762&ll=61.51155879,23.65936762=17"
+       },
+       "277": {
+              "name": "VAARINMAA",
+              "street": "EPIL\u00c4NKATU - MUSTIKKANIEMI",
+              "vol": "50-55",
+              "la": "61.49222384",
+              "lo": "23.72705323",
+              "point": "POINT (24481866.438945856 6822545.635066765)",
+              "link": "http://maps.google.com/maps?q=61.49222384,23.72705323&ll=61.49222384,23.72705323=17"
+       },
+       "278": {
+              "name": "ATLASPUISTO",
+              "street": "PYYNIKINTIE - PYH\u00c4RANTA - JOSELININNIEMI",
+              "vol": "Empty",
+              "la": "61.48295124",
+              "lo": "23.79927923",
+              "point": "POINT (24485460.6445 6820374.053767)",
+              "link": "http://maps.google.com/maps?q=61.48295124,23.79927923&ll=61.48295124,23.79927923=17"
+       },
+       "279": {
+              "name": "NEKALAN P\u00c4IV\u00c4KOTI",
+              "street": "JOKIPOHJANTIE 13",
+              "vol": "55-60",
+              "la": "61.48638308",
+              "lo": "23.84306331",
+              "point": "POINT (24489304.7951021 6819326.770021296)",
+              "link": "http://maps.google.com/maps?q=61.48638308,23.84306331&ll=61.48638308,23.84306331=17"
+       },
+       "280": {
+              "name": "MESSUKYL\u00c4N KOULU",
+              "street": "MESSUKYL\u00c4NKATU 35",
+              "vol": "55-60",
+              "la": "61.48473435",
+              "lo": "23.84785804",
+              "point": "POINT (24491638.702646263 6819702.805222237)",
+              "link": "http://maps.google.com/maps?q=61.48473435,23.84785804&ll=61.48473435,23.84785804=17"
+       },
+       "281": {
+              "name": "MESSUKYL\u00c4N P\u00c4IV\u00c4KOTI",
+              "street": "RISTINARKUNTIE 1",
+              "vol": "55-60",
+              "la": "61.47577593",
+              "lo": "23.75968119",
+              "point": "POINT (24491893.72795866 6819518.470544355)",
+              "link": "http://maps.google.com/maps?q=61.47577593,23.75968119&ll=61.47577593,23.75968119=17"
+       },
+       "282": {
+              "name": "TUOMIKUJAN P\u00c4IV\u00c4KOTI",
+              "street": "TUOMIKUJA 8",
+              "vol": "50-55",
+              "la": "61.46826161",
+              "lo": "23.75032164",
+              "point": "POINT (24487191.91243423 6818534.313532796)",
+              "link": "http://maps.google.com/maps?q=61.46826161,23.75032164&ll=61.46826161,23.75032164=17"
+       },
+       "283": {
+              "name": "TALVITIEN P\u00c4IV\u00c4KOTI JA KOULU",
+              "street": "TALVITIE 24",
+              "vol": "55-60",
+              "la": "61.50591956",
+              "lo": "23.63506691",
+              "point": "POINT (24486689.87946326 6817698.819102003)",
+              "link": "http://maps.google.com/maps?q=61.50591956,23.63506691&ll=61.50591956,23.63506691=17"
+       },
+       "284": {
+              "name": "KOHMANPUISTO(TOHLOPPIJ\u00c4RVENPUISTO ETEL\u00c4)",
+              "street": "KOHMANKAARI - KOHMANKATU - PYYDYSPOHJANKATU",
+              "vol": "45-50",
+              "la": "61.45451807",
+              "lo": "23.74837427",
+              "point": "POINT (24480569.282135606 6821924.220856317)",
+              "link": "http://maps.google.com/maps?q=61.45451807,23.74837427&ll=61.45451807,23.74837427=17"
+       },
+       "285": {
+              "name": "PELTOLAMMIN KOULU",
+              "street": "S\u00c4\u00c4ST\u00c4J\u00c4NKATU 16",
+              "vol": "50-55",
+              "la": "61.45481558",
+              "lo": "23.75703968",
+              "point": "POINT (24486580.15894004 6816167.69040989)",
+              "link": "http://maps.google.com/maps?q=61.45481558,23.75703968&ll=61.45481558,23.75703968=17"
+       },
+       "286": {
+              "name": "PELTOLAMMIN P\u00c4IV\u00c4KOTI",
+              "street": "PELTOLAMMINKATU 12",
+              "vol": "50-55",
+              "la": "61.45487987",
+              "lo": "23.83895533",
+              "point": "POINT (24487042.428749826 6816199.092306636)",
+              "link": "http://maps.google.com/maps?q=61.45487987,23.83895533&ll=61.45487987,23.83895533=17"
+       },
+       "287": {
+              "name": "KANJONIN KOULU JA NUORISOTALO",
+              "street": "RUOVEDENKATU 7",
+              "vol": "Empty",
+              "la": "61.44022827",
+              "lo": "23.75198949",
+              "point": "POINT (24491411.1683 6816192.726685)",
+              "link": "http://maps.google.com/maps?q=61.44022827,23.75198949&ll=61.44022827,23.75198949=17"
+       },
+       "288": {
+              "name": "MULTISILLAN KOULU",
+              "street": "TER\u00c4V\u00c4NKATU 1",
+              "vol": "55-60",
+              "la": "61.43975726",
+              "lo": "23.75254851",
+              "point": "POINT (24486766.912261914 6814574.554676439)",
+              "link": "http://maps.google.com/maps?q=61.43975726,23.75254851&ll=61.43975726,23.75254851=17"
+       },
+       "289": {
+              "name": "MULTISILLAN P\u00c4IV\u00c4KOTI",
+              "street": "TER\u00c4V\u00c4NKATU 3",
+              "vol": "55-60",
+              "la": "61.44989855",
+              "lo": "23.83636464",
+              "point": "POINT (24486796.5406525 6814521.954751)",
+              "link": "http://maps.google.com/maps?q=61.44989855,23.83636464&ll=61.44989855,23.83636464=17"
+       },
+       "290": {
+              "name": "POHJOIS-HERVANNAN KOULU",
+              "street": "OPISKELIJANKATU 29",
+              "vol": "Empty",
+              "la": "61.44336777",
+              "lo": "23.85180014",
+              "point": "POINT (24491271.608815 6815637.970159)",
+              "link": "http://maps.google.com/maps?q=61.44336777,23.85180014&ll=61.44336777,23.85180014=17"
+       },
+       "291": {
+              "name": "ETEL\u00c4-HERVANNAN KOULU",
+              "street": "MEKANIIKANPOLKU 9",
+              "vol": "Empty",
+              "la": "61.48513665",
+              "lo": "23.92506619",
+              "point": "POINT (24492093.291728266 6814908.235893084)",
+              "link": "http://maps.google.com/maps?q=61.48513665,23.92506619&ll=61.48513665,23.92506619=17"
+       },
+       "292": {
+              "name": "MAIJANMETS\u00c4",
+              "street": "MAIJANNIITYNKATU - MARJATANKATU",
+              "vol": "50-55",
+              "la": "61.48287926",
+              "lo": "23.91723243",
+              "point": "POINT (24496007.5032575 6819556.1382445)",
+              "link": "http://maps.google.com/maps?q=61.48287926,23.91723243&ll=61.48287926,23.91723243=17"
+       },
+       "293": {
+              "name": "MIKKOLANPUISTO",
+              "street": "MIKKOLANKATU - LUKINKATU",
+              "vol": "55-60",
+              "la": "61.46396366",
+              "lo": "23.90384478",
+              "point": "POINT (24495589.79863448 6819305.085828639)",
+              "link": "http://maps.google.com/maps?q=61.46396366,23.90384478&ll=61.46396366,23.90384478=17"
+       },
+       "294": {
+              "name": "KAROSENPUISTO",
+              "street": "JUVANKATU - HIKIVUORENKATU",
+              "vol": "Empty",
+              "la": "61.47265093",
+              "lo": "23.74919214",
+              "point": "POINT (24494873.34121238 6817198.16986013)",
+              "link": "http://maps.google.com/maps?q=61.47265093,23.74919214&ll=61.47265093,23.74919214=17"
+       },
+       "295": {
+              "name": "H\u00c4RM\u00c4L\u00c4N RANTAPUISTO",
+              "street": "PIHLAJAKATU - TUOMIKUJA",
+              "vol": "45-50",
+              "la": "61.47781760",
+              "lo": "23.81081816",
+              "point": "POINT (24486631.54858888 6818188.180286321)",
+              "link": "http://maps.google.com/maps?q=61.47781760,23.81081816&ll=61.47781760,23.81081816=17"
+       },
+       "296": {
+              "name": "HAAVIKONPUISTO",
+              "street": "KUOPPAM\u00c4ENTIE - MUOTIALANTIE",
+              "vol": "50-55",
+              "la": "61.47973675",
+              "lo": "23.83571166",
+              "point": "POINT (24489917.97443675 6818752.855418483)",
+              "link": "http://maps.google.com/maps?q=61.47973675,23.83571166&ll=61.47973675,23.83571166=17"
+       },
+       "297": {
+              "name": "KIRKKOSUO",
+              "street": "HERVANNAN VALTAV\u00c4YL\u00c4-SOTILAANKATU-VISKARINKATU",
+              "vol": "50-55",
+              "la": "61.48259206",
+              "lo": "23.83977822",
+              "point": "POINT (24491245.1549525 6818963.1236365)",
+              "link": "http://maps.google.com/maps?q=61.48259206,23.83977822&ll=61.48259206,23.83977822=17"
+       },
+       "298": {
+              "name": "KIRKKOSUO",
+              "street": "HERVANNAN VALTAV\u00c4YL\u00c4-SOTILAANKATU-VISKARINKATU",
+              "vol": "50-55",
+              "la": "61.50254262",
+              "lo": "23.79096649",
+              "point": "POINT (24491462.6413775 6819280.7715355)",
+              "link": "http://maps.google.com/maps?q=61.50254262,23.79096649&ll=61.50254262,23.79096649=17"
+       },
+       "299": {
+              "name": "SAUKONPUISTO",
+              "street": "KAUPINKATU - PETSAMONKATU",
+              "vol": "Empty",
+              "la": "61.47711985",
+              "lo": "23.85475858",
+              "point": "POINT (24488868.859375 6821511.3638725)",
+              "link": "http://maps.google.com/maps?q=61.47711985,23.85475858&ll=61.47711985,23.85475858=17"
+       },
+       "300": {
+              "name": "HARPPIPUISTO",
+              "street": "SANTAHARJUNTIE - NUIJATIE",
+              "vol": "50-55",
+              "la": "61.44742070",
+              "lo": "23.82952763",
+              "point": "POINT (24492259.504945 6818669.0961475)",
+              "link": "http://maps.google.com/maps?q=61.44742070,23.82952763&ll=61.44742070,23.82952763=17"
+       },
+       "301": {
+              "name": "MAIJALANKANGAS",
+              "street": "OPISKELIJANKATU - AHVENISJ\u00c4RVENTIE",
+              "vol": "Empty",
+              "la": "61.46653569",
+              "lo": "23.82760639",
+              "point": "POINT (24490906.198667254 6815362.781552407)",
+              "link": "http://maps.google.com/maps?q=61.46653569,23.82760639&ll=61.46653569,23.82760639=17"
+       },
+       "302": {
+              "name": "KOIVIKONPUISTO",
+              "street": "KOIVIKONKATU - TUOHIKATU",
+              "vol": "50-55",
+              "la": "61.49956752",
+              "lo": "23.60378995",
+              "point": "POINT (24490809.340903368 6817493.156657284)",
+              "link": "http://maps.google.com/maps?q=61.49956752,23.60378995&ll=61.49956752,23.60378995=17"
+       },
+       "303": {
+              "name": "KALKEPUISTO",
+              "street": "KALKUNVUORENKATU",
+              "vol": "45-50",
+              "la": "61.49071291",
+              "lo": "23.83586486",
+              "point": "POINT (24478899.66489896 6821226.096147578)",
+              "link": "http://maps.google.com/maps?q=61.49071291,23.83586486&ll=61.49071291,23.83586486=17"
+       },
+       "304": {
+              "name": "AARIKKALANPUISTO",
+              "street": "MIEKKAKATU - AARIKKALANKATU",
+              "vol": "50-55",
+              "la": "61.48728082",
+              "lo": "23.83153426",
+              "point": "POINT (24491256.397775 6820186.252594)",
+              "link": "http://maps.google.com/maps?q=61.48728082,23.83153426&ll=61.48728082,23.83153426=17"
+       },
+       "305": {
+              "name": "LEIVONPUISTO POHJOINEN",
+              "street": "IIVANTAM\u00c4ENKATU - LEIVONKUJA",
+              "vol": "55-60",
+              "la": "61.50031413",
+              "lo": "23.83433849",
+              "point": "POINT (24491024.715517186 6819804.379653706)",
+              "link": "http://maps.google.com/maps?q=61.50031413,23.83433849&ll=61.50031413,23.83433849=17"
+       },
+       "306": {
+              "name": "RUOTULANPUISTO",
+              "street": "YLI-HUIKKAANTIE - KOUKKUTIE",
+              "vol": "45-50",
+              "la": "61.47556114",
+              "lo": "23.93026890",
+              "point": "POINT (24491177.805464525 6821256.390336875)",
+              "link": "http://maps.google.com/maps?q=61.47556114,23.93026890&ll=61.47556114,23.93026890=17"
+       },
+       "307": {
+              "name": "PYS\u00c4KKIPUISTO",
+              "street": "PYS\u00c4KKIKATU",
+              "vol": "50-55",
+              "la": "61.49148345",
+              "lo": "23.86812775",
+              "point": "POINT (24496283.56401 6818488.7647135)",
+              "link": "http://maps.google.com/maps?q=61.49148345,23.86812775&ll=61.49148345,23.86812775=17"
+       },
+       "308": {
+              "name": "RAUNINARONPUISTO",
+              "street": "SIKOSUONKATU - AITTAKATU",
+              "vol": "50-55",
+              "la": "61.49357502",
+              "lo": "23.85398847",
+              "point": "POINT (24492975.237885 6820268.218114)",
+              "link": "http://maps.google.com/maps?q=61.49357502,23.85398847&ll=61.49357502,23.85398847=17"
+       },
+       "309": {
+              "name": "LINNANPUISTO",
+              "street": "TAKAHUHDINTIE - HAUKKAM\u00c4ENKATU",
+              "vol": "50-55",
+              "la": "61.47732038",
+              "lo": "23.90967708",
+              "point": "POINT (24492222.569085 6820502.901844)",
+              "link": "http://maps.google.com/maps?q=61.47732038,23.90967708&ll=61.47732038,23.90967708=17"
+       },
+       "310": {
+              "name": "JUVELANPUISTO",
+              "street": "HAINARINKATU - JUVELANKATU",
+              "vol": "50-55",
+              "la": "61.47223016",
+              "lo": "23.85835900",
+              "point": "POINT (24495186.360267937 6818686.156394023)",
+              "link": "http://maps.google.com/maps?q=61.47223016,23.85835900&ll=61.47223016,23.85835900=17"
+       },
+       "311": {
+              "name": "KALLE P\u00c4\u00c4TALON PUISTO",
+              "street": "VASARATIE",
+              "vol": "50-55",
+              "la": "61.47724810",
+              "lo": "23.92672075",
+              "point": "POINT (24492450.202327527 6818123.7827594485)",
+              "link": "http://maps.google.com/maps?q=61.47724810,23.92672075&ll=61.47724810,23.92672075=17"
+       },
+       "312": {
+              "name": "VEHMAISTENPUISTO",
+              "street": "AUKIONKATU - LYHTYKATU",
+              "vol": "55-60",
+              "la": "61.44664263",
+              "lo": "23.75436892",
+              "point": "POINT (24496094.670573678 6818676.961745084)",
+              "link": "http://maps.google.com/maps?q=61.44664263,23.75436892&ll=61.44664263,23.75436892=17"
+       },
+       "313": {
+              "name": "RUOKOM\u00c4ENPUISTO",
+              "street": "RUOKOM\u00c4ENKATU - PALOKALLIONKATU",
+              "vol": "50-55",
+              "la": "61.49499426",
+              "lo": "23.91071609",
+              "point": "POINT (24486896.5626525 6815288.8649785)",
+              "link": "http://maps.google.com/maps?q=61.49499426,23.91071609&ll=61.49499426,23.91071609=17"
+       },
+       "314": {
+              "name": "SAMMALLADONPUISTO",
+              "street": "ORIMUSKATU - PIETTASENKATU",
+              "vol": "50-55",
+              "la": "61.46419461",
+              "lo": "23.74950801",
+              "point": "POINT (24495244.42988306 6820655.605670597)",
+              "link": "http://maps.google.com/maps?q=61.46419461,23.74950801&ll=61.46419461,23.74950801=17"
+       },
+       "315": {
+              "name": "METSONPUISTO",
+              "street": "LEPOLANTIE",
+              "vol": "55-60",
+              "la": "61.45611402",
+              "lo": "23.75110990",
+              "point": "POINT (24486644.7653275 6817245.7750825)",
+              "link": "http://maps.google.com/maps?q=61.45611402,23.75110990&ll=61.45611402,23.75110990=17"
+       },
+       "316": {
+              "name": "TILKONM\u00c4ENPUISTO",
+              "street": "S\u00c4\u00c4ST\u00c4J\u00c4NKATU - RUKKAM\u00c4ENTIE",
+              "vol": "45-50",
+              "la": "61.45526652",
+              "lo": "23.75644852",
+              "point": "POINT (24486726.734933812 6816344.977493674)",
+              "link": "http://maps.google.com/maps?q=61.45526652,23.75644852&ll=61.45526652,23.75644852=17"
+       },
+       "317": {
+              "name": "TILKONM\u00c4ENPUISTO",
+              "street": "S\u00c4\u00c4ST\u00c4J\u00c4NKATU - RUKKAM\u00c4ENTIE",
+              "vol": "50-55",
+              "la": "61.45132871",
+              "lo": "23.75191201",
+              "point": "POINT (24487011.089197487 6816249.461081757)",
+              "link": "http://maps.google.com/maps?q=61.45132871,23.75191201&ll=61.45132871,23.75191201=17"
+       },
+       "318": {
+              "name": "TILKONM\u00c4ENPUISTO",
+              "street": "S\u00c4\u00c4ST\u00c4J\u00c4NKATU - RUKKAM\u00c4ENTIE",
+              "vol": "45-50",
+              "la": "61.48837635",
+              "lo": "23.89693938",
+              "point": "POINT (24486767.4828575 6815811.558829)",
+              "link": "http://maps.google.com/maps?q=61.48837635,23.89693938&ll=61.48837635,23.89693938=17"
+       },
+       "319": {
+              "name": "HELAKALLIONPUISTO",
+              "street": "HELAKALLIONKATU - YLINIKKIL\u00c4NKATU",
+              "vol": "50-55",
+              "la": "61.50617333",
+              "lo": "23.76973769",
+              "point": "POINT (24494509.46926438 6819919.2068665065)",
+              "link": "http://maps.google.com/maps?q=61.50617333,23.76973769&ll=61.50617333,23.76973769=17"
+       },
+       "320": {
+              "name": "ARMONKALLIONPUISTIKKO",
+              "street": "SILTAKATU - HAARAKATU",
+              "vol": "Empty",
+              "la": "61.44929768",
+              "lo": "23.84751087",
+              "point": "POINT (24487739.847095635 6821919.76713663)",
+              "link": "http://maps.google.com/maps?q=61.44929768,23.84751087&ll=61.44929768,23.84751087=17"
+       },
+       "321": {
+              "name": "AHVENISPUISTO",
+              "street": "TEEKKARINKATU - LINDFORSINKATU",
+              "vol": "Empty",
+              "la": "61.47684114",
+              "lo": "23.83122895",
+              "point": "POINT (24491865.99722 6815569.5710455)",
+              "link": "http://maps.google.com/maps?q=61.47684114,23.83122895&ll=61.47684114,23.83122895=17"
+       },
+       "322": {
+              "name": "LAULUNPUISTO",
+              "street": "LAULUNMAANKATU",
+              "vol": "50-55",
+              "la": "61.47905734",
+              "lo": "23.81098782",
+              "point": "POINT (24491005.4386575 6818641.056904)",
+              "link": "http://maps.google.com/maps?q=61.47905734,23.81098782&ll=61.47905734,23.81098782=17"
+       },
+       "323": {
+              "name": "HAAVIKONPUISTO",
+              "street": "KUOPPAM\u00c4ENTIE - MUOTIALANTIE",
+              "vol": "50-55",
+              "la": "61.43862749",
+              "lo": "23.84363779",
+              "point": "POINT (24489927.41634174 6818890.981596081)",
+              "link": "http://maps.google.com/maps?q=61.43862749,23.84363779&ll=61.43862749,23.84363779=17"
+       },
+       "324": {
+              "name": "HUPAKANOJANPUISTO",
+              "street": "AHVENISJ\u00c4RVENTIE - KOTKANSIIVENKATU",
+              "vol": "Empty",
+              "la": "61.49529438",
+              "lo": "23.82754498",
+              "point": "POINT (24491656.55103554 6814381.013761961)",
+              "link": "http://maps.google.com/maps?q=61.49529438,23.82754498&ll=61.49529438,23.82754498=17"
+       },
+       "325": {
+              "name": "UUDENKYL\u00c4NPUISTO",
+              "street": "KELTINKATU - SAMMON VALTATIE",
+              "vol": "55-60",
+              "la": "61.50080134",
+              "lo": "23.74295211",
+              "point": "POINT (24490814.5424325 6820697.94223)",
+              "link": "http://maps.google.com/maps?q=61.50080134,23.74295211&ll=61.50080134,23.74295211=17"
+       },
+       "326": {
+              "name": "V\u00c4IN\u00d6 LINNAN PUISTO",
+              "street": "N\u00c4SIJ\u00c4RVENKATU - SAARIKATU",
+              "vol": "55-60",
+              "la": "61.50102016",
+              "lo": "23.74313559",
+              "point": "POINT (24486311.312509913 6821326.45995199)",
+              "link": "http://maps.google.com/maps?q=61.50102016,23.74313559&ll=61.50102016,23.74313559=17"
+       },
+       "327": {
+              "name": "V\u00c4IN\u00d6 LINNAN PUISTO",
+              "street": "N\u00c4SIJ\u00c4RVENKATU - SAARIKATU",
+              "vol": "55-60",
+              "la": "61.49797352",
+              "lo": "23.78253820",
+              "point": "POINT (24486321.18005772 6821350.806450653)",
+              "link": "http://maps.google.com/maps?q=61.49797352,23.78253820&ll=61.49797352,23.78253820=17"
+       },
+       "328": {
+              "name": "SORSAPUISTO",
+              "street": "SALHOJANKATU - YLIOPISTONKATU",
+              "vol": "50-55",
+              "la": "61.49549425",
+              "lo": "23.79101771",
+              "point": "POINT (24488418.351785 6821003.664904)",
+              "link": "http://maps.google.com/maps?q=61.49549425,23.79101771&ll=61.49549425,23.79101771=17"
+       },
+       "329": {
+              "name": "TARKONPUISTO",
+              "street": "ORAVANPOLKU - KAUPINKATU",
+              "vol": "55-60",
+              "la": "61.47038206",
+              "lo": "23.87481359",
+              "point": "POINT (24488869.069455 6820725.906022)",
+              "link": "http://maps.google.com/maps?q=61.47038206,23.87481359&ll=61.47038206,23.87481359=17"
+       },
+       "330": {
+              "name": "ISOLAMMENPUISTO",
+              "street": "ISOLAMMENKATU - ISONIITYNPOLKU",
+              "vol": "45-50",
+              "la": "61.50288009",
+              "lo": "23.76932954",
+              "point": "POINT (24493326.87424047 6817916.042015873)",
+              "link": "http://maps.google.com/maps?q=61.50288009,23.76932954&ll=61.50288009,23.76932954=17"
+       },
+       "331": {
+              "name": "TUOMIOKIRKONPUISTO",
+              "street": "SATAKUNNANKATU - RAUTATIENKATU",
+              "vol": "55-60",
+              "la": "61.46679919",
+              "lo": "23.84798650",
+              "point": "POINT (24487716.8170225 6821552.855758)",
+              "link": "http://maps.google.com/maps?q=61.46679919,23.84798650&ll=61.46679919,23.84798650=17"
+       },
+       "332": {
+              "name": "LUKONPUISTO",
+              "street": "LUKONM\u00c4ENKATU - PIRJONKAIVONKATU",
+              "vol": "50-55",
+              "la": "61.49602027",
+              "lo": "23.81107697",
+              "point": "POINT (24491895.913275 6817519.8184945)",
+              "link": "http://maps.google.com/maps?q=61.49602027,23.81107697&ll=61.49602027,23.81107697=17"
+       },
+       "333": {
+              "name": "PELLERVONPUISTO",
+              "street": "LEMMINK\u00c4ISENKATU  - KEKKOSENTIE",
+              "vol": "50-55",
+              "la": "61.46657343",
+              "lo": "23.86008432",
+              "point": "POINT (24489937.644613147 6820781.263301641)",
+              "link": "http://maps.google.com/maps?q=61.46657343,23.86008432&ll=61.46657343,23.86008432=17"
+       },
+       "334": {
+              "name": "FINNINM\u00c4KI",
+              "street": "FINNINM\u00c4ENKATU",
+              "vol": "50-55",
+              "la": "61.49965478",
+              "lo": "23.76595395",
+              "point": "POINT (24492540.81327959 6817493.216346338)",
+              "link": "http://maps.google.com/maps?q=61.49965478,23.76595395&ll=61.49965478,23.76595395=17"
+       },
+       "335": {
+              "name": "KOSKIPUISTO",
+              "street": "H\u00c4MEENKATU - RONGANKATU",
+              "vol": "45-50",
+              "la": "61.52628577",
+              "lo": "23.94903117",
+              "point": "POINT (24487535.777516507 6821194.077796085)",
+              "link": "http://maps.google.com/maps?q=61.52628577,23.94903117&ll=61.52628577,23.94903117=17"
+       },
+       "336": {
+              "name": "PITK\u00c4NIITYNPUISTO",
+              "street": "VASTARANNANKATU - NIVARINKATU",
+              "vol": "45-50",
+              "la": "61.62663054",
+              "lo": "23.83258853",
+              "point": "POINT (24497287.9496325 6824140.4587945)",
+              "link": "http://maps.google.com/maps?q=61.62663054,23.83258853&ll=61.62663054,23.83258853=17"
+       },
+       "337": {
+              "name": "HAAVISTONPUISTO",
+              "street": "KORKEEPIRTINKATU",
+              "vol": "Empty",
+              "la": "61.62728815",
+              "lo": "23.82411736",
+              "point": "POINT (24491120.7799875 6835333.0973575)",
+              "link": "http://maps.google.com/maps?q=61.62728815,23.82411736&ll=61.62728815,23.82411736=17"
+       },
+       "338": {
+              "name": "K\u00c4MMENSUONPUISTO",
+              "street": "K\u00c4MMENMAANKATU",
+              "vol": "Empty",
+              "la": "61.46860451",
+              "lo": "23.75248693",
+              "point": "POINT (24490671.682345 6835407.5655175)",
+              "link": "http://maps.google.com/maps?q=61.46860451,23.75248693&ll=61.46860451,23.75248693=17"
+       },
+       "339": {
+              "name": "PERKI\u00d6NPUISTO",
+              "street": "KANNISTONKATU - TALVITIE",
+              "vol": "55-60",
+              "la": "61.46276456",
+              "lo": "23.82288234",
+              "point": "POINT (24486805.4539725 6817736.5906945)",
+              "link": "http://maps.google.com/maps?q=61.46276456,23.82288234&ll=61.46276456,23.82288234=17"
+       },
+       "340": {
+              "name": "PIKKUPEHKUSUONPUISTO",
+              "street": "LOUKKAANKATU",
+              "vol": "50-55",
+              "la": "61.49336059",
+              "lo": "23.89412539",
+              "point": "POINT (24490556.3509275 6817073.590264)",
+              "link": "http://maps.google.com/maps?q=61.49336059,23.89412539&ll=61.49336059,23.89412539=17"
+       },
+       "341": {
+              "name": "KORPIKODINPUISTO",
+              "street": "M\u00c4ENTAKUSENKATU - LINNAINMAANKATU",
+              "vol": "45-50",
+              "la": "61.48592735",
+              "lo": "23.78694691",
+              "point": "POINT (24494360.456553284 6820474.875910298)",
+              "link": "http://maps.google.com/maps?q=61.48592735,23.78694691&ll=61.48592735,23.78694691=17"
+       },
+       "342": {
+              "name": "KAAKONPUISTO",
+              "street": "LAMPITIE",
+              "vol": "50-55",
+              "la": "61.50361354",
+              "lo": "23.75008063",
+              "point": "POINT (24488648.7651175 6819660.502087)",
+              "link": "http://maps.google.com/maps?q=61.50361354,23.75008063&ll=61.50361354,23.75008063=17"
+       },
+       "343": {
+              "name": "N\u00c4SINPUISTO",
+              "street": "N\u00c4SIJ\u00c4RVENKATU",
+              "vol": "55-60",
+              "la": "61.50844741",
+              "lo": "23.93840137",
+              "point": "POINT (24486692.131165184 6821638.367100964)",
+              "link": "http://maps.google.com/maps?q=61.50844741,23.93840137&ll=61.50844741,23.93840137=17"
+       },
+       "344": {
+              "name": "KUMPULANPUISTO 1",
+              "street": "KUMPULANTIE-RINNETIE-VUORITIE",
+              "vol": "Empty",
+              "la": "61.49562474",
+              "lo": "23.87517526",
+              "point": "POINT (24496720.459873363 6822153.082899363)",
+              "link": "http://maps.google.com/maps?q=61.49562474,23.87517526&ll=61.49562474,23.87517526=17"
+       },
+       "345": {
+              "name": "KIRKKOLADONPUISTO",
+              "street": "LUHTAANKATU - KIRKKOLADONKATU",
+              "vol": "50-55",
+              "la": "61.47688679",
+              "lo": "23.82452707",
+              "point": "POINT (24493351.538174216 6820728.97259489)",
+              "link": "http://maps.google.com/maps?q=61.47688679,23.82452707&ll=61.47688679,23.82452707=17"
+       },
+       "346": {
+              "name": "VIHIOJANPUISTO-ORAS",
+              "street": "HALLILANTIE - PENTTIL\u00c4NKATU",
+              "vol": "50-55",
+              "la": "61.47991325",
+              "lo": "23.87875082",
+              "point": "POINT (24490648.27968276 6818647.086228681)",
+              "link": "http://maps.google.com/maps?q=61.47991325,23.87875082&ll=61.47991325,23.87875082=17"
+       },
+       "347": {
+              "name": "PYH\u00c4OJANPUISTO",
+              "street": "PYH\u00c4OJANKATU - YRITT\u00c4J\u00c4NKATU",
+              "vol": "50-55",
+              "la": "61.49301444",
+              "lo": "23.82562176",
+              "point": "POINT (24493538.724718884 6818977.771054497)",
+              "link": "http://maps.google.com/maps?q=61.49301444,23.82562176&ll=61.49301444,23.82562176=17"
+       },
+       "348": {
+              "name": "SANDELININPUISTO",
+              "street": "AARIKKALANKATU - SAMMON VALTATIE",
+              "vol": "55-60",
+              "la": "61.51380919",
+              "lo": "23.93330243",
+              "point": "POINT (24490711.42705 6820444.1448085)",
+              "link": "http://maps.google.com/maps?q=61.51380919,23.93330243&ll=61.51380919,23.93330243=17"
+       },
+       "349": {
+              "name": "KULOKUMPU",
+              "street": "AITOLAHDENTIE - KUMPULANTIE",
+              "vol": "45-50",
+              "la": "61.49814286",
+              "lo": "23.81250966",
+              "point": "POINT (24496449.600989856 6822750.854031233)",
+              "link": "http://maps.google.com/maps?q=61.49814286,23.81250966&ll=61.49814286,23.81250966=17"
+       },
+       "350": {
+              "name": "KALEVANPUISTON KOULU",
+              "street": "LEMMINK\u00c4ISENKATU 14",
+              "vol": "55-60",
+              "la": "61.48602868",
+              "lo": "23.90847335",
+              "point": "POINT (24490014.631845593 6821017.578715102)",
+              "link": "http://maps.google.com/maps?q=61.48602868,23.90847335&ll=61.48602868,23.90847335=17"
+       },
+       "351": {
+              "name": "KOIRAM\u00c4ENPUISTO",
+              "street": "TASSUNKUJA - HAMPULANKATU",
+              "vol": "50-55",
+              "la": "61.51370175",
+              "lo": "23.78319143",
+              "point": "POINT (24495123.571085 6819656.6724475)",
+              "link": "http://maps.google.com/maps?q=61.51370175,23.78319143&ll=61.51370175,23.78319143=17"
+       },
+       "352": {
+              "name": "RAUHANIEMEN LEIKKIPAIKKA",
+              "street": "RAUHANIEMENTIE",
+              "vol": "Empty",
+              "la": "61.51181027",
+              "lo": "23.77569891",
+              "point": "POINT (24488458.97061 6822756.2570845)",
+              "link": "http://maps.google.com/maps?q=61.51181027,23.77569891&ll=61.51181027,23.77569891=17"
+       },
+       "353": {
+              "name": "LAPINNIEMEN P\u00c4IV\u00c4KOTI",
+              "street": "SOMMERINKATU 7",
+              "vol": "45-50",
+              "la": "61.50714948",
+              "lo": "23.91538628",
+              "point": "POINT (24488059.408622105 6822546.824280198)",
+              "link": "http://maps.google.com/maps?q=61.50714948,23.91538628&ll=61.50714948,23.91538628=17"
+       },
+       "354": {
+              "name": "ATALAN KOULU",
+              "street": "PULKKAKATU 3",
+              "vol": "50-55",
+              "la": "61.46582498",
+              "lo": "23.83661616",
+              "point": "POINT (24495494.938166603 6822009.818937738)",
+              "link": "http://maps.google.com/maps?q=61.46582498,23.83661616&ll=61.46582498,23.83661616=17"
+       },
+       "355": {
+              "name": "NEULASPUISTO",
+              "street": "NEULASKATU - KUUSIKONTORI",
+              "vol": "50-55",
+              "la": "61.44383017",
+              "lo": "23.84554858",
+              "point": "POINT (24491289.470843133 6817412.720982741)",
+              "link": "http://maps.google.com/maps?q=61.44383017,23.84554858&ll=61.44383017,23.84554858=17"
+       },
+       "356": {
+              "name": "PELIPUISTO",
+              "street": "AHVENISRAITTI",
+              "vol": "Empty",
+              "la": "61.44232535",
+              "lo": "23.84698353",
+              "point": "POINT (24491759.88310569 6814960.5377786895)",
+              "link": "http://maps.google.com/maps?q=61.44232535,23.84698353&ll=61.44232535,23.84698353=17"
+       },
+       "357": {
+              "name": "M\u00c4KIPUISTO",
+              "street": "TEEKKARINKATU - AHVENISJ\u00c4RVENTIE",
+              "vol": "Empty",
+              "la": "61.44291755",
+              "lo": "23.86805094",
+              "point": "POINT (24491836.045285 6814792.665661)",
+              "link": "http://maps.google.com/maps?q=61.44291755,23.86805094&ll=61.44291755,23.86805094=17"
+       },
+       "358": {
+              "name": "N\u00c4YTT\u00c4M\u00d6NPUISTO",
+              "street": "ELNA HELLMANIN KATU - SIMO KAARION KATU",
+              "vol": "Empty",
+              "la": "61.48751235",
+              "lo": "23.85909033",
+              "point": "POINT (24492960.196382158 6814856.203553016)",
+              "link": "http://maps.google.com/maps?q=61.48751235,23.85909033&ll=61.48751235,23.85909033=17"
+       },
+       "359": {
+              "name": "KAKARAVAARA",
+              "street": "KUKKURAISENKATU - LAUTAMIEHENKATU",
+              "vol": "50-55",
+              "la": "61.46162407",
+              "lo": "23.89934323",
+              "point": "POINT (24492492.86351213 6819826.697548072)",
+              "link": "http://maps.google.com/maps?q=61.46162407,23.89934323&ll=61.46162407,23.89934323=17"
+       },
+       "360": {
+              "name": "METS\u00c4NIITTY",
+              "street": "JUVANKATU - OJAVAINIONPOLKU",
+              "vol": "Empty",
+              "la": "61.47280688",
+              "lo": "23.77029748",
+              "point": "POINT (24494632.932365 6816937.816363)",
+              "link": "http://maps.google.com/maps?q=61.47280688,23.77029748&ll=61.47280688,23.77029748=17"
+       },
+       "361": {
+              "name": "RAUTAHARKONPUISTO",
+              "street": "VETURIKATU - RAUTAHARKONKATU",
+              "vol": "50-55",
+              "la": "61.46724709",
+              "lo": "23.74630870",
+              "point": "POINT (24487756.553957112 6818201.414689459)",
+              "link": "http://maps.google.com/maps?q=61.46724709,23.74630870&ll=61.46724709,23.74630870=17"
+       },
+       "362": {
+              "name": "H\u00c4RM\u00c4L\u00c4NPUISTO L\u00c4NSI",
+              "street": "LEPOLANTIE - METSOLANKATU",
+              "vol": "55-60",
+              "la": "61.46929965",
+              "lo": "23.73415109",
+              "point": "POINT (24486475.514641114 6817586.590232493)",
+              "link": "http://maps.google.com/maps?q=61.46929965,23.73415109&ll=61.46929965,23.73415109=17"
+       },
+       "363": {
+              "name": "TUOMAANPUISTO",
+              "street": "H\u00c4RM\u00c4L\u00c4NKATU - PERKI\u00d6NKATU",
+              "vol": "50-55",
+              "la": "61.49784826",
+              "lo": "23.80112006",
+              "point": "POINT (24485828.31763268 6817817.901876267)",
+              "link": "http://maps.google.com/maps?q=61.49784826,23.80112006&ll=61.49784826,23.80112006=17"
+       },
+       "364": {
+              "name": "KAINUUNPUISTO",
+              "street": "PELLERVONKATU - V\u00c4IN\u00c4M\u00d6ISENKATU",
+              "vol": "50-55",
+              "la": "61.49076734",
+              "lo": "23.79553474",
+              "point": "POINT (24489407.94517216 6820986.54604826)",
+              "link": "http://maps.google.com/maps?q=61.49076734,23.79553474&ll=61.49076734,23.79553474=17"
+       },
+       "365": {
+              "name": "TURJANPUISTIKKO",
+              "street": "TURJANKATU",
+              "vol": "60-65",
+              "la": "61.49501503",
+              "lo": "23.90538666",
+              "point": "POINT (24489108.00534058 6820198.390718823)",
+              "link": "http://maps.google.com/maps?q=61.49501503,23.90538666&ll=61.49501503,23.90538666=17"
+       },
+       "366": {
+              "name": "K\u00c4PYLEHM\u00c4NPUISTO",
+              "street": "PIETTASENKATU",
+              "vol": "45-50",
+              "la": "61.52938531",
+              "lo": "23.72080972",
+              "point": "POINT (24494960.569285 6820658.319865)",
+              "link": "http://maps.google.com/maps?q=61.52938531,23.72080972&ll=61.52938531,23.72080972=17"
+       },
+       "367": {
+              "name": "PURJEHTIJANPUISTO",
+              "street": "REUHARINKATU - VENEKATU",
+              "vol": "Empty",
+              "la": "61.50201671",
+              "lo": "23.79043034",
+              "point": "POINT (24485145.801432773 6824516.618482597)",
+              "link": "http://maps.google.com/maps?q=61.50201671,23.79043034&ll=61.50201671,23.79043034=17"
+       },
+       "368": {
+              "name": "ILMARIN P\u00c4IV\u00c4KOTI",
+              "street": "PETSAMONKATU 9",
+              "vol": "50-55",
+              "la": "61.51989878",
+              "lo": "23.63934925",
+              "point": "POINT (24488840.12086 6821452.8495535)",
+              "link": "http://maps.google.com/maps?q=61.51989878,23.63934925&ll=61.51989878,23.63934925=17"
+       },
+       "369": {
+              "name": "LAMMINP\u00c4\u00c4N P\u00c4IV\u00c4KOTI",
+              "street": "KIVILEVONTIE 1",
+              "vol": "50-55",
+              "la": "61.52073328",
+              "lo": "23.67127863",
+              "point": "POINT (24480805.910533577 6823480.745633647)",
+              "link": "http://maps.google.com/maps?q=61.52073328,23.67127863&ll=61.52073328,23.67127863=17"
+       },
+       "370": {
+              "name": "LIELAHDEN P\u00c4IV\u00c4KOTI ESIOPETUSRYHM\u00c4",
+              "street": "LIELAHDENKATU 15",
+              "vol": "60-65",
+              "la": "61.52141157",
+              "lo": "23.66993201",
+              "point": "POINT (24482505.673209954 6823564.753446683)",
+              "link": "http://maps.google.com/maps?q=61.52141157,23.66993201&ll=61.52141157,23.66993201=17"
+       },
+       "371": {
+              "name": "LIELAHDEN KOULU",
+              "street": "LIELAHDENKATU-TEIVAALANTIE",
+              "vol": "50-55",
+              "la": "61.51700453",
+              "lo": "23.93124157",
+              "point": "POINT (24482434.390032064 6823640.702014583)",
+              "link": "http://maps.google.com/maps?q=61.51700453,23.93124157&ll=61.51700453,23.93124157=17"
+       },
+       "372": {
+              "name": "TASANTEEN P\u00c4IV\u00c4KOTI",
+              "street": "RUSTHOLLINKATU 8",
+              "vol": "50-55",
+              "la": "61.46311634",
+              "lo": "23.90898436",
+              "point": "POINT (24496340.274340436 6823107.0490509365)",
+              "link": "http://maps.google.com/maps?q=61.46311634,23.90898436&ll=61.46311634,23.90898436=17"
+       },
+       "373": {
+              "name": "KAROSEN KOULU",
+              "street": "JUVANKATU 71",
+              "vol": "Empty",
+              "la": "61.44655922",
+              "lo": "23.83062770",
+              "point": "POINT (24495147.23357513 6817103.354624764)",
+              "link": "http://maps.google.com/maps?q=61.44655922,23.83062770&ll=61.44655922,23.83062770=17"
+       },
+       "374": {
+              "name": "MAIJALANPUISTON P\u00c4IV\u00c4KOTI (MAIJALANPUISTON L\u00c4HIPALVELUKESKUS OY)",
+              "street": "YLIOPPILAANKATU 6 - 8",
+              "vol": "Empty",
+              "la": "61.44654627",
+              "lo": "23.83113913",
+              "point": "POINT (24490964.632217947 6815266.628782834)",
+              "link": "http://maps.google.com/maps?q=61.44654627,23.83113913&ll=61.44654627,23.83113913=17"
+       },
+       "375": {
+              "name": "MAIJALANPUISTON P\u00c4IV\u00c4KOTI (MAIJALANPUISTON L\u00c4HIPALVELUKESKUS OY)",
+              "street": "YLIOPPILAANKATU 6 - 8",
+              "vol": "Empty",
+              "la": "61.44114931",
+              "lo": "23.85132425",
+              "point": "POINT (24490991.911007218 6815265.114417816)",
+              "link": "http://maps.google.com/maps?q=61.44114931,23.85132425&ll=61.44114931,23.85132425=17"
+       },
+       "376": {
+              "name": "HELAPUISTON P\u00c4IV\u00c4KOTI (HELAPUISTON L\u00c4HIPALVELUKESKUS OY)",
+              "street": "ARKKITEHDINKATU 11",
+              "vol": "Empty",
+              "la": "61.46476192",
+              "lo": "23.85564956",
+              "point": "POINT (24492067.338812113 6814661.077342446)",
+              "link": "http://maps.google.com/maps?q=61.46476192,23.85564956&ll=61.46476192,23.85564956=17"
+       },
+       "377": {
+              "name": "LUKONM\u00c4EN P\u00c4IV\u00c4KOTI (KIINTEIST\u00d6 OY LUKONM\u00c4KI)",
+              "street": "TURTOLANKATU 41",
+              "vol": "55-60",
+              "la": "61.47858961",
+              "lo": "23.86082353",
+              "point": "POINT (24492303.940859366 6817291.863255605)",
+              "link": "http://maps.google.com/maps?q=61.47858961,23.86082353&ll=61.47858961,23.86082353=17"
+       },
+       "378": {
+              "name": "JYRK\u00c4NTEENPUISTO",
+              "street": "KANGASALANTIE - VILUSENTIE",
+              "vol": "55-60",
+              "la": "61.46864016",
+              "lo": "23.85825338",
+              "point": "POINT (24492583.0798525 6818832.1770115)",
+              "link": "http://maps.google.com/maps?q=61.46864016,23.85825338&ll=61.46864016,23.85825338=17"
+       },
+       "379": {
+              "name": "MUULANPUISTO",
+              "street": "FINNINM\u00c4ENKATU - YRTTIKATU",
+              "vol": "55-60",
+              "la": "61.49286854",
+              "lo": "23.88778678",
+              "point": "POINT (24492443.702855 6817723.736845)",
+              "link": "http://maps.google.com/maps?q=61.49286854,23.88778678&ll=61.49286854,23.88778678=17"
+       },
+       "380": {
+              "name": "L\u00c4NKINIITYNM\u00c4KI",
+              "street": "L\u00c4NKINIITYNKATU - KARKONM\u00c4ENKATU",
+              "vol": "50-55",
+              "la": "61.48963273",
+              "lo": "23.88405570",
+              "point": "POINT (24494022.7285175 6820420.608436)",
+              "link": "http://maps.google.com/maps?q=61.48963273,23.88405570&ll=61.48963273,23.88405570=17"
+       },
+       "381": {
+              "name": "TORPONPUISTO",
+              "street": "LEINOLANKATU - L\u00c4NKIPUISTONKATU",
+              "vol": "50-55",
+              "la": "61.49956196",
+              "lo": "23.79527340",
+              "point": "POINT (24493823.343455 6820060.3670515)",
+              "link": "http://maps.google.com/maps?q=61.49956196,23.79527340&ll=61.49956196,23.79527340=17"
+       },
+       "382": {
+              "name": "LIISANPUISTO",
+              "street": "TEISKONTIE - SAMMONKATU - KAUPINKATU",
+              "vol": "50-55",
+              "la": "61.47352569",
+              "lo": "23.88363788",
+              "point": "POINT (24489097.161036152 6821178.480304265)",
+              "link": "http://maps.google.com/maps?q=61.47352569,23.88363788&ll=61.47352569,23.88363788=17"
+       },
+       "383": {
+              "name": "LUNDAHLINPUISTO",
+              "street": "HAIHARANKATU - J\u00c4RVIKATU",
+              "vol": "50-55",
+              "la": "61.47095423",
+              "lo": "23.86856263",
+              "point": "POINT (24493797.882387105 6818265.487290733)",
+              "link": "http://maps.google.com/maps?q=61.47095423,23.86856263&ll=61.47095423,23.86856263=17"
+       },
+       "384": {
+              "name": "RIIPUKSENPUISTO",
+              "street": "JUVANKATU - RIIPUKSENKATU",
+              "vol": "50-55",
+              "la": "61.52139973",
+              "lo": "23.66217757",
+              "point": "POINT (24492993.7922975 6817980.458245)",
+              "link": "http://maps.google.com/maps?q=61.52139973,23.66217757&ll=61.52139973,23.66217757=17"
+       },
+       "385": {
+              "name": "VIIRAPUISTO",
+              "street": "POSSIJ\u00c4RVENKATU - MYLLYPURONKATU",
+              "vol": "50-55",
+              "la": "61.50559773",
+              "lo": "23.78876255",
+              "point": "POINT (24482021.708870612 6823641.496776524)",
+              "link": "http://maps.google.com/maps?q=61.50559773,23.78876255&ll=61.50559773,23.78876255=17"
+       },
+       "386": {
+              "name": "SAUNAPUISTO",
+              "street": "VAINIOKATU - POIKKIKATU",
+              "vol": "50-55",
+              "la": "61.45387786",
+              "lo": "23.84047417",
+              "point": "POINT (24488752.6019025 6821852.194579)",
+              "link": "http://maps.google.com/maps?q=61.45387786,23.84047417&ll=61.45387786,23.84047417=17"
+       },
+       "387": {
+              "name": "KEINUPUISTO IT\u00c4",
+              "street": "V\u00c4LKYNRAITTI - TARJANTEENKATU",
+              "vol": "Empty",
+              "la": "61.50686935",
+              "lo": "23.61773693",
+              "point": "POINT (24491491.897864096 6816080.867298079)",
+              "link": "http://maps.google.com/maps?q=61.50686935,23.61773693&ll=61.50686935,23.61773693=17"
+       },
+       "388": {
+              "name": "TESOMAJ\u00c4RVEN KOULU",
+              "street": "RAISKIONKATU 7",
+              "vol": "Empty",
+              "la": "61.50590226",
+              "lo": "23.62452614",
+              "point": "POINT (24479647.18240731 6822035.349255623)",
+              "link": "http://maps.google.com/maps?q=61.50590226,23.62452614&ll=61.50590226,23.62452614=17"
+       },
+       "389": {
+              "name": "TESOMAN P\u00c4IV\u00c4KOTI",
+              "street": "TESOMANKUJA 6",
+              "vol": "45-50",
+              "la": "61.50875209",
+              "lo": "23.67255487",
+              "point": "POINT (24480008.03620019 6821925.480222844)",
+              "link": "http://maps.google.com/maps?q=61.50875209,23.67255487&ll=61.50875209,23.67255487=17"
+       },
+       "390": {
+              "name": "EPIL\u00c4N P\u00c4IV\u00c4KOTI (NAHKATEHTAAN P\u00c4IV\u00c4KODIN LIS\u00c4RYHM\u00c4)",
+              "street": "PISPALAN VALTATIE 110",
+              "vol": "55-60",
+              "la": "61.50706995",
+              "lo": "23.68080619",
+              "point": "POINT (24482566.886691194 6822229.2690432165)",
+              "link": "http://maps.google.com/maps?q=61.50706995,23.68080619&ll=61.50706995,23.68080619=17"
+       },
+       "391": {
+              "name": "HAAPALINNAN TORI",
+              "street": "KRAATARINRAITTI - VUOKONRAITTI",
+              "vol": "Empty",
+              "la": "61.50570968",
+              "lo": "23.68821558",
+              "point": "POINT (24483005.26482 6822039.6382585)",
+              "link": "http://maps.google.com/maps?q=61.50570968,23.68821558&ll=61.50570968,23.68821558=17"
+       },
+       "392": {
+              "name": "HYHKYN KOULU JA HUOVARIN P\u00c4IV\u00c4KOTI",
+              "street": "MALLASTEHTAANKATU 14",
+              "vol": "55-60",
+              "la": "61.50123844",
+              "lo": "23.78070779",
+              "point": "POINT (24483399.0340725 6821886.144514)",
+              "link": "http://maps.google.com/maps?q=61.50123844,23.78070779&ll=61.50123844,23.78070779=17"
+       },
+       "393": {
+              "name": "EMIL AALTOSEN PUISTO",
+              "street": "KYLLIKINKATU - TAMMELAN PUISTOTIE",
+              "vol": "50-55",
+              "la": "61.47403259",
+              "lo": "23.78627415",
+              "point": "POINT (24488322.0909775 6821367.8239345)",
+              "link": "http://maps.google.com/maps?q=61.47403259,23.78627415&ll=61.47403259,23.78627415=17"
+       },
+       "394": {
+              "name": "VIHIOJANPUISTO-JOKIRANTA",
+              "street": "VIINIKANKATU - LAHDENPER\u00c4NKATU",
+              "vol": "50-55",
+              "la": "61.47334898",
+              "lo": "23.79342439",
+              "point": "POINT (24488608.57657404 6818335.10839922)",
+              "link": "http://maps.google.com/maps?q=61.47334898,23.79342439&ll=61.47334898,23.79342439=17"
+       },
+       "395": {
+              "name": "VIHIOJANPUISTO-JOKIRANTA",
+              "street": "VIINIKANKATU - LAHDENPER\u00c4NKATU",
+              "vol": "50-55",
+              "la": "61.48827545",
+              "lo": "23.80719332",
+              "point": "POINT (24488989.436906826 6818257.70045321)",
+              "link": "http://maps.google.com/maps?q=61.48827545,23.80719332&ll=61.48827545,23.80719332=17"
+       },
+       "396": {
+              "name": "J\u00c4RVENSIVUNPUISTO",
+              "street": "IIDESRANTA - KUIKANKATU",
+              "vol": "55-60",
+              "la": "61.48860627",
+              "lo": "23.78290857",
+              "point": "POINT (24489728.24315841 6819918.810078259)",
+              "link": "http://maps.google.com/maps?q=61.48860627,23.78290857&ll=61.48860627,23.78290857=17"
+       },
+       "397": {
+              "name": "V\u00c4LISOLA",
+              "street": "V\u00c4LISOLA - PUROPOLKU",
+              "vol": "55-60",
+              "la": "61.52842708",
+              "lo": "23.67554810",
+              "point": "POINT (24488434.601078603 6819959.74189883)",
+              "link": "http://maps.google.com/maps?q=61.52842708,23.67554810&ll=61.52842708,23.67554810=17"
+       },
+       "398": {
+              "name": "POHTOLANPUISTO",
+              "street": "KUKKOLANKATU - POHTOLANKATU",
+              "vol": "45-50",
+              "la": "61.52838177",
+              "lo": "23.65689619",
+              "point": "POINT (24482737.15815 6824420.988079)",
+              "link": "http://maps.google.com/maps?q=61.52838177,23.65689619&ll=61.52838177,23.65689619=17"
+       },
+       "399": {
+              "name": "RYYDYNPUISTO",
+              "street": "TEIVAALANTIE",
+              "vol": "50-55",
+              "la": "61.48937699",
+              "lo": "23.78446961",
+              "point": "POINT (24481744.7407825 6824421.020803)",
+              "link": "http://maps.google.com/maps?q=61.48937699,23.78446961&ll=61.48937699,23.78446961=17"
+       },
+       "400": {
+              "name": "TELK\u00c4NPUISTO",
+              "street": "PUROPOLKU - NARVANRAITTI",
+              "vol": "50-55",
+              "la": "61.46307280",
+              "lo": "23.83924102",
+              "point": "POINT (24488518.0479725 6820045.353418)",
+              "link": "http://maps.google.com/maps?q=61.46307280,23.83924102&ll=61.46307280,23.83924102=17"
+       },
+       "401": {
+              "name": "HALLILAN KOULU/ PVK/ NEUVOLA",
+              "street": "HAVUMETS\u00c4NKATU 1",
+              "vol": "50-55",
+              "la": "61.46952887",
+              "lo": "23.88908784",
+              "point": "POINT (24491428.655116078 6817105.6793577215)",
+              "link": "http://maps.google.com/maps?q=61.46952887,23.88908784&ll=61.46952887,23.88908784=17"
+       },
+       "402": {
+              "name": "HAIHARAN KARTANO JA MUSEO",
+              "street": "PIKKULAMMENKATU - HAIHARANKATU",
+              "vol": "45-50",
+              "la": "61.469528874",
+              "lo": "23.889087838",
+              "point": "POINT (24494087.608157136 6817819.588253316)",
+              "link": "http://maps.google.com/maps?q=61.469528874,23.889087838&ll=61.469528874,23.889087838=17"
+       }
+}

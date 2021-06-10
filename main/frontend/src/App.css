@@ -135,21 +135,22 @@ h1 {
   border: none !important;
   border-radius: 25px !important;
   background-color: #FFFFFF;
+  display: flex;
+  flex-direction: row;
 }
 
 .custom-card-vol-marker-container {
   width: 2em;
-  float: left;
+  margin-right: 0.8em;
 }
 
 .custom-card-vol-marker {
   width: 2em;
-  margin-right: 2em;
 }
 
 .custom-card-content-container {
-  height: 100%;
-  float: left;
+  width:100%;
+  height:100%;
 }
 
 .custom-card-name {
@@ -170,6 +171,7 @@ h1 {
   font-size: 25px !important;
   text-decoration: none !important;
   color: #5A00BA !important;
+  margin-right: 1em;
 }
 
 .custom-card-link:hover {

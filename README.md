@@ -65,8 +65,10 @@ Esivaatiumus: Asenna Node.js koneellesi osoitteesta https://nodejs.org/en/downlo
 
 1. Mene komentokehotteessa (cmd tai windows powershell tjsp) projektin \frontend\ hakemistoon (folder) 
 2. Frontendin readmessa on lyhyet komennot ja selitykset sen ajamiseen. Aja kuitenkin ensin komento "npm install"
-3. Aja "npm start" selainikkuna frontendiin aukeaa
-4. Kun haluat lopettaa, paina "ctrl-c" komentokehoitteessa ja sulje selainikkuna
+3. HOX! Jos tulee pitkä lista erroria mikä koskee 'chokidar' moduulia, niin aja koment0 "npm update"
+4. Aja komento "npm i react-leaflet@3.1.0 @react-leaflet/core@1.0.2"
+5. Aja "npm start" selainikkuna frontendiin aukeaa
+6. Kun haluat lopettaa, paina "ctrl-c" komentokehoitteessa ja sulje selainikkuna
 
 Backend Serverin pyörittäminen (Windows)
 
