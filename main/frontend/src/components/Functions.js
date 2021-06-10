@@ -37,6 +37,22 @@ export const parseData = (data) => {
         );
       }
     }
+  } else if (data.includes(".")) {
+    data = data.split(".");
+    for (let i = 0; i < data.length; i++){
+      if (i < 1) {
+        parsedData.push(
+          data[i].trim()[0].toUpperCase() +
+            data[i].trim().slice(1).toLowerCase()
+        );
+      } else {
+        parsedData.push(
+          "." +
+            data[i].trim()[0].toUpperCase() +
+            data[i].trim().slice(1).toLowerCase()
+        );
+      }
+    }
   } else {
     parsedData.push(data[0].toUpperCase() + data.slice(1).toLowerCase());
   }
